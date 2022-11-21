@@ -1,6 +1,7 @@
 {
     "BBL Elite Black (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 1,
         "team": "BBL Elite Black (2027)",
         "state": "NJ",
@@ -13,7 +14,8 @@
         "sched": 92.72
     },
     "Team Ten (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 2,
         "team": "Team Ten (2027)",
         "state": "PA",
@@ -26,7 +28,8 @@
         "sched": 94.03
     },
     "LI Express Haugen (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 3,
         "team": "LI Express Haugen (2027)",
         "state": "NY",
@@ -39,7 +42,8 @@
         "sched": 93.97
     },
     "Baltimore Crabs (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 4,
         "team": "Baltimore Crabs (2027)",
         "state": "MD",
@@ -52,7 +56,8 @@
         "sched": 90.35
     },
     "Shore 2 Shore Grizzlies (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 5,
         "team": "Shore 2 Shore Grizzlies (2027)",
         "state": "NY",
@@ -65,7 +70,8 @@
         "sched": 93.19
     },
     "3D New England Red (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 6,
         "team": "3D New England Red (2027)",
         "state": "MA",
@@ -78,7 +84,8 @@
         "sched": 91.17
     },
     "Mesa Orange PA (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 7,
         "team": "Mesa Orange PA (2027)",
         "state": "PA",
@@ -91,7 +98,8 @@
         "sched": 93.07
     },
     "Red Hots National (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 8,
         "team": "Red Hots National (2027)",
         "state": "PA",
@@ -104,7 +112,8 @@
         "sched": 88.6
     },
     "Mad Dog National Black (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 9,
         "team": "Mad Dog National Black (2027)",
         "state": "",
@@ -117,7 +126,8 @@
         "sched": 92.9
     },
     "Red Hots LC - AA (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 10,
         "team": "Red Hots LC - AA (2027)",
         "state": "PA",
@@ -130,7 +140,8 @@
         "sched": 92.55
     },
     "Next Level Blue (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 11,
         "team": "Next Level Blue (2027)",
         "state": "MD",
@@ -143,7 +154,8 @@
         "sched": 91.53
     },
     "Texas Cannons (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 12,
         "team": "Texas Cannons (2027)",
         "state": "TX",
@@ -156,7 +168,8 @@
         "sched": 92.79
     },
     "Team KC Blue (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 13,
         "team": "Team KC Blue (2027)",
         "state": "MO",
@@ -169,7 +182,8 @@
         "sched": 92.73
     },
     "New Jersey Express AA (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 14,
         "team": "New Jersey Express AA (2027)",
         "state": "NJ",
@@ -182,7 +196,8 @@
         "sched": 90.16
     },
     "Madlax Capital (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 15,
         "team": "Madlax Capital (2027)",
         "state": "VA",
@@ -195,7 +210,8 @@
         "sched": 94.51
     },
     "No Excuse Memphis (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 16,
         "team": "No Excuse Memphis (2027)",
         "state": "TN",
@@ -208,7 +224,8 @@
         "sched": 90.14
     },
     "Mad Dog West Elite (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 17,
         "team": "Mad Dog West Elite (2027)",
         "state": "CA",
@@ -221,7 +238,8 @@
         "sched": 89.7
     },
     "Team 91 Carolina (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 18,
         "team": "Team 91 Carolina (2027)",
         "state": "NC",
@@ -234,7 +252,8 @@
         "sched": 89.79
     },
     "Team 91 Charlotte Blue (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 19,
         "team": "Team 91 Charlotte Blue (2027)",
         "state": "NC",
@@ -247,7 +266,8 @@
         "sched": 86.43
     },
     "941 Monsters 14U (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 20,
         "team": "941 Monsters 14U (2027)",
         "state": "",
@@ -260,7 +280,8 @@
         "sched": 87.17
     },
     "Iron Horse Dallas (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 21,
         "team": "Iron Horse Dallas (2027)",
         "state": "TX",
@@ -273,7 +294,8 @@
         "sched": 90.76
     },
     "Laxachusetts Red (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 22,
         "team": "Laxachusetts Red (2027)",
         "state": "MA",
@@ -286,7 +308,8 @@
         "sched": 83.09
     },
     "Omnia AA (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 23,
         "team": "Omnia AA (2027)",
         "state": "MI",
@@ -299,7 +322,8 @@
         "sched": 94.37
     },
     "Leading Edge (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 24,
         "team": "Leading Edge (2027)",
         "state": "NJ",
@@ -312,7 +336,8 @@
         "sched": 90.07
     },
     "Prime Time (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 25,
         "team": "Prime Time (2027)",
         "state": "NY",
@@ -325,7 +350,8 @@
         "sched": 90.67
     },
     "Thunder Blue (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 26,
         "team": "Thunder Blue (2027)",
         "state": "GA",
@@ -338,7 +364,8 @@
         "sched": 88.93
     },
     "Westchester Predators AA (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 27,
         "team": "Westchester Predators AA (2027)",
         "state": "NY",
@@ -351,7 +378,8 @@
         "sched": 90.72
     },
     "Express North Black (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 28,
         "team": "Express North Black (2027)",
         "state": "CT",
@@ -364,7 +392,8 @@
         "sched": 94.67
     },
     "Laxachusetts White (2027) ": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 29,
         "team": "Laxachusetts White (2027) ",
         "state": "MA",
@@ -377,7 +406,8 @@
         "sched": 84.86
     },
     "Headlines Navy (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 30,
         "team": "Headlines Navy (2027)",
         "state": "OH",
@@ -390,7 +420,8 @@
         "sched": 87.14
     },
     "FCA MD (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 31,
         "team": "FCA MD (2027)",
         "state": "MD",
@@ -403,7 +434,8 @@
         "sched": 91.81
     },
     "Sweetlax Upstate NY (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 32,
         "team": "Sweetlax Upstate NY (2027)",
         "state": "NY",
@@ -416,7 +448,8 @@
         "sched": 92.96
     },
     "Stealth Lacrosse Florida Smoke (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 33,
         "team": "Stealth Lacrosse Florida Smoke (2027)",
         "state": "FL",
@@ -429,7 +462,8 @@
         "sched": 87.38
     },
     "True Illinois Premier A (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 34,
         "team": "True Illinois Premier A (2027)",
         "state": "IL",
@@ -442,7 +476,8 @@
         "sched": 87.09
     },
     "Team 91 Maryland (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 35,
         "team": "Team 91 Maryland (2027)",
         "state": "MD",
@@ -455,7 +490,8 @@
         "sched": 91.17
     },
     "Richmond Hawks AA (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 36,
         "team": "Richmond Hawks AA (2027)",
         "state": "VA",
@@ -468,7 +504,8 @@
         "sched": 90.59
     },
     "Syracuse Orange Crush (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 37,
         "team": "Syracuse Orange Crush (2027)",
         "state": "NY",
@@ -481,7 +518,8 @@
         "sched": 89.21
     },
     "Patriot Elite Chrome (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 38,
         "team": "Patriot Elite Chrome (2027)",
         "state": "NJ",
@@ -494,7 +532,8 @@
         "sched": 90.35
     },
     "3D Garden State AA (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 39,
         "team": "3D Garden State AA (2027)",
         "state": "NJ",
@@ -507,7 +546,8 @@
         "sched": 84.73
     },
     "NXT Black (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 40,
         "team": "NXT Black (2027)",
         "state": "PA",
@@ -520,7 +560,8 @@
         "sched": 89.76
     },
     "True Indiana AA (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 41,
         "team": "True Indiana AA (2027)",
         "state": "IN",
@@ -533,7 +574,8 @@
         "sched": 89.2
     },
     "True Chesapeake (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 42,
         "team": "True Chesapeake (2027)",
         "state": "MD",
@@ -546,7 +588,8 @@
         "sched": 87.25
     },
     "STEPS Elite (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 43,
         "team": "STEPS Elite (2027)",
         "state": "NJ",
@@ -559,7 +602,8 @@
         "sched": 85.82
     },
     "LI Express Channy Orange (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 44,
         "team": "LI Express Channy Orange (2027)",
         "state": "NY",
@@ -572,7 +616,8 @@
         "sched": 89.4
     },
     "3d Gulf Coast 2027": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 45,
         "team": "3d Gulf Coast 2027",
         "state": "FL",
@@ -585,7 +630,8 @@
         "sched": 86.04
     },
     "Red Hots Black (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 46,
         "team": "Red Hots Black (2027)",
         "state": "PA",
@@ -598,7 +644,8 @@
         "sched": 85.23
     },
     "3D Georgia Black (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 47,
         "team": "3D Georgia Black (2027)",
         "state": "GA",
@@ -611,7 +658,8 @@
         "sched": 82.94
     },
     "Littlenecks AA (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 48,
         "team": "Littlenecks AA (2027)",
         "state": "MA",
@@ -624,7 +672,8 @@
         "sched": 85.91
     },
     "Laxachusetts Green (2027) ": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 49,
         "team": "Laxachusetts Green (2027) ",
         "state": "MA",
@@ -637,7 +686,8 @@
         "sched": 84.12
     },
     "Charleston Elite (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 50,
         "team": "Charleston Elite (2027)",
         "state": "SC",
@@ -650,7 +700,8 @@
         "sched": 88.77
     },
     "Riot Chaos (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 51,
         "team": "Riot Chaos (2027)",
         "state": "NJ",
@@ -663,7 +714,8 @@
         "sched": 89.28
     },
     "PVAA Jaws (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 52,
         "team": "PVAA Jaws (2027)",
         "state": "FL",
@@ -676,7 +728,8 @@
         "sched": 84.19
     },
     "Team 11 (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 53,
         "team": "Team 11 (2027)",
         "state": "PA",
@@ -689,7 +742,8 @@
         "sched": 93.43
     },
     "Dominate Lacrosse (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 54,
         "team": "Dominate Lacrosse (2027)",
         "state": "MI",
@@ -702,7 +756,8 @@
         "sched": 85.96
     },
     "Team Carolina Red (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 55,
         "team": "Team Carolina Red (2027)",
         "state": "NC",
@@ -715,7 +770,8 @@
         "sched": 87.13
     },
     "West Coast Starz Navy (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 56,
         "team": "West Coast Starz Navy (2027)",
         "state": "CA",
@@ -728,7 +784,8 @@
         "sched": 86.19
     },
     "True Raleigh (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 57,
         "team": "True Raleigh (2027)",
         "state": "NC",
@@ -741,7 +798,8 @@
         "sched": 81.97
     },
     "LI Legacy Gators (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 58,
         "team": "LI Legacy Gators (2027)",
         "state": "NY",
@@ -754,7 +812,8 @@
         "sched": 92.19
     },
     "Mad Dog National Gold (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 59,
         "team": "Mad Dog National Gold (2027)",
         "state": "",
@@ -767,7 +826,8 @@
         "sched": 90.92
     },
     "3d New England White (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 60,
         "team": "3d New England White (2027)",
         "state": "MA",
@@ -780,7 +840,8 @@
         "sched": 86.95
     },
     "Philadelphia Freedom Red (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 61,
         "team": "Philadelphia Freedom Red (2027)",
         "state": "PA",
@@ -793,7 +854,8 @@
         "sched": 85.87
     },
     "Hammers Elite (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 62,
         "team": "Hammers Elite (2027)",
         "state": "VA",
@@ -806,7 +868,8 @@
         "sched": 85.07
     },
     "SoCal Express (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 63,
         "team": "SoCal Express (2027)",
         "state": "CA",
@@ -819,7 +882,8 @@
         "sched": 86.64
     },
     "True MN AA (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 64,
         "team": "True MN AA (2027)",
         "state": "MN",
@@ -832,7 +896,8 @@
         "sched": 89.36
     },
     "Creators Game (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 65,
         "team": "Creators Game (2027)",
         "state": "FL",
@@ -845,7 +910,8 @@
         "sched": 85.6
     },
     "Team 91 Georgia (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 66,
         "team": "Team 91 Georgia (2027)",
         "state": "GA",
@@ -858,7 +924,8 @@
         "sched": 89.42
     },
     "Team 91 Tristate Select (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 67,
         "team": "Team 91 Tristate Select (2027)",
         "state": "NY",
@@ -871,7 +938,8 @@
         "sched": 85.81
     },
     "Team Maryland White (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 68,
         "team": "Team Maryland White (2027)",
         "state": "MD",
@@ -884,7 +952,8 @@
         "sched": 86.34
     },
     "Red Hots - White (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 69,
         "team": "Red Hots - White (2027)",
         "state": "PA",
@@ -897,7 +966,8 @@
         "sched": 82.17
     },
     "DC Express Black (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 70,
         "team": "DC Express Black (2027)",
         "state": "DC",
@@ -910,7 +980,8 @@
         "sched": 93.07
     },
     "3D Upstate (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 71,
         "team": "3D Upstate (2027)",
         "state": "NY",
@@ -923,7 +994,8 @@
         "sched": 86.78
     },
     "Impulse (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 72,
         "team": "Impulse (2027)",
         "state": "OK",
@@ -936,7 +1008,8 @@
         "sched": 86.56
     },
     "Gorilla Lacrosse Club (VA)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 73,
         "team": "Gorilla Lacrosse Club (VA)",
         "state": "VA",
@@ -949,7 +1022,8 @@
         "sched": 84.52
     },
     "Burning River Maroon AA (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 74,
         "team": "Burning River Maroon AA (2027)",
         "state": "OH",
@@ -962,7 +1036,8 @@
         "sched": 85.43
     },
     "Blak Widow (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 75,
         "team": "Blak Widow (2027)",
         "state": "PA",
@@ -975,7 +1050,8 @@
         "sched": 86.04
     },
     "Red Devil (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 76,
         "team": "Red Devil (2027)",
         "state": "NC",
@@ -988,7 +1064,8 @@
         "sched": 86.37
     },
     "Maryland Cannons (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 77,
         "team": "Maryland Cannons (2027)",
         "state": "MD",
@@ -1001,7 +1078,8 @@
         "sched": 84.6
     },
     "CAROLINA MINERS (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 78,
         "team": "CAROLINA MINERS (2027)",
         "state": "NC",
@@ -1014,7 +1092,8 @@
         "sched": 90.47
     },
     "BBL Shore (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 79,
         "team": "BBL Shore (2027)",
         "state": "NJ",
@@ -1027,7 +1106,8 @@
         "sched": 88.15
     },
     "ProStart (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 80,
         "team": "ProStart (2027)",
         "state": "MD",
@@ -1040,7 +1120,8 @@
         "sched": 80.53
     },
     "SouthShore (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 81,
         "team": "SouthShore (2027)",
         "state": "NJ",
@@ -1053,7 +1134,8 @@
         "sched": 88.47
     },
     "Tommyknockers (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 82,
         "team": "Tommyknockers (2027)",
         "state": "CO",
@@ -1066,7 +1148,8 @@
         "sched": 79.15
     },
     "Alcatraz Outlaws (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 83,
         "team": "Alcatraz Outlaws (2027)",
         "state": "CA",
@@ -1079,7 +1162,8 @@
         "sched": 85.75
     },
     "Igloo Kodiak Rush (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 84,
         "team": "Igloo Kodiak Rush (2027)",
         "state": "NY",
@@ -1092,7 +1176,8 @@
         "sched": 91.29
     },
     "Express East 27/28": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 85,
         "team": "Express East 27/28",
         "state": "",
@@ -1105,7 +1190,8 @@
         "sched": 83.37
     },
     "True Illinois Black AA (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 86,
         "team": "True Illinois Black AA (2027)",
         "state": "IL",
@@ -1118,7 +1204,8 @@
         "sched": 84.37
     },
     "Cape Fear Shamrocks (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 87,
         "team": "Cape Fear Shamrocks (2027)",
         "state": "NC",
@@ -1131,7 +1218,8 @@
         "sched": 86.51
     },
     "BBL Helix (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 88,
         "team": "BBL Helix (2027)",
         "state": "NJ",
@@ -1144,7 +1232,8 @@
         "sched": 84.62
     },
     "BBL North (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 89,
         "team": "BBL North (2027)",
         "state": "NJ",
@@ -1157,7 +1246,8 @@
         "sched": 86.57
     },
     "LI Rebels LC United (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 90,
         "team": "LI Rebels LC United (2027)",
         "state": "NY",
@@ -1170,7 +1260,8 @@
         "sched": 85.64
     },
     "Commonwealth Kings (2027/28)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 91,
         "team": "Commonwealth Kings (2027/28)",
         "state": "KY",
@@ -1183,7 +1274,8 @@
         "sched": 83.9
     },
     "Littlenecks A (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 92,
         "team": "Littlenecks A (2027)",
         "state": "MA",
@@ -1196,7 +1288,8 @@
         "sched": 80.11
     },
     "TRUE LKN Outlaws (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 93,
         "team": "TRUE LKN Outlaws (2027)",
         "state": "NC",
@@ -1209,7 +1302,8 @@
         "sched": 86.94
     },
     "True NJ (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 94,
         "team": "True NJ (2027)",
         "state": "NJ",
@@ -1222,7 +1316,8 @@
         "sched": 85.05
     },
     "True Baltimore Black (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 95,
         "team": "True Baltimore Black (2027)",
         "state": "MD",
@@ -1235,7 +1330,8 @@
         "sched": 86.86
     },
     "Westside Black (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 96,
         "team": "Westside Black (2027)",
         "state": "MI",
@@ -1248,7 +1344,8 @@
         "sched": 85.35
     },
     "460 Lacrosse Black (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 97,
         "team": "460 Lacrosse Black (2027)",
         "state": "",
@@ -1261,7 +1358,8 @@
         "sched": 83.43
     },
     "Mad Dog Shore Black (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 98,
         "team": "Mad Dog Shore Black (2027)",
         "state": "NJ",
@@ -1274,7 +1372,8 @@
         "sched": 85.51
     },
     "Alpha MKE Gold (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 99,
         "team": "Alpha MKE Gold (2027)",
         "state": "WI",
@@ -1287,7 +1386,8 @@
         "sched": 85.12
     },
     "Mad Dog North Black (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 100,
         "team": "Mad Dog North Black (2027)",
         "state": "NJ",
@@ -1300,7 +1400,8 @@
         "sched": 83.73
     },
     "Evolve Elite Hiltz (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 101,
         "team": "Evolve Elite Hiltz (2027)",
         "state": "ON",
@@ -1313,7 +1414,8 @@
         "sched": 84.08
     },
     "True Pittsburgh (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 102,
         "team": "True Pittsburgh (2027)",
         "state": "PA",
@@ -1326,7 +1428,8 @@
         "sched": 85.34
     },
     "2Way North Black (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 103,
         "team": "2Way North Black (2027)",
         "state": "CT",
@@ -1339,7 +1442,8 @@
         "sched": 87
     },
     "LA Berserkers (2027/28)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 104,
         "team": "LA Berserkers (2027/28)",
         "state": "CA",
@@ -1352,7 +1456,8 @@
         "sched": 84.9
     },
     "Recon 2027 Jacobs": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 105,
         "team": "Recon 2027 Jacobs",
         "state": "NY",
@@ -1365,7 +1470,8 @@
         "sched": 88.37
     },
     "NY Reign (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 106,
         "team": "NY Reign (2027)",
         "state": "NY",
@@ -1378,7 +1484,8 @@
         "sched": 83.31
     },
     "NJLC (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 107,
         "team": "NJLC (2027)",
         "state": "NJ",
@@ -1391,7 +1498,8 @@
         "sched": 82.42
     },
     "Jersey Thunder West (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 108,
         "team": "Jersey Thunder West (2027)",
         "state": "NJ",
@@ -1404,7 +1512,8 @@
         "sched": 81.71
     },
     "Team ONE Academy (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 109,
         "team": "Team ONE Academy (2027)",
         "state": "IL",
@@ -1417,7 +1526,8 @@
         "sched": 83.46
     },
     "Trailblazers (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 110,
         "team": "Trailblazers (2027)",
         "state": "CA",
@@ -1430,7 +1540,8 @@
         "sched": 84.76
     },
     "NCF Triad Elite Red (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 111,
         "team": "NCF Triad Elite Red (2027)",
         "state": "NC",
@@ -1443,7 +1554,8 @@
         "sched": 85.63
     },
     "Stars and Stripes (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 112,
         "team": "Stars and Stripes (2027)",
         "state": "GA",
@@ -1456,7 +1568,8 @@
         "sched": 83.52
     },
     "Team 91 LI Fury (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 113,
         "team": "Team 91 LI Fury (2027)",
         "state": "NY",
@@ -1469,7 +1582,8 @@
         "sched": 84.19
     },
     "Predators MD (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 114,
         "team": "Predators MD (2027)",
         "state": "MD",
@@ -1482,7 +1596,8 @@
         "sched": 84.25
     },
     "3D New England blue (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 115,
         "team": "3D New England blue (2027)",
         "state": "MA",
@@ -1495,7 +1610,8 @@
         "sched": 82.44
     },
     "Team Eighteen (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 116,
         "team": "Team Eighteen (2027)",
         "state": "",
@@ -1508,7 +1624,8 @@
         "sched": 85.09
     },
     "FLX CHAOS (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 117,
         "team": "FLX CHAOS (2027)",
         "state": "NY",
@@ -1521,7 +1638,8 @@
         "sched": 84.81
     },
     "BLU BHM (2027/28)\t": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 118,
         "team": "BLU BHM (2027/28)\t",
         "state": "AL",
@@ -1534,7 +1652,8 @@
         "sched": 86.91
     },
     "Albany Stags (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 119,
         "team": "Albany Stags (2027)",
         "state": "NY",
@@ -1547,7 +1666,8 @@
         "sched": 85.09
     },
     "S.O.U.L. - Rising Stars 27/28": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 120,
         "team": "S.O.U.L. - Rising Stars 27/28",
         "state": "",
@@ -1560,7 +1680,8 @@
         "sched": 84.64
     },
     "HEADstrong Quakers (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 121,
         "team": "HEADstrong Quakers (2027)",
         "state": "PA",
@@ -1573,7 +1694,8 @@
         "sched": 84.42
     },
     "Coastal Lacrosse Academy Orange (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 122,
         "team": "Coastal Lacrosse Academy Orange (2027)",
         "state": "DE",
@@ -1586,7 +1708,8 @@
         "sched": 82.72
     },
     "Igloo Glacier Edge (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 123,
         "team": "Igloo Glacier Edge (2027)",
         "state": "NY",
@@ -1599,7 +1722,8 @@
         "sched": 85.57
     },
     "Iron Horse Houston (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 124,
         "team": "Iron Horse Houston (2027)",
         "state": "TX",
@@ -1612,7 +1736,8 @@
         "sched": 81.91
     },
     "NXT Silver (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 125,
         "team": "NXT Silver (2027)",
         "state": "PA",
@@ -1625,7 +1750,8 @@
         "sched": 81.4
     },
     "Carolina Mavericks (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 126,
         "team": "Carolina Mavericks (2027)",
         "state": "NC",
@@ -1638,7 +1764,8 @@
         "sched": 82.5
     },
     "True Illinois Black A (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 127,
         "team": "True Illinois Black A (2027)",
         "state": "IL",
@@ -1651,7 +1778,8 @@
         "sched": 86.26
     },
     "Tampa Bayhawks (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 128,
         "team": "Tampa Bayhawks (2027)",
         "state": "",
@@ -1664,7 +1792,8 @@
         "sched": 87.24
     },
     "Team Maryland Red (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 129,
         "team": "Team Maryland Red (2027)",
         "state": "MD",
@@ -1677,7 +1806,8 @@
         "sched": 85.73
     },
     "Harvest (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 130,
         "team": "Harvest (2027)",
         "state": "NY",
@@ -1690,7 +1820,8 @@
         "sched": 87.81
     },
     "Chaos TX (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 131,
         "team": "Chaos TX (2027)",
         "state": "TX",
@@ -1703,7 +1834,8 @@
         "sched": 85.4
     },
     "True Cincinnati (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 132,
         "team": "True Cincinnati (2027)",
         "state": "OH",
@@ -1716,7 +1848,8 @@
         "sched": 83.33
     },
     "Gorilla Lacrosse 27/28": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 133,
         "team": "Gorilla Lacrosse 27/28",
         "state": "MA",
@@ -1729,7 +1862,8 @@
         "sched": 79.46
     },
     "Team Turnpike (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 134,
         "team": "Team Turnpike (2027)",
         "state": "NJ",
@@ -1742,7 +1876,8 @@
         "sched": 81.84
     },
     "Ridgewood Maroons 7 (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 135,
         "team": "Ridgewood Maroons 7 (2027)",
         "state": "NJ",
@@ -1755,7 +1890,8 @@
         "sched": 82.99
     },
     "NH Tomahawks Purple (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 136,
         "team": "NH Tomahawks Purple (2027)",
         "state": "NH",
@@ -1768,7 +1904,8 @@
         "sched": 89.02
     },
     "Headlines Orange (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 137,
         "team": "Headlines Orange (2027)",
         "state": "OH",
@@ -1781,7 +1918,8 @@
         "sched": 82.54
     },
     "Houlagans Green (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 138,
         "team": "Houlagans Green (2027)",
         "state": "NH",
@@ -1794,7 +1932,8 @@
         "sched": 84.37
     },
     "Coyotes Blue MA (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 139,
         "team": "Coyotes Blue MA (2027)",
         "state": "MA",
@@ -1807,7 +1946,8 @@
         "sched": 85.86
     },
     "RI Bulldogs (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 140,
         "team": "RI Bulldogs (2027)",
         "state": "RI",
@@ -1820,7 +1960,8 @@
         "sched": 86.82
     },
     "Baltimore Breakers (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 141,
         "team": "Baltimore Breakers (2027)",
         "state": "MD",
@@ -1833,7 +1974,8 @@
         "sched": 80.84
     },
     "HGR Blue (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 142,
         "team": "HGR Blue (2027)",
         "state": "MA",
@@ -1846,7 +1988,8 @@
         "sched": 86.25
     },
     "Sarasota Seahawks (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 143,
         "team": "Sarasota Seahawks (2027)",
         "state": "FL",
@@ -1859,7 +2002,8 @@
         "sched": 85.02
     },
     "802 Lacrosse Green (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 144,
         "team": "802 Lacrosse Green (2027)",
         "state": "VT",
@@ -1872,7 +2016,8 @@
         "sched": 85.63
     },
     "Blue Star White (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 145,
         "team": "Blue Star White (2027)",
         "state": "NJ",
@@ -1885,7 +2030,8 @@
         "sched": 81.27
     },
     "Express North Orange (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 146,
         "team": "Express North Orange (2027)",
         "state": "CT",
@@ -1898,7 +2044,8 @@
         "sched": 85.96
     },
     "Booth Indians (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 147,
         "team": "Booth Indians (2027)",
         "state": "TX",
@@ -1911,7 +2058,8 @@
         "sched": 81.96
     },
     "BIRMINGHAM BANDITS (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 148,
         "team": "BIRMINGHAM BANDITS (2027)",
         "state": "AL",
@@ -1924,7 +2072,8 @@
         "sched": 86.23
     },
     "Riot Mayhem (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 149,
         "team": "Riot Mayhem (2027)",
         "state": "NJ",
@@ -1937,7 +2086,8 @@
         "sched": 83.25
     },
     "Brothers United U14 A (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 150,
         "team": "Brothers United U14 A (2027)",
         "state": "FL",
@@ -1950,7 +2100,8 @@
         "sched": 83.94
     },
     "Sidewinders MD Volt (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 151,
         "team": "Sidewinders MD Volt (2027)",
         "state": "MD",
@@ -1963,7 +2114,8 @@
         "sched": 83.14
     },
     "Team CT Devine (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 152,
         "team": "Team CT Devine (2027)",
         "state": "CT",
@@ -1976,7 +2128,8 @@
         "sched": 82.9
     },
     "Brotherhood Lacrosse (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 153,
         "team": "Brotherhood Lacrosse (2027)",
         "state": "NJ",
@@ -1989,7 +2142,8 @@
         "sched": 79.38
     },
     "Evolution Lacrosse Elite Team (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 154,
         "team": "Evolution Lacrosse Elite Team (2027)",
         "state": "NJ",
@@ -2002,7 +2156,8 @@
         "sched": 81.09
     },
     "Mad Dog Shore Red (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 155,
         "team": "Mad Dog Shore Red (2027)",
         "state": "NJ",
@@ -2015,7 +2170,8 @@
         "sched": 83.73
     },
     "Reapers (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 156,
         "team": "Reapers (2027)",
         "state": "",
@@ -2028,7 +2184,8 @@
         "sched": 84.08
     },
     "ATLANTA EMPIRE (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 157,
         "team": "ATLANTA EMPIRE (2027)",
         "state": "GA",
@@ -2041,7 +2198,8 @@
         "sched": 85.55
     },
     "Madlax Capital - DMV (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 158,
         "team": "Madlax Capital - DMV (2027)",
         "state": "VA",
@@ -2054,7 +2212,8 @@
         "sched": 85.96
     },
     "Valley Select (2027/28)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 159,
         "team": "Valley Select (2027/28)",
         "state": "VA",
@@ -2067,7 +2226,8 @@
         "sched": 83.3
     },
     "Brothers United U14 B (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 160,
         "team": "Brothers United U14 B (2027)",
         "state": "FL",
@@ -2080,7 +2240,8 @@
         "sched": 85.33
     },
     "Palms (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 161,
         "team": "Palms (2027)",
         "state": "",
@@ -2093,7 +2254,8 @@
         "sched": 86.25
     },
     "4 Leaf Orange (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 162,
         "team": "4 Leaf Orange (2027)",
         "state": "NH",
@@ -2106,7 +2268,8 @@
         "sched": 84.38
     },
     "VABeach Hawks (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 163,
         "team": "VABeach Hawks (2027)",
         "state": "VA",
@@ -2119,7 +2282,8 @@
         "sched": 85.87
     },
     "SJ Shamrocks (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 164,
         "team": "SJ Shamrocks (2027)",
         "state": "NJ",
@@ -2132,7 +2296,8 @@
         "sched": 81.87
     },
     "MDLL Select 2027": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 165,
         "team": "MDLL Select 2027",
         "state": "MD",
@@ -2145,7 +2310,8 @@
         "sched": 83.97
     },
     "Stickstar:Texas United (2027-28)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 166,
         "team": "Stickstar:Texas United (2027-28)",
         "state": "TX",
@@ -2158,7 +2324,8 @@
         "sched": 86.58
     },
     "Fusion VA (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 167,
         "team": "Fusion VA (2027)",
         "state": "VA",
@@ -2171,7 +2338,8 @@
         "sched": 83.58
     },
     "Westchester Predators Black (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 168,
         "team": "Westchester Predators Black (2027)",
         "state": "NY",
@@ -2184,7 +2352,8 @@
         "sched": 82.02
     },
     "Long Island Rush Panthers (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 169,
         "team": "Long Island Rush Panthers (2027)",
         "state": "NY",
@@ -2197,7 +2366,8 @@
         "sched": 83.39
     },
     "Kings Blue MA (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 170,
         "team": "Kings Blue MA (2027)",
         "state": "MA",
@@ -2210,7 +2380,8 @@
         "sched": 83.44
     },
     "Lions Lacrosse (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 171,
         "team": "Lions Lacrosse (2027)",
         "state": "",
@@ -2223,7 +2394,8 @@
         "sched": 83.82
     },
     "Sarpy Knights (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 172,
         "team": "Sarpy Knights (2027)",
         "state": "NE",
@@ -2236,7 +2408,8 @@
         "sched": 79.48
     },
     "Riot North (2027/28)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 173,
         "team": "Riot North (2027/28)",
         "state": "NY",
@@ -2249,7 +2422,8 @@
         "sched": 82.3
     },
     "Apprentice Athletics Hoff (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 174,
         "team": "Apprentice Athletics Hoff (2027)",
         "state": "FL",
@@ -2262,7 +2436,8 @@
         "sched": 85.76
     },
     "Midwest Top Gun (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 175,
         "team": "Midwest Top Gun (2027)",
         "state": "MO",
@@ -2275,7 +2450,8 @@
         "sched": 84.71
     },
     "Tri-State Lacrosse (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 176,
         "team": "Tri-State Lacrosse (2027)",
         "state": "NJ",
@@ -2288,7 +2464,8 @@
         "sched": 81
     },
     "2 Knights Barons (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 177,
         "team": "2 Knights Barons (2027)",
         "state": "NJ",
@@ -2301,7 +2478,8 @@
         "sched": 81.74
     },
     "Denver Elite Silver (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 178,
         "team": "Denver Elite Silver (2027)",
         "state": "CO",
@@ -2314,7 +2492,8 @@
         "sched": 84.95
     },
     "LI Express Channy Black (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 179,
         "team": "LI Express Channy Black (2027)",
         "state": "NY",
@@ -2327,7 +2506,8 @@
         "sched": 84.6
     },
     "Lansing Gladiators (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 180,
         "team": "Lansing Gladiators (2027)",
         "state": "MI",
@@ -2340,7 +2520,8 @@
         "sched": 84.64
     },
     "Duke's Elite (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 181,
         "team": "Duke's Elite (2027)",
         "state": "PA",
@@ -2353,7 +2534,8 @@
         "sched": 84.5
     },
     "Penguins Lacrosse (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 182,
         "team": "Penguins Lacrosse (2027)",
         "state": "MA",
@@ -2366,7 +2548,8 @@
         "sched": 78.97
     },
     "BlackJack (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 183,
         "team": "BlackJack (2027)",
         "state": "OH",
@@ -2379,7 +2562,8 @@
         "sched": 88.7
     },
     "Patriot Elite Navy (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 184,
         "team": "Patriot Elite Navy (2027)",
         "state": "NJ",
@@ -2392,7 +2576,8 @@
         "sched": 79.03
     },
     "Florida Elite (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 185,
         "team": "Florida Elite (2027)",
         "state": "FL",
@@ -2405,7 +2590,8 @@
         "sched": 84.85
     },
     "DC Express Orange (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 186,
         "team": "DC Express Orange (2027)",
         "state": "DC",
@@ -2418,7 +2604,8 @@
         "sched": 83.47
     },
     "Team 91 CO Grind (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 187,
         "team": "Team 91 CO Grind (2027)",
         "state": "CO",
@@ -2431,7 +2618,8 @@
         "sched": 80.95
     },
     "NH Tomahawks Gold (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 188,
         "team": "NH Tomahawks Gold (2027)",
         "state": "NH",
@@ -2444,7 +2632,8 @@
         "sched": 82.63
     },
     "Jersey Thunder Central (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 189,
         "team": "Jersey Thunder Central (2027)",
         "state": "NJ",
@@ -2457,7 +2646,8 @@
         "sched": 80.53
     },
     "Ballers (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 190,
         "team": "Ballers (2027)",
         "state": "NY",
@@ -2470,7 +2660,8 @@
         "sched": 80.04
     },
     "Rebels LC Maryland North Stars (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 191,
         "team": "Rebels LC Maryland North Stars (2027)",
         "state": "MD",
@@ -2483,7 +2674,8 @@
         "sched": 82.49
     },
     "Lightning JV (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 192,
         "team": "Lightning JV (2027)",
         "state": "",
@@ -2496,7 +2688,8 @@
         "sched": 84.42
     },
     "Evolution Edge Lacrosse Academy (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 193,
         "team": "Evolution Edge Lacrosse Academy (2027)",
         "state": "NJ",
@@ -2509,7 +2702,8 @@
         "sched": 80.47
     },
     "2Way North Gold (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 194,
         "team": "2Way North Gold (2027)",
         "state": "CT",
@@ -2522,7 +2716,8 @@
         "sched": 79.03
     },
     "Philadelphia Freedom White (2027/28)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 195,
         "team": "Philadelphia Freedom White (2027/28)",
         "state": "PA",
@@ -2535,7 +2730,8 @@
         "sched": 81.32
     },
     "Top Caliber Lacrosse (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 196,
         "team": "Top Caliber Lacrosse (2027)",
         "state": "VA",
@@ -2548,7 +2744,8 @@
         "sched": 81.56
     },
     "Brotherly Love Spartan (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 197,
         "team": "Brotherly Love Spartan (2027)",
         "state": "PA",
@@ -2561,7 +2758,8 @@
         "sched": 79.63
     },
     "Team 91 Tristate Wave (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 198,
         "team": "Team 91 Tristate Wave (2027)",
         "state": "NY",
@@ -2574,7 +2772,8 @@
         "sched": 82.73
     },
     "True Philly (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 199,
         "team": "True Philly (2027)",
         "state": "PA",
@@ -2587,7 +2786,8 @@
         "sched": 81.5
     },
     "Riverwood Raiders (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 200,
         "team": "Riverwood Raiders (2027)",
         "state": "",
@@ -2600,7 +2800,8 @@
         "sched": 81.99
     },
     "LI Rebels LC Red Raiders (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 201,
         "team": "LI Rebels LC Red Raiders (2027)",
         "state": "NY",
@@ -2613,7 +2814,8 @@
         "sched": 81.7
     },
     "Coyotes White MA (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 202,
         "team": "Coyotes White MA (2027)",
         "state": "MA",
@@ -2626,7 +2828,8 @@
         "sched": 79.92
     },
     "Bucks Select (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 203,
         "team": "Bucks Select (2027)",
         "state": "PA",
@@ -2639,7 +2842,8 @@
         "sched": 82.85
     },
     "Brotherly Love Chaos (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 204,
         "team": "Brotherly Love Chaos (2027)",
         "state": "PA",
@@ -2652,7 +2856,8 @@
         "sched": 78.99
     },
     "Blue Star Navy (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 205,
         "team": "Blue Star Navy (2027)",
         "state": "NJ",
@@ -2665,7 +2870,8 @@
         "sched": 84.68
     },
     "PLC White (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 206,
         "team": "PLC White (2027)",
         "state": "MA",
@@ -2678,7 +2884,8 @@
         "sched": 78.25
     },
     "Team 91 CO Northside (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 207,
         "team": "Team 91 CO Northside (2027)",
         "state": "CO",
@@ -2691,7 +2898,8 @@
         "sched": 78.28
     },
     "Columbia Elite (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 208,
         "team": "Columbia Elite (2027)",
         "state": "SC",
@@ -2704,7 +2912,8 @@
         "sched": 80.26
     },
     "802 Lacrosse White (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 209,
         "team": "802 Lacrosse White (2027)",
         "state": "VT",
@@ -2717,7 +2926,8 @@
         "sched": 82.38
     },
     "Albany Stags Purple (2027/28)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 210,
         "team": "Albany Stags Purple (2027/28)",
         "state": "NY",
@@ -2730,7 +2940,8 @@
         "sched": 84.56
     },
     "Beast (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 211,
         "team": "Beast (2027)",
         "state": "",
@@ -2743,7 +2954,8 @@
         "sched": 77.06
     },
     "True Indiana A (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 212,
         "team": "True Indiana A (2027)",
         "state": "IN",
@@ -2756,7 +2968,8 @@
         "sched": 85.13
     },
     "Zingos Blue (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 213,
         "team": "Zingos Blue (2027)",
         "state": "MD",
@@ -2769,7 +2982,8 @@
         "sched": 80.85
     },
     "Team Carolina Select 27/28\t": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 214,
         "team": "Team Carolina Select 27/28\t",
         "state": "NC",
@@ -2782,7 +2996,8 @@
         "sched": 84.8
     },
     "Black Bear (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 215,
         "team": "Black Bear (2027)",
         "state": "PA",
@@ -2795,7 +3010,8 @@
         "sched": 80.82
     },
     "True FXBG Green (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 216,
         "team": "True FXBG Green (2027)",
         "state": "VA",
@@ -2808,7 +3024,8 @@
         "sched": 82.72
     },
     "True CO (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 217,
         "team": "True CO (2027)",
         "state": "CO",
@@ -2821,7 +3038,8 @@
         "sched": 78.51
     },
     "Tidewater Patriots 27/28": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 218,
         "team": "Tidewater Patriots 27/28",
         "state": "VA",
@@ -2834,7 +3052,8 @@
         "sched": 82.7
     },
     "Loudon Hammers Select (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 219,
         "team": "Loudon Hammers Select (2027)",
         "state": "VA",
@@ -2847,7 +3066,8 @@
         "sched": 81.27
     },
     "Chapel Hillsborough Hilltoppers - Blue (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 220,
         "team": "Chapel Hillsborough Hilltoppers - Blue (2027)",
         "state": "NC",
@@ -2860,7 +3080,8 @@
         "sched": 76.1
     },
     "Headstrong SJ (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 221,
         "team": "Headstrong SJ (2027)",
         "state": "NJ",
@@ -2873,7 +3094,8 @@
         "sched": 80.12
     },
     "Admirals 27/28": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 222,
         "team": "Admirals 27/28",
         "state": "",
@@ -2886,7 +3108,8 @@
         "sched": 80.88
     },
     "True Westchester (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 223,
         "team": "True Westchester (2027)",
         "state": "NY",
@@ -2899,7 +3122,8 @@
         "sched": 80.08
     },
     "3d Colorado AA (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 224,
         "team": "3d Colorado AA (2027)",
         "state": "CO",
@@ -2912,7 +3136,8 @@
         "sched": 80.57
     },
     "iM3 Lacrosse (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 225,
         "team": "iM3 Lacrosse (2027)",
         "state": "PA",
@@ -2925,7 +3150,8 @@
         "sched": 77.29
     },
     "Coastal Lacrosse Academy Teal (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 226,
         "team": "Coastal Lacrosse Academy Teal (2027)",
         "state": "DE",
@@ -2938,7 +3164,8 @@
         "sched": 82.89
     },
     "Maineiax (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 227,
         "team": "Maineiax (2027)",
         "state": "ME",
@@ -2951,7 +3178,8 @@
         "sched": 77.08
     },
     "HGR Green (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 228,
         "team": "HGR Green (2027)",
         "state": "MA",
@@ -2964,7 +3192,8 @@
         "sched": 78.73
     },
     "Sweetlax Loggerheads (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 229,
         "team": "Sweetlax Loggerheads (2027)",
         "state": "SC",
@@ -2977,7 +3206,8 @@
         "sched": 75.6
     },
     "Mad Dog North Blue (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 230,
         "team": "Mad Dog North Blue (2027)",
         "state": "NJ",
@@ -2990,7 +3220,8 @@
         "sched": 79.4
     },
     "Sweetlax RiverHawks 27/28": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 231,
         "team": "Sweetlax RiverHawks 27/28",
         "state": "SC",
@@ -3003,7 +3234,8 @@
         "sched": 80.25
     },
     "NJLT (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 232,
         "team": "NJLT (2027)",
         "state": "NJ",
@@ -3016,7 +3248,8 @@
         "sched": 77.01
     },
     "Bolts 27/28": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 233,
         "team": "Bolts 27/28",
         "state": "CO",
@@ -3029,7 +3262,8 @@
         "sched": 78.07
     },
     "Rockfish Neon (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 234,
         "team": "Rockfish Neon (2027)",
         "state": "MD",
@@ -3042,7 +3276,8 @@
         "sched": 81.45
     },
     "Houlagans Carolina (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 235,
         "team": "Houlagans Carolina (2027)",
         "state": "NH",
@@ -3055,7 +3290,8 @@
         "sched": 80.15
     },
     "Baltimore Swarm / Perry Hall (2027)": {
-        "date": "2022-11-18",
+        "asOfDate": "2022-11-18",
+        "year": 2022,
         "rank": 236,
         "team": "Baltimore Swarm / Perry Hall (2027)",
         "state": "MD",

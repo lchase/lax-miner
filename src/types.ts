@@ -1,5 +1,6 @@
 export type Ranking = {
-    date: string,
+    asOfDate: string,
+    year: number,
     rank: number,
     team: string,
     state: string,

@@ -6,11 +6,11 @@ import fs, { promises as fsPromises } from 'fs';
 import { Ranking } from './types';
 
 const minerConfig = [
-    { division: '2021-2022 Boys 2027', year: 2021, url: 'https://www.usclublax.com/rank?v=1027&alpha=N&y=2021' },
-    { division: '2022-2023 Boys 2027', year: 2022, url: 'https://www.usclublax.com/rank?v=1027&alpha=N&y=2022' },
-    { division: '2022-2023 Boys 2028', year: 2021, url: 'https://www.usclublax.com/rank?v=1028&alpha=N&y=2021' },
-    { division: '2022-2023 Boys 2028', year: 2022, url: 'https://www.usclublax.com/rank?v=1028&alpha=N&y=2022' },
-    { division: '2022-2023 Boys 2029', year: 2022, url: 'https://www.usclublax.com/rank?v=1029&alpha=N&y=2022' },
+    { division: 'Boys 2027', year: 2021, url: 'https://www.usclublax.com/rank?v=1027&alpha=N&y=2021' },
+    { division: 'Boys 2027', year: 2022, url: 'https://www.usclublax.com/rank?v=1027&alpha=N&y=2022' },
+    { division: 'Boys 2028', year: 2021, url: 'https://www.usclublax.com/rank?v=1028&alpha=N&y=2021' },
+    { division: 'Boys 2028', year: 2022, url: 'https://www.usclublax.com/rank?v=1028&alpha=N&y=2022' },
+    { division: 'Boys 2029', year: 2022, url: 'https://www.usclublax.com/rank?v=1029&alpha=N&y=2022' },
 ];
 
 const syncRankings = async (): Promise<void> => {
@@ -44,7 +44,8 @@ const syncRankings = async (): Promise<void> => {
         // Read through the table and read the rankings
         $("div#rankOUT tbody tr").each((i, elem) => {
             const entry: Ranking = {
-                date: lastUpdated.format('YYYY-MM-DD'),
+                asOfDate: lastUpdated.format('YYYY-MM-DD'),
+                year: cfg.year,
                 rank: 1000,
                 team: 'Unknown',
                 state: '',
@@ -77,7 +78,7 @@ const syncRankings = async (): Promise<void> => {
             if (store[entry.team] === undefined) {
                 store[entry.team] = {};
             }
-            store[entry.team][entry.date] = entry;
+            store[entry.team][entry.asOfDate] = entry;
         });
 
         await fsPromises.writeFile(CACHE_PATH, JSON.stringify(data, null, 4));
