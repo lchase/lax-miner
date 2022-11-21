@@ -1,0 +1,2462 @@
+{
+    "Madlax-Capital (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 1,
+            "team": "Madlax-Capital (2029)",
+            "state": "VA",
+            "record": "12-0",
+            "wins": 12,
+            "losses": 0,
+            "ties": 0,
+            "rating": 93.34,
+            "agd": 5.91,
+            "sched": 87.43
+        }
+    },
+    "Annapolis Hawks Green (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 2,
+            "team": "Annapolis Hawks Green (2029)",
+            "state": "MD",
+            "record": "5-1-1",
+            "wins": 5,
+            "losses": 1,
+            "ties": 1,
+            "rating": 89.75,
+            "agd": 3.85,
+            "sched": 85.9
+        }
+    },
+    "LI Express Moran (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 3,
+            "team": "LI Express Moran (2029)",
+            "state": "NY",
+            "record": "7-1-2",
+            "wins": 7,
+            "losses": 1,
+            "ties": 2,
+            "rating": 89.33,
+            "agd": 4.4,
+            "sched": 84.93
+        }
+    },
+    "Next Level 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 4,
+            "team": "Next Level 2029",
+            "state": "MD",
+            "record": "12-2",
+            "wins": 12,
+            "losses": 2,
+            "ties": 0,
+            "rating": 88.93,
+            "agd": 3.85,
+            "sched": 85.08
+        }
+    },
+    "Stealth Raptors (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 5,
+            "team": "Stealth Raptors (2029)",
+            "state": "FL",
+            "record": "8-0",
+            "wins": 8,
+            "losses": 0,
+            "ties": 0,
+            "rating": 88.33,
+            "agd": 7.25,
+            "sched": 81.08
+        }
+    },
+    "Igloo Apline Drift (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 6,
+            "team": "Igloo Apline Drift (2029)",
+            "state": "NY",
+            "record": "8-1-1",
+            "wins": 8,
+            "losses": 1,
+            "ties": 1,
+            "rating": 87.8,
+            "agd": 2.3,
+            "sched": 85.5
+        }
+    },
+    "Sweetlax NY Upstate (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 7,
+            "team": "Sweetlax NY Upstate (2029)",
+            "state": "NY",
+            "record": "1-5-2",
+            "wins": 1,
+            "losses": 5,
+            "ties": 2,
+            "rating": 87.64,
+            "agd": -1,
+            "sched": 88.64
+        }
+    },
+    "2Way 2029 Black": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 8,
+            "team": "2Way 2029 Black",
+            "state": "CT",
+            "record": "3-2-2",
+            "wins": 3,
+            "losses": 2,
+            "ties": 2,
+            "rating": 87.13,
+            "agd": 1.57,
+            "sched": 85.56
+        }
+    },
+    "Westchester Predators AA (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 9,
+            "team": "Westchester Predators AA (2029)",
+            "state": "NY",
+            "record": "7-0",
+            "wins": 7,
+            "losses": 0,
+            "ties": 0,
+            "rating": 86.77,
+            "agd": 5.28,
+            "sched": 81.49
+        }
+    },
+    "BBL Black 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 10,
+            "team": "BBL Black 2029",
+            "state": "NJ",
+            "record": "6-3",
+            "wins": 6,
+            "losses": 3,
+            "ties": 0,
+            "rating": 86.2,
+            "agd": 2.11,
+            "sched": 84.09
+        }
+    },
+    "3D Garden State AA (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 11,
+            "team": "3D Garden State AA (2029)",
+            "state": "NJ",
+            "record": "11-1-1",
+            "wins": 11,
+            "losses": 1,
+            "ties": 1,
+            "rating": 86.1,
+            "agd": 5.46,
+            "sched": 80.64
+        }
+    },
+    "Sweetlax Florida (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 12,
+            "team": "Sweetlax Florida (2029)",
+            "state": "FL",
+            "record": "7-3",
+            "wins": 7,
+            "losses": 3,
+            "ties": 0,
+            "rating": 86.03,
+            "agd": 3,
+            "sched": 83.03
+        }
+    },
+    "Birmingham (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 13,
+            "team": "Birmingham (2029)",
+            "state": "AL",
+            "record": "3-5",
+            "wins": 3,
+            "losses": 5,
+            "ties": 0,
+            "rating": 86.01,
+            "agd": -2.62,
+            "sched": 88.63
+        }
+    },
+    "Team 11 (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 14,
+            "team": "Team 11 (2029)",
+            "state": "PA",
+            "record": "6-1",
+            "wins": 6,
+            "losses": 1,
+            "ties": 0,
+            "rating": 85.92,
+            "agd": 4.85,
+            "sched": 81.07
+        }
+    },
+    "Mad Dog National Black (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 15,
+            "team": "Mad Dog National Black (2029)",
+            "state": "",
+            "record": "4-1-1",
+            "wins": 4,
+            "losses": 1,
+            "ties": 1,
+            "rating": 85.85,
+            "agd": 2.83,
+            "sched": 83.02
+        }
+    },
+    "NXT Black (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 16,
+            "team": "NXT Black (2029)",
+            "state": "PA",
+            "record": "5-4",
+            "wins": 5,
+            "losses": 4,
+            "ties": 0,
+            "rating": 85.51,
+            "agd": 1.22,
+            "sched": 84.29
+        }
+    },
+    "True LKN Outlaws (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 17,
+            "team": "True LKN Outlaws (2029)",
+            "state": "NC",
+            "record": "10-1",
+            "wins": 10,
+            "losses": 1,
+            "ties": 0,
+            "rating": 85.47,
+            "agd": 5.09,
+            "sched": 80.38
+        }
+    },
+    "3D New England Red (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 18,
+            "team": "3D New England Red (2029)",
+            "state": "MA",
+            "record": "8-4",
+            "wins": 8,
+            "losses": 4,
+            "ties": 0,
+            "rating": 85.31,
+            "agd": 2.58,
+            "sched": 82.73
+        }
+    },
+    "Team 91 CAROLINA 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 19,
+            "team": "Team 91 CAROLINA 2029",
+            "state": "NC",
+            "record": "7-4",
+            "wins": 7,
+            "losses": 4,
+            "ties": 0,
+            "rating": 85.18,
+            "agd": 2.27,
+            "sched": 82.91
+        }
+    },
+    "Express North Black (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 20,
+            "team": "Express North Black (2029)",
+            "state": "CT",
+            "record": "0-3-3",
+            "wins": 0,
+            "losses": 3,
+            "ties": 3,
+            "rating": 84.95,
+            "agd": -2,
+            "sched": 86.95
+        }
+    },
+    "Tommyknockers 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 21,
+            "team": "Tommyknockers 2029",
+            "state": "CO",
+            "record": "11-4",
+            "wins": 11,
+            "losses": 4,
+            "ties": 0,
+            "rating": 84.77,
+            "agd": 3.86,
+            "sched": 80.91
+        }
+    },
+    "Team 91 CO (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 22,
+            "team": "Team 91 CO (2029)",
+            "state": "CO",
+            "record": "7-2",
+            "wins": 7,
+            "losses": 2,
+            "ties": 0,
+            "rating": 84.58,
+            "agd": 2.55,
+            "sched": 82.03
+        }
+    },
+    "Prime Time (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 23,
+            "team": "Prime Time (2029)",
+            "state": "NY",
+            "record": "5-6-2",
+            "wins": 5,
+            "losses": 6,
+            "ties": 2,
+            "rating": 84.57,
+            "agd": 0.53,
+            "sched": 84.04
+        }
+    },
+    "Orange Crush (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 24,
+            "team": "Orange Crush (2029)",
+            "state": "NY",
+            "record": "6-2-1",
+            "wins": 6,
+            "losses": 2,
+            "ties": 1,
+            "rating": 84.33,
+            "agd": 1.55,
+            "sched": 82.78
+        }
+    },
+    "Harvest (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 25,
+            "team": "Harvest (2029)",
+            "state": "NY",
+            "record": "2-3-1",
+            "wins": 2,
+            "losses": 3,
+            "ties": 1,
+            "rating": 84.18,
+            "agd": 1.5,
+            "sched": 82.68
+        }
+    },
+    "Mooselax 2029 Orange": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 26,
+            "team": "Mooselax 2029 Orange",
+            "state": "NY",
+            "record": "1-3-2",
+            "wins": 1,
+            "losses": 3,
+            "ties": 2,
+            "rating": 84.13,
+            "agd": -2,
+            "sched": 86.13
+        }
+    },
+    "Carolina Coast Lacrosse (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 27,
+            "team": "Carolina Coast Lacrosse (2029)",
+            "state": "NC",
+            "record": "8-2",
+            "wins": 8,
+            "losses": 2,
+            "ties": 0,
+            "rating": 84.06,
+            "agd": 3.4,
+            "sched": 80.66
+        }
+    },
+    "Team 91 Charlotte (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 28,
+            "team": "Team 91 Charlotte (2029)",
+            "state": "NC",
+            "record": "6-4",
+            "wins": 6,
+            "losses": 4,
+            "ties": 0,
+            "rating": 83.69,
+            "agd": 3.1,
+            "sched": 80.59
+        }
+    },
+    "Team TEN (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 29,
+            "team": "Team TEN (2029)",
+            "state": "PA",
+            "record": "3-2-2",
+            "wins": 3,
+            "losses": 2,
+            "ties": 2,
+            "rating": 83.14,
+            "agd": 1.57,
+            "sched": 81.57
+        }
+    },
+    "Charleston Elite 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 30,
+            "team": "Charleston Elite 2029",
+            "state": "SC",
+            "record": "3-7",
+            "wins": 3,
+            "losses": 7,
+            "ties": 0,
+            "rating": 83.13,
+            "agd": 0.7,
+            "sched": 82.43
+        }
+    },
+    "6star Sixers (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 31,
+            "team": "6star Sixers (2029)",
+            "state": "CO",
+            "record": "6-3",
+            "wins": 6,
+            "losses": 3,
+            "ties": 0,
+            "rating": 82.88,
+            "agd": 1.11,
+            "sched": 81.77
+        }
+    },
+    "Duke's Elite (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 32,
+            "team": "Duke's Elite (2029)",
+            "state": "PA",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 82.83,
+            "agd": -0.16,
+            "sched": 82.99
+        }
+    },
+    "FL Crabs (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 33,
+            "team": "FL Crabs (2029)",
+            "state": "FL",
+            "record": "8-4",
+            "wins": 8,
+            "losses": 4,
+            "ties": 0,
+            "rating": 82.72,
+            "agd": 2.91,
+            "sched": 79.81
+        }
+    },
+    "Palms LC (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 34,
+            "team": "Palms LC (2029)",
+            "state": "",
+            "record": "5-3",
+            "wins": 5,
+            "losses": 3,
+            "ties": 0,
+            "rating": 82.47,
+            "agd": 5.87,
+            "sched": 76.6
+        }
+    },
+    "Mad Dog West Elite 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 35,
+            "team": "Mad Dog West Elite 2029",
+            "state": "CA",
+            "record": "6-5",
+            "wins": 6,
+            "losses": 5,
+            "ties": 0,
+            "rating": 82.45,
+            "agd": 1.36,
+            "sched": 81.09
+        }
+    },
+    "FCA Palm Beach 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 36,
+            "team": "FCA Palm Beach 2029",
+            "state": "FL",
+            "record": "4-3",
+            "wins": 4,
+            "losses": 3,
+            "ties": 0,
+            "rating": 82.4,
+            "agd": 3,
+            "sched": 79.4
+        }
+    },
+    "LI Legacy Predators (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 37,
+            "team": "LI Legacy Predators (2029)",
+            "state": "NY",
+            "record": "5-5-1",
+            "wins": 5,
+            "losses": 5,
+            "ties": 1,
+            "rating": 82.37,
+            "agd": -0.45,
+            "sched": 82.82
+        }
+    },
+    "LI Rebels LC Sting (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 38,
+            "team": "LI Rebels LC Sting (2029)",
+            "state": "NY",
+            "record": "0-4-2",
+            "wins": 0,
+            "losses": 4,
+            "ties": 2,
+            "rating": 82.13,
+            "agd": -3.5,
+            "sched": 85.63
+        }
+    },
+    "BBL Shore 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 39,
+            "team": "BBL Shore 2029",
+            "state": "NJ",
+            "record": "3-2-1",
+            "wins": 3,
+            "losses": 2,
+            "ties": 1,
+            "rating": 82.08,
+            "agd": 1.16,
+            "sched": 80.92
+        }
+    },
+    "NorthStar 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 40,
+            "team": "NorthStar 2029",
+            "state": "TX",
+            "record": "7-4",
+            "wins": 7,
+            "losses": 4,
+            "ties": 0,
+            "rating": 82.03,
+            "agd": 4.27,
+            "sched": 77.76
+        }
+    },
+    "Dirty Birds (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 41,
+            "team": "Dirty Birds (2029)",
+            "state": "TX",
+            "record": "5-6",
+            "wins": 5,
+            "losses": 6,
+            "ties": 0,
+            "rating": 81.93,
+            "agd": 0.36,
+            "sched": 81.57
+        }
+    },
+    "Laxachusetts White (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 42,
+            "team": "Laxachusetts White (2029)",
+            "state": "MA",
+            "record": "7-1-1",
+            "wins": 7,
+            "losses": 1,
+            "ties": 1,
+            "rating": 81.85,
+            "agd": 2.33,
+            "sched": 79.52
+        }
+    },
+    "True Chesapeake (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 43,
+            "team": "True Chesapeake (2029)",
+            "state": "MD",
+            "record": "4-2",
+            "wins": 4,
+            "losses": 2,
+            "ties": 0,
+            "rating": 81.74,
+            "agd": 3.33,
+            "sched": 78.41
+        }
+    },
+    "FCA MD 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 44,
+            "team": "FCA MD 2029",
+            "state": "MD",
+            "record": "5-1-1",
+            "wins": 5,
+            "losses": 1,
+            "ties": 1,
+            "rating": 81.64,
+            "agd": 5.14,
+            "sched": 76.5
+        }
+    },
+    "Dragons FLC (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 45,
+            "team": "Dragons FLC (2029)",
+            "state": "CT",
+            "record": "4-2",
+            "wins": 4,
+            "losses": 2,
+            "ties": 0,
+            "rating": 81.61,
+            "agd": -0.33,
+            "sched": 81.94
+        }
+    },
+    "True Baltimore Black (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 46,
+            "team": "True Baltimore Black (2029)",
+            "state": "MD",
+            "record": "3-4",
+            "wins": 3,
+            "losses": 4,
+            "ties": 0,
+            "rating": 81.25,
+            "agd": -1.42,
+            "sched": 82.67
+        }
+    },
+    "Thunder Blue (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 47,
+            "team": "Thunder Blue (2029)",
+            "state": "GA",
+            "record": "3-7-1",
+            "wins": 3,
+            "losses": 7,
+            "ties": 1,
+            "rating": 81.19,
+            "agd": -2.09,
+            "sched": 83.28
+        }
+    },
+    "Mad Dog Shore (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 48,
+            "team": "Mad Dog Shore (2029)",
+            "state": "NJ",
+            "record": "6-0",
+            "wins": 6,
+            "losses": 0,
+            "ties": 0,
+            "rating": 80.83,
+            "agd": 6.33,
+            "sched": 74.5
+        }
+    },
+    "Penguins Blue (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 49,
+            "team": "Penguins Blue (2029)",
+            "state": "MA",
+            "record": "9-3",
+            "wins": 9,
+            "losses": 3,
+            "ties": 0,
+            "rating": 80.57,
+            "agd": 4.08,
+            "sched": 76.49
+        }
+    },
+    "South Jersey Shamrocks 2029 Boys": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 50,
+            "team": "South Jersey Shamrocks 2029 Boys",
+            "state": "NJ",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 80.54,
+            "agd": 3,
+            "sched": 77.54
+        }
+    },
+    "Steps Elite Lacrosse 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 51,
+            "team": "Steps Elite Lacrosse 2029",
+            "state": "NJ",
+            "record": "4-2",
+            "wins": 4,
+            "losses": 2,
+            "ties": 0,
+            "rating": 80.49,
+            "agd": 1.66,
+            "sched": 78.83
+        }
+    },
+    "VLC Poon (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 52,
+            "team": "VLC Poon (2029)",
+            "state": "VA",
+            "record": "7-3-1",
+            "wins": 7,
+            "losses": 3,
+            "ties": 1,
+            "rating": 80.41,
+            "agd": 3.09,
+            "sched": 77.32
+        }
+    },
+    "Evolution Elite 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 53,
+            "team": "Evolution Elite 2029",
+            "state": "NJ",
+            "record": "5-2",
+            "wins": 5,
+            "losses": 2,
+            "ties": 0,
+            "rating": 80.26,
+            "agd": 4.85,
+            "sched": 75.41
+        }
+    },
+    "Piatelli Central Cross (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 54,
+            "team": "Piatelli Central Cross (2029)",
+            "state": "MA",
+            "record": "2-5",
+            "wins": 2,
+            "losses": 5,
+            "ties": 0,
+            "rating": 79.86,
+            "agd": -2.28,
+            "sched": 82.14
+        }
+    },
+    "Team Money 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 55,
+            "team": "Team Money 2029",
+            "state": "PA",
+            "record": "6-1",
+            "wins": 6,
+            "losses": 1,
+            "ties": 0,
+            "rating": 79.84,
+            "agd": 2.85,
+            "sched": 76.99
+        }
+    },
+    "Denver Elite Silver (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 56,
+            "team": "Denver Elite Silver (2029)",
+            "state": "CO",
+            "record": "2-6-1",
+            "wins": 2,
+            "losses": 6,
+            "ties": 1,
+            "rating": 79.59,
+            "agd": -2,
+            "sched": 81.59
+        }
+    },
+    "PVAA Jaws Keeler (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 57,
+            "team": "PVAA Jaws Keeler (2029)",
+            "state": "FL",
+            "record": "3-4",
+            "wins": 3,
+            "losses": 4,
+            "ties": 0,
+            "rating": 79.55,
+            "agd": 2.28,
+            "sched": 77.27
+        }
+    },
+    "True CO (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 58,
+            "team": "True CO (2029)",
+            "state": "CO",
+            "record": "5-4",
+            "wins": 5,
+            "losses": 4,
+            "ties": 0,
+            "rating": 79.46,
+            "agd": 0.22,
+            "sched": 79.24
+        }
+    },
+    "SouthShore (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 59,
+            "team": "SouthShore (2029)",
+            "state": "NJ",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 79.31,
+            "agd": 2.66,
+            "sched": 76.65
+        }
+    },
+    "2Way 2029 Carolina": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 60,
+            "team": "2Way 2029 Carolina",
+            "state": "CT",
+            "record": "5-0-1",
+            "wins": 5,
+            "losses": 0,
+            "ties": 1,
+            "rating": 79.22,
+            "agd": 4.66,
+            "sched": 74.56
+        }
+    },
+    "True NJ (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 61,
+            "team": "True NJ (2029)",
+            "state": "NJ",
+            "record": "6-0",
+            "wins": 6,
+            "losses": 0,
+            "ties": 0,
+            "rating": 79.2,
+            "agd": 5.83,
+            "sched": 73.37
+        }
+    },
+    "LI Express OReilly (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 62,
+            "team": "LI Express OReilly (2029)",
+            "state": "NY",
+            "record": "2-2-2",
+            "wins": 2,
+            "losses": 2,
+            "ties": 2,
+            "rating": 78.93,
+            "agd": -0.83,
+            "sched": 79.76
+        }
+    },
+    "Albany Stags (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 63,
+            "team": "Albany Stags (2029)",
+            "state": "",
+            "record": "6-4",
+            "wins": 6,
+            "losses": 4,
+            "ties": 0,
+            "rating": 78.87,
+            "agd": -1.6,
+            "sched": 80.47
+        }
+    },
+    "NCF TRIAD (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 64,
+            "team": "NCF TRIAD (2029)",
+            "state": "NC",
+            "record": "5-5",
+            "wins": 5,
+            "losses": 5,
+            "ties": 0,
+            "rating": 78.87,
+            "agd": 0,
+            "sched": 78.87
+        }
+    },
+    "RI Bulldogs (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 65,
+            "team": "RI Bulldogs (2029)",
+            "state": "RI",
+            "record": "3-3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 3,
+            "rating": 78.86,
+            "agd": 1.77,
+            "sched": 77.09
+        }
+    },
+    "Patriot ELITE 2029 Chrome": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 66,
+            "team": "Patriot ELITE 2029 Chrome",
+            "state": "NJ",
+            "record": "2-4",
+            "wins": 2,
+            "losses": 4,
+            "ties": 0,
+            "rating": 78.83,
+            "agd": -3,
+            "sched": 81.83
+        }
+    },
+    "Jersey Thunder Central 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 67,
+            "team": "Jersey Thunder Central 2029",
+            "state": "NJ",
+            "record": "4-3",
+            "wins": 4,
+            "losses": 3,
+            "ties": 0,
+            "rating": 78.79,
+            "agd": 1.28,
+            "sched": 77.51
+        }
+    },
+    "Alpha MSN (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 68,
+            "team": "Alpha MSN (2029)",
+            "state": "WI",
+            "record": "6-1",
+            "wins": 6,
+            "losses": 1,
+            "ties": 0,
+            "rating": 78.75,
+            "agd": 5.42,
+            "sched": 73.33
+        }
+    },
+    "True Raleigh (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 69,
+            "team": "True Raleigh (2029)",
+            "state": "NC",
+            "record": "4-3",
+            "wins": 4,
+            "losses": 3,
+            "ties": 0,
+            "rating": 78.74,
+            "agd": -0.14,
+            "sched": 78.88
+        }
+    },
+    "Team 91 CO Northside (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 70,
+            "team": "Team 91 CO Northside (2029)",
+            "state": "CO",
+            "record": "4-4-1",
+            "wins": 4,
+            "losses": 4,
+            "ties": 1,
+            "rating": 78.67,
+            "agd": 0.77,
+            "sched": 77.9
+        }
+    },
+    "Team 91 Tristate Select (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 71,
+            "team": "Team 91 Tristate Select (2029)",
+            "state": "NY",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 78.63,
+            "agd": -0.5,
+            "sched": 79.13
+        }
+    },
+    "True Pitt (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 72,
+            "team": "True Pitt (2029)",
+            "state": "PA",
+            "record": "4-6",
+            "wins": 4,
+            "losses": 6,
+            "ties": 0,
+            "rating": 78.46,
+            "agd": 0.4,
+            "sched": 78.06
+        }
+    },
+    "MESA 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 73,
+            "team": "MESA 2029",
+            "state": "PA",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 78.45,
+            "agd": -0.16,
+            "sched": 78.61
+        }
+    },
+    "Sweetlax Loggerheads (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 74,
+            "team": "Sweetlax Loggerheads (2029)",
+            "state": "SC",
+            "record": "4-2-1",
+            "wins": 4,
+            "losses": 2,
+            "ties": 1,
+            "rating": 78.42,
+            "agd": 3.14,
+            "sched": 75.28
+        }
+    },
+    "Riot Chaos (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 75,
+            "team": "Riot Chaos (2029)",
+            "state": "NJ",
+            "record": "1-4-1",
+            "wins": 1,
+            "losses": 4,
+            "ties": 1,
+            "rating": 78.32,
+            "agd": -3,
+            "sched": 81.32
+        }
+    },
+    "Carolina Miners 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 76,
+            "team": "Carolina Miners 2029",
+            "state": "NC",
+            "record": "3-6",
+            "wins": 3,
+            "losses": 6,
+            "ties": 0,
+            "rating": 78.31,
+            "agd": -2.55,
+            "sched": 80.86
+        }
+    },
+    "NH Tomahawks Purple (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 77,
+            "team": "NH Tomahawks Purple (2029)",
+            "state": "NH",
+            "record": "4-3",
+            "wins": 4,
+            "losses": 3,
+            "ties": 0,
+            "rating": 78.27,
+            "agd": 0,
+            "sched": 78.27
+        }
+    },
+    "Madlax-Capital DMV (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 78,
+            "team": "Madlax-Capital DMV (2029)",
+            "state": "VA",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 78.26,
+            "agd": 0.5,
+            "sched": 77.76
+        }
+    },
+    "True Indiana AA (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 79,
+            "team": "True Indiana AA (2029)",
+            "state": "IN",
+            "record": "0-5-1",
+            "wins": 0,
+            "losses": 5,
+            "ties": 1,
+            "rating": 78.2,
+            "agd": -3.83,
+            "sched": 82.03
+        }
+    },
+    "Tri-State (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 80,
+            "team": "Tri-State (2029)",
+            "state": "NJ",
+            "record": "5-1",
+            "wins": 5,
+            "losses": 1,
+            "ties": 0,
+            "rating": 78.18,
+            "agd": 3.16,
+            "sched": 75.02
+        }
+    },
+    "Shore 2 Shore Riptide (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 81,
+            "team": "Shore 2 Shore Riptide (2029)",
+            "state": "NY",
+            "record": "0-6",
+            "wins": 0,
+            "losses": 6,
+            "ties": 0,
+            "rating": 78.1,
+            "agd": -5.66,
+            "sched": 83.76
+        }
+    },
+    "Brotherhood (2029/30)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 82,
+            "team": "Brotherhood (2029/30)",
+            "state": "NJ",
+            "record": "7-2",
+            "wins": 7,
+            "losses": 2,
+            "ties": 0,
+            "rating": 78.09,
+            "agd": 2.88,
+            "sched": 75.21
+        }
+    },
+    "Bethesda LC 2029 Blue": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 83,
+            "team": "Bethesda LC 2029 Blue",
+            "state": "MD",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 77.77,
+            "agd": -0.66,
+            "sched": 78.43
+        }
+    },
+    "Red Hots National (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 84,
+            "team": "Red Hots National (2029)",
+            "state": "PA",
+            "record": "9-3",
+            "wins": 9,
+            "losses": 3,
+            "ties": 0,
+            "rating": 77.77,
+            "agd": 3.58,
+            "sched": 74.19
+        }
+    },
+    "Westchester Predators A (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 85,
+            "team": "Westchester Predators A (2029)",
+            "state": "NY",
+            "record": "4-3",
+            "wins": 4,
+            "losses": 3,
+            "ties": 0,
+            "rating": 77.77,
+            "agd": 0.42,
+            "sched": 77.35
+        }
+    },
+    "BBL North (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 86,
+            "team": "BBL North (2029)",
+            "state": "NJ",
+            "record": "4-3",
+            "wins": 4,
+            "losses": 3,
+            "ties": 0,
+            "rating": 77.65,
+            "agd": 2.14,
+            "sched": 75.51
+        }
+    },
+    "4 Leaf Orange (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 87,
+            "team": "4 Leaf Orange (2029)",
+            "state": "NH",
+            "record": "2-3-1",
+            "wins": 2,
+            "losses": 3,
+            "ties": 1,
+            "rating": 77.53,
+            "agd": -2.33,
+            "sched": 79.86
+        }
+    },
+    "TEAM CAROLINA 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 88,
+            "team": "TEAM CAROLINA 2029",
+            "state": "NC",
+            "record": "4-6",
+            "wins": 4,
+            "losses": 6,
+            "ties": 0,
+            "rating": 77.53,
+            "agd": -3,
+            "sched": 80.53
+        }
+    },
+    "Iron Horse Dallas 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 89,
+            "team": "Iron Horse Dallas 2029",
+            "state": "TX",
+            "record": "6-3",
+            "wins": 6,
+            "losses": 3,
+            "ties": 0,
+            "rating": 77.33,
+            "agd": 1.11,
+            "sched": 76.22
+        }
+    },
+    "BBL Helix (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 90,
+            "team": "BBL Helix (2029)",
+            "state": "NJ",
+            "record": "5-3-1",
+            "wins": 5,
+            "losses": 3,
+            "ties": 1,
+            "rating": 77.31,
+            "agd": 0.66,
+            "sched": 76.65
+        }
+    },
+    "Coyotes Blue (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 91,
+            "team": "Coyotes Blue (2029)",
+            "state": "MA",
+            "record": "2-6-1",
+            "wins": 2,
+            "losses": 6,
+            "ties": 1,
+            "rating": 77.24,
+            "agd": -1.11,
+            "sched": 78.35
+        }
+    },
+    "Valley Select (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 92,
+            "team": "Valley Select (2029)",
+            "state": "VA",
+            "record": "3-5",
+            "wins": 3,
+            "losses": 5,
+            "ties": 0,
+            "rating": 77.12,
+            "agd": -1.12,
+            "sched": 78.24
+        }
+    },
+    "Team Maryland LC 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 93,
+            "team": "Team Maryland LC 2029",
+            "state": "MD",
+            "record": "4-2",
+            "wins": 4,
+            "losses": 2,
+            "ties": 0,
+            "rating": 76.93,
+            "agd": 2.83,
+            "sched": 74.1
+        }
+    },
+    "LI Legacy Spiders (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 94,
+            "team": "LI Legacy Spiders (2029)",
+            "state": "NY",
+            "record": "6-1-1",
+            "wins": 6,
+            "losses": 1,
+            "ties": 1,
+            "rating": 76.85,
+            "agd": 4.12,
+            "sched": 72.73
+        }
+    },
+    "Penguins Orange (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 95,
+            "team": "Penguins Orange (2029)",
+            "state": "MA",
+            "record": "8-2-2",
+            "wins": 8,
+            "losses": 2,
+            "ties": 2,
+            "rating": 76.56,
+            "agd": 2.91,
+            "sched": 73.65
+        }
+    },
+    "Midwest Top Gun (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 96,
+            "team": "Midwest Top Gun (2029)",
+            "state": "MO",
+            "record": "11-3",
+            "wins": 11,
+            "losses": 3,
+            "ties": 0,
+            "rating": 76.22,
+            "agd": 4.42,
+            "sched": 71.8
+        }
+    },
+    "Black Bear (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 97,
+            "team": "Black Bear (2029)",
+            "state": "PA",
+            "record": "4-5-1",
+            "wins": 4,
+            "losses": 5,
+            "ties": 1,
+            "rating": 76.15,
+            "agd": -0.3,
+            "sched": 76.45
+        }
+    },
+    "2Way North Black 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 98,
+            "team": "2Way North Black 2029",
+            "state": "CT",
+            "record": "2-3-1",
+            "wins": 2,
+            "losses": 3,
+            "ties": 1,
+            "rating": 76.14,
+            "agd": -0.66,
+            "sched": 76.8
+        }
+    },
+    "FCA Richmond 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 99,
+            "team": "FCA Richmond 2029",
+            "state": "VA",
+            "record": "7-6",
+            "wins": 7,
+            "losses": 6,
+            "ties": 0,
+            "rating": 76.1,
+            "agd": 0.61,
+            "sched": 75.49
+        }
+    },
+    "Littlenecks 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 100,
+            "team": "Littlenecks 2029",
+            "state": "MA",
+            "record": "3-8-1",
+            "wins": 3,
+            "losses": 8,
+            "ties": 1,
+            "rating": 75.95,
+            "agd": -3.25,
+            "sched": 79.2
+        }
+    },
+    "Blue Star Navy (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 101,
+            "team": "Blue Star Navy (2029)",
+            "state": "NJ",
+            "record": "5-2",
+            "wins": 5,
+            "losses": 2,
+            "ties": 0,
+            "rating": 75.77,
+            "agd": 0.57,
+            "sched": 75.2
+        }
+    },
+    "Upstate Ballers (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 102,
+            "team": "Upstate Ballers (2029)",
+            "state": "",
+            "record": "7-3",
+            "wins": 7,
+            "losses": 3,
+            "ties": 0,
+            "rating": 75.73,
+            "agd": 2.8,
+            "sched": 72.93
+        }
+    },
+    "Annapolis Hawks Black (2027)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 103,
+            "team": "Annapolis Hawks Black (2027)",
+            "state": "MD",
+            "record": "2-4",
+            "wins": 2,
+            "losses": 4,
+            "ties": 0,
+            "rating": 75.62,
+            "agd": 1.16,
+            "sched": 74.46
+        }
+    },
+    "Richmond Hawks 2029A": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 104,
+            "team": "Richmond Hawks 2029A",
+            "state": "VA",
+            "record": "10-7",
+            "wins": 10,
+            "losses": 7,
+            "ties": 0,
+            "rating": 75.62,
+            "agd": 0.47,
+            "sched": 75.15
+        }
+    },
+    "COSMO Chaos (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 105,
+            "team": "COSMO Chaos (2029)",
+            "state": "",
+            "record": "2-7",
+            "wins": 2,
+            "losses": 7,
+            "ties": 0,
+            "rating": 75.37,
+            "agd": -1.55,
+            "sched": 76.92
+        }
+    },
+    "Hammers Elite (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 106,
+            "team": "Hammers Elite (2029)",
+            "state": "VA",
+            "record": "4-8",
+            "wins": 4,
+            "losses": 8,
+            "ties": 0,
+            "rating": 75.34,
+            "agd": -2.41,
+            "sched": 77.75
+        }
+    },
+    "Upper Level (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 107,
+            "team": "Upper Level (2029)",
+            "state": "NJ",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 75.34,
+            "agd": 1.33,
+            "sched": 74.01
+        }
+    },
+    "Riot North (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 108,
+            "team": "Riot North (2029)",
+            "state": "NY",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 75.29,
+            "agd": 2.66,
+            "sched": 72.63
+        }
+    },
+    "NXT Silver (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 109,
+            "team": "NXT Silver (2029)",
+            "state": "PA",
+            "record": "7-2-1",
+            "wins": 7,
+            "losses": 2,
+            "ties": 1,
+            "rating": 75.21,
+            "agd": 3.2,
+            "sched": 72.01
+        }
+    },
+    "HoCo (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 110,
+            "team": "HoCo (2029)",
+            "state": "MD",
+            "record": "3-4",
+            "wins": 3,
+            "losses": 4,
+            "ties": 0,
+            "rating": 74.98,
+            "agd": 0.71,
+            "sched": 74.27
+        }
+    },
+    "Ninjas (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 111,
+            "team": "Ninjas (2029)",
+            "state": "",
+            "record": "2-6",
+            "wins": 2,
+            "losses": 6,
+            "ties": 0,
+            "rating": 74.96,
+            "agd": -2.25,
+            "sched": 77.21
+        }
+    },
+    "Gorilla (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 112,
+            "team": "Gorilla (2029)",
+            "state": "MA",
+            "record": "4-2",
+            "wins": 4,
+            "losses": 2,
+            "ties": 0,
+            "rating": 74.88,
+            "agd": 2.16,
+            "sched": 72.72
+        }
+    },
+    "3d CO AA (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 113,
+            "team": "3d CO AA (2029)",
+            "state": "CO",
+            "record": "2-8",
+            "wins": 2,
+            "losses": 8,
+            "ties": 0,
+            "rating": 74.78,
+            "agd": -4.6,
+            "sched": 79.38
+        }
+    },
+    "Brotherly Love Jupiter (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 114,
+            "team": "Brotherly Love Jupiter (2029)",
+            "state": "PA",
+            "record": "2-3-1",
+            "wins": 2,
+            "losses": 3,
+            "ties": 1,
+            "rating": 74.73,
+            "agd": -2.66,
+            "sched": 77.39
+        }
+    },
+    "Express North Orange Noble (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 115,
+            "team": "Express North Orange Noble (2029)",
+            "state": "CT",
+            "record": "4-5",
+            "wins": 4,
+            "losses": 5,
+            "ties": 0,
+            "rating": 74.57,
+            "agd": -0.22,
+            "sched": 74.79
+        }
+    },
+    "CT Wolves (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 116,
+            "team": "CT Wolves (2029)",
+            "state": "CT",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 74.25,
+            "agd": 1.66,
+            "sched": 72.59
+        }
+    },
+    "Blue Star Blue (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 117,
+            "team": "Blue Star Blue (2029)",
+            "state": "NJ",
+            "record": "3-3-1",
+            "wins": 3,
+            "losses": 3,
+            "ties": 1,
+            "rating": 74.01,
+            "agd": -0.71,
+            "sched": 74.72
+        }
+    },
+    "Sweetlax RiverHawks 29/30": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 118,
+            "team": "Sweetlax RiverHawks 29/30",
+            "state": "SC",
+            "record": "4-7",
+            "wins": 4,
+            "losses": 7,
+            "ties": 0,
+            "rating": 73.95,
+            "agd": -3.63,
+            "sched": 77.58
+        }
+    },
+    "Kings MA Red (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 119,
+            "team": "Kings MA Red (2029)",
+            "state": "MA",
+            "record": "5-6-1",
+            "wins": 5,
+            "losses": 6,
+            "ties": 1,
+            "rating": 73.73,
+            "agd": -1.16,
+            "sched": 74.89
+        }
+    },
+    "FCA Upstate 29/30": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 120,
+            "team": "FCA Upstate 29/30",
+            "state": "NY",
+            "record": "1-4-2",
+            "wins": 1,
+            "losses": 4,
+            "ties": 2,
+            "rating": 73.68,
+            "agd": -3,
+            "sched": 76.68
+        }
+    },
+    "Southstar 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 121,
+            "team": "Southstar 2029",
+            "state": "TX",
+            "record": "3-4",
+            "wins": 3,
+            "losses": 4,
+            "ties": 0,
+            "rating": 73.52,
+            "agd": -2.14,
+            "sched": 75.66
+        }
+    },
+    "Blak Widow (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 122,
+            "team": "Blak Widow (2029)",
+            "state": "PA",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 73.39,
+            "agd": 0.16,
+            "sched": 73.23
+        }
+    },
+    "HEADstrong South Jersey 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 123,
+            "team": "HEADstrong South Jersey 2029",
+            "state": "NJ",
+            "record": "1-5-1",
+            "wins": 1,
+            "losses": 5,
+            "ties": 1,
+            "rating": 73.21,
+            "agd": -3.57,
+            "sched": 76.78
+        }
+    },
+    "South Bay Select (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 124,
+            "team": "South Bay Select (2029)",
+            "state": "CA",
+            "record": "4-10",
+            "wins": 4,
+            "losses": 10,
+            "ties": 0,
+            "rating": 73.2,
+            "agd": -2.85,
+            "sched": 76.05
+        }
+    },
+    "3D Garden State A (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 125,
+            "team": "3D Garden State A (2029)",
+            "state": "NJ",
+            "record": "2-7",
+            "wins": 2,
+            "losses": 7,
+            "ties": 0,
+            "rating": 73.1,
+            "agd": -3.44,
+            "sched": 76.54
+        }
+    },
+    "FLX White (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 126,
+            "team": "FLX White (2029)",
+            "state": "FL",
+            "record": "1-11",
+            "wins": 1,
+            "losses": 11,
+            "ties": 0,
+            "rating": 73.08,
+            "agd": -5.66,
+            "sched": 78.74
+        }
+    },
+    "True MN AA (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 127,
+            "team": "True MN AA (2029)",
+            "state": "MN",
+            "record": "3-6",
+            "wins": 3,
+            "losses": 6,
+            "ties": 0,
+            "rating": 72.81,
+            "agd": -1.66,
+            "sched": 74.47
+        }
+    },
+    "Coastal Lacrosse Academy 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 128,
+            "team": "Coastal Lacrosse Academy 2029",
+            "state": "DE",
+            "record": "2-4",
+            "wins": 2,
+            "losses": 4,
+            "ties": 0,
+            "rating": 72.79,
+            "agd": -0.83,
+            "sched": 73.62
+        }
+    },
+    "HGR (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 129,
+            "team": "HGR (2029)",
+            "state": "MA",
+            "record": "6-3",
+            "wins": 6,
+            "losses": 3,
+            "ties": 0,
+            "rating": 72.28,
+            "agd": 1.77,
+            "sched": 70.51
+        }
+    },
+    "Baltimore Swarm (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 130,
+            "team": "Baltimore Swarm (2029)",
+            "state": "MD",
+            "record": "2-7",
+            "wins": 2,
+            "losses": 7,
+            "ties": 0,
+            "rating": 72.27,
+            "agd": -4.22,
+            "sched": 76.49
+        }
+    },
+    "LI Rebels LC Eagles (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 131,
+            "team": "LI Rebels LC Eagles (2029)",
+            "state": "NY",
+            "record": "1-6",
+            "wins": 1,
+            "losses": 6,
+            "ties": 0,
+            "rating": 72.16,
+            "agd": -4.71,
+            "sched": 76.87
+        }
+    },
+    "757 Select (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 132,
+            "team": "757 Select (2029)",
+            "state": "VA",
+            "record": "3-6",
+            "wins": 3,
+            "losses": 6,
+            "ties": 0,
+            "rating": 72.12,
+            "agd": -5.77,
+            "sched": 77.89
+        }
+    },
+    "Team ONE Academy (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 133,
+            "team": "Team ONE Academy (2029)",
+            "state": "IL",
+            "record": "2-3-1",
+            "wins": 2,
+            "losses": 3,
+            "ties": 1,
+            "rating": 72.03,
+            "agd": -1.66,
+            "sched": 73.69
+        }
+    },
+    "Team 91 Tristate Power (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 134,
+            "team": "Team 91 Tristate Power (2029)",
+            "state": "NY",
+            "record": "4-2",
+            "wins": 4,
+            "losses": 2,
+            "ties": 0,
+            "rating": 71.8,
+            "agd": 0.33,
+            "sched": 71.47
+        }
+    },
+    "Cannons 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 135,
+            "team": "Cannons 2029",
+            "state": "MD",
+            "record": "2-4",
+            "wins": 2,
+            "losses": 4,
+            "ties": 0,
+            "rating": 71.71,
+            "agd": -3,
+            "sched": 74.71
+        }
+    },
+    "Cash Cows (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 136,
+            "team": "Cash Cows (2029)",
+            "state": "MI",
+            "record": "3-4-1",
+            "wins": 3,
+            "losses": 4,
+            "ties": 1,
+            "rating": 71.53,
+            "agd": -2,
+            "sched": 73.53
+        }
+    },
+    "LI Express East (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 137,
+            "team": "LI Express East (2029)",
+            "state": "NY",
+            "record": "1-5",
+            "wins": 1,
+            "losses": 5,
+            "ties": 0,
+            "rating": 71.29,
+            "agd": -2.66,
+            "sched": 73.95
+        }
+    },
+    "Riot Mayhem (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 138,
+            "team": "Riot Mayhem (2029)",
+            "state": "NJ",
+            "record": "0-6-1",
+            "wins": 0,
+            "losses": 6,
+            "ties": 1,
+            "rating": 71.01,
+            "agd": -5.42,
+            "sched": 76.43
+        }
+    },
+    "3d Upstate (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 139,
+            "team": "3d Upstate (2029)",
+            "state": "NY",
+            "record": "3-6",
+            "wins": 3,
+            "losses": 6,
+            "ties": 0,
+            "rating": 70.81,
+            "agd": -3,
+            "sched": 73.81
+        }
+    },
+    "CT Valley 2029 Blue": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 140,
+            "team": "CT Valley 2029 Blue",
+            "state": "CT",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 70.75,
+            "agd": -0.33,
+            "sched": 71.08
+        }
+    },
+    "3d Gulf Coast (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 141,
+            "team": "3d Gulf Coast (2029)",
+            "state": "FL",
+            "record": "1-5",
+            "wins": 1,
+            "losses": 5,
+            "ties": 0,
+            "rating": 70.74,
+            "agd": -4.83,
+            "sched": 75.57
+        }
+    },
+    "3d New England Blue (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 142,
+            "team": "3d New England Blue (2029)",
+            "state": "MA",
+            "record": "3-6",
+            "wins": 3,
+            "losses": 6,
+            "ties": 0,
+            "rating": 70.67,
+            "agd": -2.22,
+            "sched": 72.89
+        }
+    },
+    "Jacksonville Juice MS (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 143,
+            "team": "Jacksonville Juice MS (2029)",
+            "state": "NC",
+            "record": "0-7",
+            "wins": 0,
+            "losses": 7,
+            "ties": 0,
+            "rating": 70.52,
+            "agd": -8.14,
+            "sched": 78.66
+        }
+    },
+    "Mad Dog North (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 144,
+            "team": "Mad Dog North (2029)",
+            "state": "NJ",
+            "record": "1-5",
+            "wins": 1,
+            "losses": 5,
+            "ties": 0,
+            "rating": 70.37,
+            "agd": -5,
+            "sched": 75.37
+        }
+    },
+    "Evolution 2029 Edge": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 145,
+            "team": "Evolution 2029 Edge",
+            "state": "NJ",
+            "record": "2-4",
+            "wins": 2,
+            "losses": 4,
+            "ties": 0,
+            "rating": 70.08,
+            "agd": -3.83,
+            "sched": 73.91
+        }
+    },
+    "LI Express Leghart (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 146,
+            "team": "LI Express Leghart (2029)",
+            "state": "NY",
+            "record": "2-6",
+            "wins": 2,
+            "losses": 6,
+            "ties": 0,
+            "rating": 70.07,
+            "agd": -3.12,
+            "sched": 73.19
+        }
+    },
+    "NY Reign (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 147,
+            "team": "NY Reign (2029)",
+            "state": "NY",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 69.9,
+            "agd": -0.33,
+            "sched": 70.23
+        }
+    },
+    "IM3 (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 148,
+            "team": "IM3 (2029)",
+            "state": "PA",
+            "record": "0-6",
+            "wins": 0,
+            "losses": 6,
+            "ties": 0,
+            "rating": 69.66,
+            "agd": -8,
+            "sched": 77.66
+        }
+    },
+    "Patriot ELITE 2029 Navy": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 149,
+            "team": "Patriot ELITE 2029 Navy",
+            "state": "NJ",
+            "record": "1-4-1",
+            "wins": 1,
+            "losses": 4,
+            "ties": 1,
+            "rating": 69.57,
+            "agd": -2.83,
+            "sched": 72.4
+        }
+    },
+    "NH Tomahawks Gold (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 150,
+            "team": "NH Tomahawks Gold (2029)",
+            "state": "NH",
+            "record": "3-6",
+            "wins": 3,
+            "losses": 6,
+            "ties": 0,
+            "rating": 69.17,
+            "agd": -2.55,
+            "sched": 71.72
+        }
+    },
+    "Mission Lacrosse Club TX (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 151,
+            "team": "Mission Lacrosse Club TX (2029)",
+            "state": "TX",
+            "record": "3-5-1",
+            "wins": 3,
+            "losses": 5,
+            "ties": 1,
+            "rating": 68.9,
+            "agd": -1.33,
+            "sched": 70.23
+        }
+    },
+    "True Upstate Black (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 152,
+            "team": "True Upstate Black (2029)",
+            "state": "PA",
+            "record": "1-6",
+            "wins": 1,
+            "losses": 6,
+            "ties": 0,
+            "rating": 68.82,
+            "agd": -7.28,
+            "sched": 76.1
+        }
+    },
+    "Venom Lacrosse 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 153,
+            "team": "Venom Lacrosse 2029",
+            "state": "PA",
+            "record": "0-9",
+            "wins": 0,
+            "losses": 9,
+            "ties": 0,
+            "rating": 68.54,
+            "agd": -9.44,
+            "sched": 77.98
+        }
+    },
+    "Houlagan's (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 154,
+            "team": "Houlagan's (2029)",
+            "state": "NH",
+            "record": "4-5",
+            "wins": 4,
+            "losses": 5,
+            "ties": 0,
+            "rating": 68.42,
+            "agd": 0,
+            "sched": 68.42
+        }
+    },
+    "2Way North Gold 2029": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 155,
+            "team": "2Way North Gold 2029",
+            "state": "CT",
+            "record": "2-4",
+            "wins": 2,
+            "losses": 4,
+            "ties": 0,
+            "rating": 67.74,
+            "agd": -2.5,
+            "sched": 70.24
+        }
+    },
+    "Zingos (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 156,
+            "team": "Zingos (2029)",
+            "state": "MD",
+            "record": "1-4-1",
+            "wins": 1,
+            "losses": 4,
+            "ties": 1,
+            "rating": 67.61,
+            "agd": -4.5,
+            "sched": 72.11
+        }
+    },
+    "Maineiax (2029/30)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 157,
+            "team": "Maineiax (2029/30)",
+            "state": "ME",
+            "record": "1-5",
+            "wins": 1,
+            "losses": 5,
+            "ties": 0,
+            "rating": 67.56,
+            "agd": -2.16,
+            "sched": 69.72
+        }
+    },
+    "Beast (2029/30)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 158,
+            "team": "Beast (2029/30)",
+            "state": "NY",
+            "record": "1-6",
+            "wins": 1,
+            "losses": 6,
+            "ties": 0,
+            "rating": 66.99,
+            "agd": -4.57,
+            "sched": 71.56
+        }
+    },
+    "Pirate LC (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 159,
+            "team": "Pirate LC (2029)",
+            "state": "WI",
+            "record": "2-5",
+            "wins": 2,
+            "losses": 5,
+            "ties": 0,
+            "rating": 66.1,
+            "agd": -5.57,
+            "sched": 71.67
+        }
+    },
+    "Coyotes White (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 160,
+            "team": "Coyotes White (2029)",
+            "state": "MA",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 65.93,
+            "agd": -0.16,
+            "sched": 66.09
+        }
+    },
+    "NJLT (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 161,
+            "team": "NJLT (2029)",
+            "state": "NJ",
+            "record": "0-6",
+            "wins": 0,
+            "losses": 6,
+            "ties": 0,
+            "rating": 64.95,
+            "agd": -8.16,
+            "sched": 73.11
+        }
+    },
+    "3d NE South 29/30": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 162,
+            "team": "3d NE South 29/30",
+            "state": "CT",
+            "record": "1-7",
+            "wins": 1,
+            "losses": 7,
+            "ties": 0,
+            "rating": 64.79,
+            "agd": -6.75,
+            "sched": 71.54
+        }
+    },
+    "Piatelli White (2029)": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 163,
+            "team": "Piatelli White (2029)",
+            "state": "MA",
+            "record": "2-7-1",
+            "wins": 2,
+            "losses": 7,
+            "ties": 1,
+            "rating": 63.57,
+            "agd": -3.6,
+            "sched": 67.17
+        }
+    },
+    "CT-Sharks 29/30": {
+        "2022-11-18": {
+            "date": "2022-11-18",
+            "rank": 164,
+            "team": "CT-Sharks 29/30",
+            "state": "CT",
+            "record": "2-4",
+            "wins": 2,
+            "losses": 4,
+            "ties": 0,
+            "rating": 62.65,
+            "agd": -4.66,
+            "sched": 67.31
+        }
+    }
+}
