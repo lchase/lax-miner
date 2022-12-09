@@ -35,10 +35,7 @@ export const syncData = async (req: Request, res: Response) => {
 
     // At some point I want to pull the games played vs. teams.
 
-    const html = await axios.get(cfg.url, {
-      headers: { 
-        'User-Agent': WIN_CHROME_USER_AGENT }
-    });
+    const html = await axios.get(cfg.url);
     const $ = cheerio.load(html.data);
 
     const lastUpdatedText: string = $('div#rankOUT small').text().replace('Last Updated: ', '');
@@ -56,7 +53,7 @@ export const syncData = async (req: Request, res: Response) => {
             rank: 1000,
             team: 'Unknown',
             state: '',
-            record: '0-0-0',
+            record: '00-00-00',
             wins: 0,
             losses: 0,
             ties: 0,
@@ -92,7 +89,6 @@ export const syncData = async (req: Request, res: Response) => {
 
     await fsPromises.writeFile(CACHE_PATH, JSON.stringify(data, null, 4));
     await fsPromises.writeFile(STORE_PATH, JSON.stringify(store, null, 4));
-
-    res.send(store);
   }
+  res.send('Sync complete');
 };
