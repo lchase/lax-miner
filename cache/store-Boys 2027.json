@@ -69,6 +69,20 @@
             "rating": 99.75,
             "agd": 5.58,
             "sched": 94.17
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 2,
+            "team": "Mad Dog National Black (2027)",
+            "state": "",
+            "record": "10-2",
+            "wins": 10,
+            "losses": 2,
+            "ties": 0,
+            "rating": 99.75,
+            "agd": 5.58,
+            "sched": 94.17
         }
     },
     "West Coast Starz Gold (2027)": {
@@ -221,6 +235,20 @@
             "rating": 99.91,
             "agd": 6.44,
             "sched": 93.47
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 1,
+            "team": "BBL Elite Black (2027)",
+            "state": "NJ",
+            "record": "7-2",
+            "wins": 7,
+            "losses": 2,
+            "ties": 0,
+            "rating": 99.9,
+            "agd": 6.44,
+            "sched": 93.46
         }
     },
     "Next Level Blue (2027)": {
@@ -284,6 +312,20 @@
             "asOfDate": "2022-12-08",
             "year": 2022,
             "rank": 15,
+            "team": "Next Level Blue (2027)",
+            "state": "MD",
+            "record": "13-4",
+            "wins": 13,
+            "losses": 4,
+            "ties": 0,
+            "rating": 96.24,
+            "agd": 3,
+            "sched": 93.24
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 16,
             "team": "Next Level Blue (2027)",
             "state": "MD",
             "record": "13-4",
@@ -367,6 +409,20 @@
             "rating": 97.79,
             "agd": 4.88,
             "sched": 92.91
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 8,
+            "team": "Team PA (2027)",
+            "state": "PA",
+            "record": "7-1-1",
+            "wins": 7,
+            "losses": 1,
+            "ties": 1,
+            "rating": 97.78,
+            "agd": 4.88,
+            "sched": 92.9
         }
     },
     "Kings Colorado Elite (2027)": {
@@ -383,6 +439,20 @@
             "rating": 97.33,
             "agd": 5.93,
             "sched": 91.4
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 12,
+            "team": "Kings Colorado Elite (2027)",
+            "state": "CO",
+            "record": "5-1",
+            "wins": 5,
+            "losses": 1,
+            "ties": 0,
+            "rating": 97.14,
+            "agd": 3.83,
+            "sched": 93.31
         }
     },
     "Team Massachusetts Lacrosse (2027)": {
@@ -471,6 +541,20 @@
             "rating": 98.03,
             "agd": 7,
             "sched": 91.03
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 7,
+            "team": "Red Hots National (2027)",
+            "state": "PA",
+            "record": "6-1",
+            "wins": 6,
+            "losses": 1,
+            "ties": 0,
+            "rating": 98.01,
+            "agd": 7,
+            "sched": 91.01
         }
     },
     "Texas Nationals - Mustangs (2027)": {
@@ -635,6 +719,20 @@
             "rating": 95.71,
             "agd": -0.75,
             "sched": 96.46
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 17,
+            "team": "Madlax Capital (2027)",
+            "state": "VA",
+            "record": "4-3-1",
+            "wins": 4,
+            "losses": 3,
+            "ties": 1,
+            "rating": 95.72,
+            "agd": -0.75,
+            "sched": 96.47
         }
     },
     "Madlax Nationals (2027)": {
@@ -739,6 +837,20 @@
             "rating": 97.35,
             "agd": 2.28,
             "sched": 95.07
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 10,
+            "team": "Shore 2 Shore Grizzlies (2027)",
+            "state": "NY",
+            "record": "4-0-2",
+            "wins": 4,
+            "losses": 0,
+            "ties": 2,
+            "rating": 97.68,
+            "agd": 2.83,
+            "sched": 94.85
         }
     },
     "3D Georgia Red (2027)": {
@@ -797,6 +909,20 @@
             "rating": 96.76,
             "agd": 3.16,
             "sched": 93.6
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 14,
+            "team": "3D Georgia Red (2027)",
+            "state": "GA",
+            "record": "4-1-1",
+            "wins": 4,
+            "losses": 1,
+            "ties": 1,
+            "rating": 96.77,
+            "agd": 3.16,
+            "sched": 93.61
         }
     },
     "ADVNC NDP NorCal (2027)": {
@@ -827,6 +953,20 @@
             "rating": 96.29,
             "agd": 7,
             "sched": 89.29
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 15,
+            "team": "ADVNC NDP NorCal (2027)",
+            "state": "CA",
+            "record": "6-0",
+            "wins": 6,
+            "losses": 0,
+            "ties": 0,
+            "rating": 96.33,
+            "agd": 7,
+            "sched": 89.33
         }
     },
     "Nationals Lacrosse Black (2027)": {
@@ -915,6 +1055,20 @@
             "rating": 85.21,
             "agd": 1.75,
             "sched": 83.46
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 154,
+            "team": "Evolve Elite Hiltz (2027)",
+            "state": "ON",
+            "record": "8-4",
+            "wins": 8,
+            "losses": 4,
+            "ties": 0,
+            "rating": 85.06,
+            "agd": 1.75,
+            "sched": 83.31
         }
     },
     "Baltimore Crabs (2027)": {
@@ -987,6 +1141,20 @@
             "rating": 98.69,
             "agd": 5.87,
             "sched": 92.82
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 5,
+            "team": "Baltimore Crabs (2027)",
+            "state": "MD",
+            "record": "7-1",
+            "wins": 7,
+            "losses": 1,
+            "ties": 0,
+            "rating": 98.68,
+            "agd": 5.87,
+            "sched": 92.81
         }
     },
     "Team Ten (2027)": {
@@ -1059,6 +1227,20 @@
             "rating": 99.39,
             "agd": 3.45,
             "sched": 95.94
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 3,
+            "team": "Team Ten (2027)",
+            "state": "PA",
+            "record": "9-2",
+            "wins": 9,
+            "losses": 2,
+            "ties": 0,
+            "rating": 99.38,
+            "agd": 3.45,
+            "sched": 95.93
         }
     },
     "Mad Dog West Elite (2027)": {
@@ -1131,6 +1313,20 @@
             "rating": 96.88,
             "agd": 3.9,
             "sched": 92.98
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 13,
+            "team": "Mad Dog West Elite (2027)",
+            "state": "CA",
+            "record": "11-4",
+            "wins": 11,
+            "losses": 4,
+            "ties": 0,
+            "rating": 96.87,
+            "agd": 3.53,
+            "sched": 93.34
         }
     },
     "Team 91 SOUTH (2027)": {
@@ -1208,6 +1404,20 @@
         },
         "2022-12-08": {
             "asOfDate": "2022-12-08",
+            "year": 2022,
+            "rank": 4,
+            "team": "LI Express Haugen (2027)",
+            "state": "NY",
+            "record": "9-2-1",
+            "wins": 9,
+            "losses": 2,
+            "ties": 1,
+            "rating": 98.87,
+            "agd": 2.91,
+            "sched": 95.96
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
             "year": 2022,
             "rank": 4,
             "team": "LI Express Haugen (2027)",
@@ -1307,6 +1517,20 @@
             "rating": 94.15,
             "agd": -0.44,
             "sched": 94.59
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 22,
+            "team": "Express North Black (2027)",
+            "state": "CT",
+            "record": "4-5",
+            "wins": 4,
+            "losses": 5,
+            "ties": 0,
+            "rating": 94.18,
+            "agd": -0.44,
+            "sched": 94.62
         }
     },
     "True Annapolis Green (2027)": {
@@ -1395,6 +1619,20 @@
             "rating": 98.1,
             "agd": 2.71,
             "sched": 95.39
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 6,
+            "team": "Mesa Orange PA (2027)",
+            "state": "PA",
+            "record": "6-1",
+            "wins": 6,
+            "losses": 1,
+            "ties": 0,
+            "rating": 98.1,
+            "agd": 2.71,
+            "sched": 95.39
         }
     },
     "Red Hots LC - AA (2027)": {
@@ -1467,6 +1705,20 @@
             "rating": 97.57,
             "agd": 4,
             "sched": 93.57
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 11,
+            "team": "Red Hots LC - AA (2027)",
+            "state": "PA",
+            "record": "10-2",
+            "wins": 10,
+            "losses": 2,
+            "ties": 0,
+            "rating": 97.54,
+            "agd": 4,
+            "sched": 93.54
         }
     },
     "Sweetlax Upstate NY (2027)": {
@@ -1539,6 +1791,20 @@
             "rating": 93.49,
             "agd": -1.33,
             "sched": 94.82
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 29,
+            "team": "Sweetlax Upstate NY (2027)",
+            "state": "NY",
+            "record": "4-5",
+            "wins": 4,
+            "losses": 5,
+            "ties": 0,
+            "rating": 93.48,
+            "agd": -1.33,
+            "sched": 94.81
         }
     },
     "Team 91 Maryland (2027)": {
@@ -1611,6 +1877,20 @@
             "rating": 93.6,
             "agd": 0.37,
             "sched": 93.23
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 27,
+            "team": "Team 91 Maryland (2027)",
+            "state": "MD",
+            "record": "5-3",
+            "wins": 5,
+            "losses": 3,
+            "ties": 0,
+            "rating": 93.61,
+            "agd": 0.37,
+            "sched": 93.24
         }
     },
     "3D New England Red (2027)": {
@@ -1683,6 +1963,20 @@
             "rating": 97.79,
             "agd": 4.66,
             "sched": 93.13
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 9,
+            "team": "3D New England Red (2027)",
+            "state": "MA",
+            "record": "10-2",
+            "wins": 10,
+            "losses": 2,
+            "ties": 0,
+            "rating": 97.76,
+            "agd": 4.66,
+            "sched": 93.1
         }
     },
     "Team Maryland White (2027)": {
@@ -1755,6 +2049,20 @@
             "rating": 89.56,
             "agd": -0.8,
             "sched": 90.36
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 75,
+            "team": "Team Maryland White (2027)",
+            "state": "MD",
+            "record": "5-5",
+            "wins": 5,
+            "losses": 5,
+            "ties": 0,
+            "rating": 89.55,
+            "agd": -0.8,
+            "sched": 90.35
         }
     },
     "Tommyknockers (2027)": {
@@ -1827,6 +2135,20 @@
             "rating": 92.35,
             "agd": 5.53,
             "sched": 86.82
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 36,
+            "team": "Tommyknockers (2027)",
+            "state": "CO",
+            "record": "13-2",
+            "wins": 13,
+            "losses": 2,
+            "ties": 0,
+            "rating": 92.43,
+            "agd": 5.53,
+            "sched": 86.9
         }
     },
     "Team 91 Carolina (2027)": {
@@ -1899,6 +2221,20 @@
             "rating": 93.63,
             "agd": 3,
             "sched": 90.63
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 25,
+            "team": "Team 91 Carolina (2027)",
+            "state": "NC",
+            "record": "12-3",
+            "wins": 12,
+            "losses": 3,
+            "ties": 0,
+            "rating": 93.65,
+            "agd": 3,
+            "sched": 90.65
         }
     },
     "Laxachusetts Yellow (2027) ": {
@@ -1987,6 +2323,20 @@
             "rating": 91.55,
             "agd": 2.5,
             "sched": 89.05
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 45,
+            "team": "3D Garden State AA (2027)",
+            "state": "NJ",
+            "record": "6-4",
+            "wins": 6,
+            "losses": 4,
+            "ties": 0,
+            "rating": 91.5,
+            "agd": 2.5,
+            "sched": 89
         }
     },
     "True OH Black (2027)": {
@@ -2075,6 +2425,20 @@
             "rating": 94.2,
             "agd": 3.18,
             "sched": 91.02
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 23,
+            "team": "Thunder Blue (2027)",
+            "state": "GA",
+            "record": "8-2-1",
+            "wins": 8,
+            "losses": 2,
+            "ties": 1,
+            "rating": 94.17,
+            "agd": 3.18,
+            "sched": 90.99
         }
     },
     "FCA MD (2027)": {
@@ -2138,6 +2502,20 @@
             "asOfDate": "2022-12-08",
             "year": 2022,
             "rank": 25,
+            "team": "FCA MD (2027)",
+            "state": "MD",
+            "record": "2-3-1",
+            "wins": 2,
+            "losses": 3,
+            "ties": 1,
+            "rating": 93.61,
+            "agd": -0.16,
+            "sched": 93.77
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 26,
             "team": "FCA MD (2027)",
             "state": "MD",
             "record": "2-3-1",
@@ -2251,6 +2629,20 @@
             "rating": 94.03,
             "agd": 2.25,
             "sched": 91.78
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 24,
+            "team": "New Jersey Express AA (2027)",
+            "state": "NJ",
+            "record": "7-5",
+            "wins": 7,
+            "losses": 5,
+            "ties": 0,
+            "rating": 93.96,
+            "agd": 2.25,
+            "sched": 91.71
         }
     },
     "FCA Upstate Navy (2027)": {
@@ -2309,6 +2701,20 @@
             "rating": 93.2,
             "agd": 3.57,
             "sched": 89.63
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 32,
+            "team": "FCA Upstate Navy (2027)",
+            "state": "NY",
+            "record": "5-2",
+            "wins": 5,
+            "losses": 2,
+            "ties": 0,
+            "rating": 93.1,
+            "agd": 3.57,
+            "sched": 89.53
         }
     },
     "True MI (2027)": {
@@ -2397,6 +2803,20 @@
             "rating": 91.09,
             "agd": 2.66,
             "sched": 88.43
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 49,
+            "team": "West Coast Starz Navy (2027)",
+            "state": "CA",
+            "record": "4-2",
+            "wins": 4,
+            "losses": 2,
+            "ties": 0,
+            "rating": 91.15,
+            "agd": 2.66,
+            "sched": 88.49
         }
     },
     "Team SoCal (2027)": {
@@ -2517,6 +2937,20 @@
             "rating": 90.79,
             "agd": -3.5,
             "sched": 94.29
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 53,
+            "team": "LI Legacy Gators (2027)",
+            "state": "NY",
+            "record": "2-10",
+            "wins": 2,
+            "losses": 10,
+            "ties": 0,
+            "rating": 90.75,
+            "agd": -3.5,
+            "sched": 94.25
         }
     },
     "Prime Time (2027)": {
@@ -2589,6 +3023,20 @@
             "rating": 94.25,
             "agd": 1.53,
             "sched": 92.72
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 21,
+            "team": "Prime Time (2027)",
+            "state": "NY",
+            "record": "7-5-1",
+            "wins": 7,
+            "losses": 5,
+            "ties": 1,
+            "rating": 94.24,
+            "agd": 1.53,
+            "sched": 92.71
         }
     },
     "Team 91 Georgia (2027)": {
@@ -2661,6 +3109,20 @@
             "rating": 90.46,
             "agd": -1.5,
             "sched": 91.96
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 56,
+            "team": "Team 91 Georgia (2027)",
+            "state": "GA",
+            "record": "3-7",
+            "wins": 3,
+            "losses": 7,
+            "ties": 0,
+            "rating": 90.48,
+            "agd": -1.5,
+            "sched": 91.98
         }
     },
     "Patriot Elite Chrome (2027)": {
@@ -2733,6 +3195,20 @@
             "rating": 91.68,
             "agd": 0.28,
             "sched": 91.4
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 46,
+            "team": "Patriot Elite Chrome (2027)",
+            "state": "NJ",
+            "record": "3-2-2",
+            "wins": 3,
+            "losses": 2,
+            "ties": 2,
+            "rating": 91.44,
+            "agd": 0.28,
+            "sched": 91.16
         }
     },
     "Team 11 (2027)": {
@@ -2805,6 +3281,20 @@
             "rating": 90.24,
             "agd": -4.42,
             "sched": 94.66
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 60,
+            "team": "Team 11 (2027)",
+            "state": "PA",
+            "record": "1-6",
+            "wins": 1,
+            "losses": 6,
+            "ties": 0,
+            "rating": 90.21,
+            "agd": -4.42,
+            "sched": 94.63
         }
     },
     "Leading Edge (2027)": {
@@ -2877,6 +3367,20 @@
             "rating": 94.33,
             "agd": 1.93,
             "sched": 92.4
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 20,
+            "team": "Leading Edge (2027)",
+            "state": "NJ",
+            "record": "9-6-1",
+            "wins": 9,
+            "losses": 6,
+            "ties": 1,
+            "rating": 94.34,
+            "agd": 1.93,
+            "sched": 92.41
         }
     },
     "Texas Nationals U13 LWSC (2027)": {
@@ -2937,6 +3441,20 @@
             "rating": 90.72,
             "agd": 2.6,
             "sched": 88.12
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 52,
+            "team": "Mad Dog LA (2027)",
+            "state": "CA",
+            "record": "12-3",
+            "wins": 12,
+            "losses": 3,
+            "ties": 0,
+            "rating": 90.86,
+            "agd": 2.6,
+            "sched": 88.26
         }
     },
     "Richmond Hawks AA (2027)": {
@@ -3009,6 +3527,20 @@
             "rating": 92.62,
             "agd": 0.45,
             "sched": 92.17
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 35,
+            "team": "Richmond Hawks AA (2027)",
+            "state": "VA",
+            "record": "5-6",
+            "wins": 5,
+            "losses": 6,
+            "ties": 0,
+            "rating": 92.58,
+            "agd": 0.45,
+            "sched": 92.13
         }
     },
     "True National White (2027)": {
@@ -3099,6 +3631,20 @@
             "rating": 95.1,
             "agd": 0.33,
             "sched": 94.77
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 18,
+            "team": "Cavalry LC (2027)",
+            "state": "CT",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 95.15,
+            "agd": 0.33,
+            "sched": 94.82
         }
     },
     "NXT Black (2027)": {
@@ -3171,6 +3717,20 @@
             "rating": 92.2,
             "agd": 0.14,
             "sched": 92.06
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 39,
+            "team": "NXT Black (2027)",
+            "state": "PA",
+            "record": "8-6",
+            "wins": 8,
+            "losses": 6,
+            "ties": 0,
+            "rating": 92.17,
+            "agd": 0.14,
+            "sched": 92.03
         }
     },
     "Sidewinders MD Black (2027)": {
@@ -3229,6 +3789,20 @@
             "rating": 90.08,
             "agd": 1.28,
             "sched": 88.8
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 67,
+            "team": "Sidewinders MD Black (2027)",
+            "state": "MD",
+            "record": "2-5",
+            "wins": 2,
+            "losses": 5,
+            "ties": 0,
+            "rating": 90.03,
+            "agd": 1.28,
+            "sched": 88.75
         }
     },
     "Syracuse Orange Crush (2027)": {
@@ -3301,6 +3875,20 @@
             "rating": 92.22,
             "agd": -0.3,
             "sched": 92.52
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 40,
+            "team": "Syracuse Orange Crush (2027)",
+            "state": "NY",
+            "record": "5-4-1",
+            "wins": 5,
+            "losses": 4,
+            "ties": 1,
+            "rating": 92.17,
+            "agd": -0.3,
+            "sched": 92.47
         }
     },
     "NJ Riot Chaos (2027)": {
@@ -3389,6 +3977,20 @@
             "rating": 89.02,
             "agd": -4.66,
             "sched": 93.68
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 85,
+            "team": "Igloo Kodiak Rush (2027)",
+            "state": "NY",
+            "record": "1-5",
+            "wins": 1,
+            "losses": 5,
+            "ties": 0,
+            "rating": 89.01,
+            "agd": -4.66,
+            "sched": 93.67
         }
     },
     "Edge Lacrosse (2027)": {
@@ -3477,6 +4079,20 @@
             "rating": 94.64,
             "agd": 5.38,
             "sched": 89.26
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 19,
+            "team": "Team 91 Charlotte Blue (2027)",
+            "state": "NC",
+            "record": "12-0-1",
+            "wins": 12,
+            "losses": 0,
+            "ties": 1,
+            "rating": 94.59,
+            "agd": 5.38,
+            "sched": 89.21
         }
     },
     "Texas Cannons (2027)": {
@@ -3549,6 +4165,20 @@
             "rating": 91.14,
             "agd": 2.26,
             "sched": 88.88
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 43,
+            "team": "Texas Cannons (2027)",
+            "state": "TX",
+            "record": "10-4-1",
+            "wins": 10,
+            "losses": 4,
+            "ties": 1,
+            "rating": 91.59,
+            "agd": 2.26,
+            "sched": 89.33
         }
     },
     "Zingos Black (2027)": {
@@ -3607,6 +4237,20 @@
             "rating": 91.49,
             "agd": 2,
             "sched": 89.49
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 47,
+            "team": "Zingos Black (2027)",
+            "state": "MD",
+            "record": "5-2-1",
+            "wins": 5,
+            "losses": 2,
+            "ties": 1,
+            "rating": 91.42,
+            "agd": 2,
+            "sched": 89.42
         }
     },
     "Resolute Black (2027)": {
@@ -3653,6 +4297,20 @@
             "rating": 85.35,
             "agd": 4.5,
             "sched": 80.85
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 161,
+            "team": "3D Texas (2027)",
+            "state": "TX",
+            "record": "6-0",
+            "wins": 6,
+            "losses": 0,
+            "ties": 0,
+            "rating": 84.69,
+            "agd": 4.5,
+            "sched": 80.19
         }
     },
     "Team West Coast (2027)": {
@@ -3727,6 +4385,20 @@
             "rating": 90.07,
             "agd": -1,
             "sched": 91.07
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 68,
+            "team": "Mad Dog East Elite (2027)",
+            "state": "",
+            "record": "3-5",
+            "wins": 3,
+            "losses": 5,
+            "ties": 0,
+            "rating": 90.02,
+            "agd": -1,
+            "sched": 91.02
         }
     },
     "Texas Knights (2027)": {
@@ -3757,6 +4429,20 @@
             "rating": 90.15,
             "agd": 1.66,
             "sched": 88.49
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 34,
+            "team": "Texas Knights (2027)",
+            "state": "TX",
+            "record": "3-2-1",
+            "wins": 3,
+            "losses": 2,
+            "ties": 1,
+            "rating": 92.63,
+            "agd": 3,
+            "sched": 89.63
         }
     },
     "Westchester Predators AA (2027)": {
@@ -3829,6 +4515,20 @@
             "rating": 93.59,
             "agd": 1.33,
             "sched": 92.26
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 30,
+            "team": "Westchester Predators AA (2027)",
+            "state": "NY",
+            "record": "3-2-1",
+            "wins": 3,
+            "losses": 2,
+            "ties": 1,
+            "rating": 93.41,
+            "agd": 1.33,
+            "sched": 92.08
         }
     },
     "Juiced Cherries AA (2027)": {
@@ -3965,6 +4665,20 @@
             "rating": 87.29,
             "agd": 3.77,
             "sched": 83.52
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 112,
+            "team": "3d Gulf Coast 2027",
+            "state": "FL",
+            "record": "7-2",
+            "wins": 7,
+            "losses": 2,
+            "ties": 0,
+            "rating": 87.12,
+            "agd": 3.77,
+            "sched": 83.35
         }
     },
     "4Leaf Army Green (2027)": {
@@ -4163,6 +4877,20 @@
             "rating": 88.23,
             "agd": 4.2,
             "sched": 84.03
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 96,
+            "team": "Stars and Stripes (2027)",
+            "state": "GA",
+            "record": "15-3-2",
+            "wins": 15,
+            "losses": 3,
+            "ties": 2,
+            "rating": 88.22,
+            "agd": 4.2,
+            "sched": 84.02
         }
     },
     "Hammers Elite (2027)": {
@@ -4235,6 +4963,20 @@
             "rating": 89.57,
             "agd": 3.36,
             "sched": 86.21
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 77,
+            "team": "Hammers Elite (2027)",
+            "state": "VA",
+            "record": "8-3",
+            "wins": 8,
+            "losses": 3,
+            "ties": 0,
+            "rating": 89.5,
+            "agd": 3.36,
+            "sched": 86.14
         }
     },
     "RC Blues (2027)": {
@@ -4293,6 +5035,20 @@
             "rating": 89.17,
             "agd": 1.1,
             "sched": 88.07
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 81,
+            "team": "RC Blues (2027)",
+            "state": "CA",
+            "record": "6-3-1",
+            "wins": 6,
+            "losses": 3,
+            "ties": 1,
+            "rating": 89.29,
+            "agd": 1.1,
+            "sched": 88.19
         }
     },
     "ADVNC SF (2027)": {
@@ -4374,6 +5130,20 @@
             "asOfDate": "2022-12-08",
             "year": 2022,
             "rank": 47,
+            "team": "Sweetlax FL (2027)",
+            "state": "FL",
+            "record": "4-6",
+            "wins": 4,
+            "losses": 6,
+            "ties": 0,
+            "rating": 91.12,
+            "agd": -0.6,
+            "sched": 91.72
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 50,
             "team": "Sweetlax FL (2027)",
             "state": "FL",
             "record": "4-6",
@@ -4471,6 +5241,20 @@
             "rating": 82.91,
             "agd": -3.72,
             "sched": 86.63
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 197,
+            "team": "VABeach Hawks (2027)",
+            "state": "VA",
+            "record": "2-8-1",
+            "wins": 2,
+            "losses": 8,
+            "ties": 1,
+            "rating": 82.75,
+            "agd": -3.72,
+            "sched": 86.47
         }
     },
     "Burning River Maroon AA (2027)": {
@@ -4543,6 +5327,20 @@
             "rating": 86.25,
             "agd": 1.8,
             "sched": 84.45
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 137,
+            "team": "Burning River Maroon AA (2027)",
+            "state": "OH",
+            "record": "6-2-2",
+            "wins": 6,
+            "losses": 2,
+            "ties": 2,
+            "rating": 86.2,
+            "agd": 1.8,
+            "sched": 84.4
         }
     },
     "BBL Shore (2027)": {
@@ -4615,6 +5413,20 @@
             "rating": 88.38,
             "agd": -1.33,
             "sched": 89.71
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 95,
+            "team": "BBL Shore (2027)",
+            "state": "NJ",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 88.33,
+            "agd": -1.33,
+            "sched": 89.66
         }
     },
     "Denver Elite Silver (2027)": {
@@ -4687,6 +5499,20 @@
             "rating": 84.94,
             "agd": -3.6,
             "sched": 88.54
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 155,
+            "team": "Denver Elite Silver (2027)",
+            "state": "CO",
+            "record": "3-11-1",
+            "wins": 3,
+            "losses": 11,
+            "ties": 1,
+            "rating": 84.98,
+            "agd": -3.6,
+            "sched": 88.58
         }
     },
     "Beast (2027)": {
@@ -4759,6 +5585,20 @@
             "rating": 78.35,
             "agd": 1.16,
             "sched": 77.19
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 285,
+            "team": "Beast (2027)",
+            "state": "",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 78.26,
+            "agd": 1.16,
+            "sched": 77.1
         }
     },
     "Stealth Lacrosse Florida Smoke (2027)": {
@@ -4831,6 +5671,20 @@
             "rating": 91.02,
             "agd": 3.57,
             "sched": 87.45
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 51,
+            "team": "Stealth Lacrosse Florida Smoke (2027)",
+            "state": "FL",
+            "record": "10-3-1",
+            "wins": 10,
+            "losses": 3,
+            "ties": 1,
+            "rating": 91.03,
+            "agd": 3.57,
+            "sched": 87.46
         }
     },
     "Seattle Starz Navy (2027)": {
@@ -4861,6 +5715,20 @@
             "rating": 89.89,
             "agd": 1.2,
             "sched": 88.69
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 69,
+            "team": "Seattle Starz Navy (2027)",
+            "state": "WA",
+            "record": "4-4-2",
+            "wins": 4,
+            "losses": 4,
+            "ties": 2,
+            "rating": 89.99,
+            "agd": 1.2,
+            "sched": 88.79
         }
     },
     "Red Devil (2027)": {
@@ -4933,6 +5801,20 @@
             "rating": 88.43,
             "agd": 0.62,
             "sched": 87.81
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 93,
+            "team": "Red Devil (2027)",
+            "state": "NC",
+            "record": "7-7-2",
+            "wins": 7,
+            "losses": 7,
+            "ties": 2,
+            "rating": 88.37,
+            "agd": 0.62,
+            "sched": 87.75
         }
     },
     "Charleston Elite (2027)": {
@@ -5005,6 +5887,20 @@
             "rating": 90.18,
             "agd": 1.3,
             "sched": 88.88
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 61,
+            "team": "Charleston Elite (2027)",
+            "state": "SC",
+            "record": "8-5",
+            "wins": 8,
+            "losses": 5,
+            "ties": 0,
+            "rating": 90.15,
+            "agd": 1.3,
+            "sched": 88.85
         }
     },
     "Team 91 CO Grind (2027)": {
@@ -5077,6 +5973,20 @@
             "rating": 86.82,
             "agd": -0.46,
             "sched": 87.28
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 120,
+            "team": "Team 91 CO Grind (2027)",
+            "state": "CO",
+            "record": "7-8",
+            "wins": 7,
+            "losses": 8,
+            "ties": 0,
+            "rating": 86.93,
+            "agd": -0.46,
+            "sched": 87.39
         }
     },
     "CAROLINA MINERS (2027)": {
@@ -5149,6 +6059,20 @@
             "rating": 88.69,
             "agd": -0.53,
             "sched": 89.22
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 89,
+            "team": "CAROLINA MINERS (2027)",
+            "state": "NC",
+            "record": "6-8-1",
+            "wins": 6,
+            "losses": 8,
+            "ties": 1,
+            "rating": 88.66,
+            "agd": -0.53,
+            "sched": 89.19
         }
     },
     "6Star Sixers Black (2027)": {
@@ -5207,6 +6131,20 @@
             "rating": 92.06,
             "agd": 3.75,
             "sched": 88.31
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 38,
+            "team": "6Star Sixers Black (2027)",
+            "state": "CO",
+            "record": "12-4",
+            "wins": 12,
+            "losses": 4,
+            "ties": 0,
+            "rating": 92.18,
+            "agd": 3.75,
+            "sched": 88.43
         }
     },
     "Yeti Blue (2027)": {
@@ -5295,6 +6233,20 @@
             "rating": 82.72,
             "agd": -1.81,
             "sched": 84.53
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 200,
+            "team": "Kings Blue MA (2027)",
+            "state": "MA",
+            "record": "3-8",
+            "wins": 3,
+            "losses": 8,
+            "ties": 0,
+            "rating": 82.66,
+            "agd": -1.81,
+            "sched": 84.47
         }
     },
     "3d New England White (2027)": {
@@ -5367,6 +6319,20 @@
             "rating": 89.6,
             "agd": 1.66,
             "sched": 87.94
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 76,
+            "team": "3d New England White (2027)",
+            "state": "MA",
+            "record": "7-2",
+            "wins": 7,
+            "losses": 2,
+            "ties": 0,
+            "rating": 89.54,
+            "agd": 1.66,
+            "sched": 87.88
         }
     },
     "ADVNC SAC (2027)": {
@@ -5455,6 +6421,20 @@
             "rating": 90.76,
             "agd": 2.86,
             "sched": 87.9
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 54,
+            "team": "Team Carolina Red (2027)",
+            "state": "NC",
+            "record": "11-4",
+            "wins": 11,
+            "losses": 4,
+            "ties": 0,
+            "rating": 90.68,
+            "agd": 2.86,
+            "sched": 87.82
         }
     },
     "Harvest (2027)": {
@@ -5527,6 +6507,20 @@
             "rating": 85.95,
             "agd": -3.33,
             "sched": 89.28
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 141,
+            "team": "Harvest (2027)",
+            "state": "NY",
+            "record": "1-5",
+            "wins": 1,
+            "losses": 5,
+            "ties": 0,
+            "rating": 85.88,
+            "agd": -3.33,
+            "sched": 89.21
         }
     },
     "Headlines Navy (2027)": {
@@ -5599,6 +6593,20 @@
             "rating": 90.7,
             "agd": 4.77,
             "sched": 85.93
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 55,
+            "team": "Headlines Navy (2027)",
+            "state": "OH",
+            "record": "6-1-2",
+            "wins": 6,
+            "losses": 1,
+            "ties": 2,
+            "rating": 90.66,
+            "agd": 4.77,
+            "sched": 85.89
         }
     },
     "LI Rebels LC United (2027)": {
@@ -5671,6 +6679,20 @@
             "rating": 87.75,
             "agd": 0.63,
             "sched": 87.12
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 101,
+            "team": "LI Rebels LC United (2027)",
+            "state": "NY",
+            "record": "5-6",
+            "wins": 5,
+            "losses": 6,
+            "ties": 0,
+            "rating": 87.68,
+            "agd": 0.63,
+            "sched": 87.05
         }
     },
     "Philadelphia Freedom Red (2027)": {
@@ -5743,6 +6765,20 @@
             "rating": 89.74,
             "agd": 2.6,
             "sched": 87.14
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 74,
+            "team": "Philadelphia Freedom Red (2027)",
+            "state": "PA",
+            "record": "7-3",
+            "wins": 7,
+            "losses": 3,
+            "ties": 0,
+            "rating": 89.67,
+            "agd": 2.6,
+            "sched": 87.07
         }
     },
     "LKS - Louisville Kings Select (2027)": {
@@ -5863,6 +6899,20 @@
             "rating": 87.09,
             "agd": 0.5,
             "sched": 86.59
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 117,
+            "team": "Mad Dog Shore Black (2027)",
+            "state": "NJ",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 87.05,
+            "agd": 0.5,
+            "sched": 86.55
         }
     },
     "Team Money (2027)": {
@@ -5999,6 +7049,20 @@
             "rating": 86.31,
             "agd": 1,
             "sched": 85.31
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 136,
+            "team": "Impulse (2027)",
+            "state": "OK",
+            "record": "6-4",
+            "wins": 6,
+            "losses": 4,
+            "ties": 0,
+            "rating": 86.21,
+            "agd": 1,
+            "sched": 85.21
         }
     },
     "Team Eighteen (2027)": {
@@ -6071,6 +7135,20 @@
             "rating": 86.41,
             "agd": 0,
             "sched": 86.41
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 130,
+            "team": "Team Eighteen (2027)",
+            "state": "",
+            "record": "5-4",
+            "wins": 5,
+            "losses": 4,
+            "ties": 0,
+            "rating": 86.34,
+            "agd": 0,
+            "sched": 86.34
         }
     },
     "Iron Horse Austin (2027)": {
@@ -6145,6 +7223,20 @@
             "rating": 91.72,
             "agd": 5,
             "sched": 86.72
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 42,
+            "team": "Thunder Orange (2027)",
+            "state": "GA",
+            "record": "9-1",
+            "wins": 9,
+            "losses": 1,
+            "ties": 0,
+            "rating": 91.64,
+            "agd": 5,
+            "sched": 86.64
         }
     },
     "Team Oregon AA (2027)": {
@@ -6203,6 +7295,20 @@
             "rating": 85.73,
             "agd": 1.06,
             "sched": 84.67
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 143,
+            "team": "Team Oregon AA (2027)",
+            "state": "OR",
+            "record": "9-5-1",
+            "wins": 9,
+            "losses": 5,
+            "ties": 1,
+            "rating": 85.65,
+            "agd": 1.06,
+            "sched": 84.59
         }
     },
     "Mad Dog SD (2027)": {
@@ -6247,6 +7353,20 @@
             "rating": 88.63,
             "agd": 1.26,
             "sched": 87.37
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 86,
+            "team": "Mad Dog SD (2027)",
+            "state": "CA",
+            "record": "9-6",
+            "wins": 9,
+            "losses": 6,
+            "ties": 0,
+            "rating": 88.81,
+            "agd": 1.26,
+            "sched": 87.55
         }
     },
     "Mad Dog OC (2027)": {
@@ -6291,6 +7411,20 @@
             "rating": 89.55,
             "agd": 1.86,
             "sched": 87.69
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 73,
+            "team": "Mad Dog OC (2027)",
+            "state": "CA",
+            "record": "10-5",
+            "wins": 10,
+            "losses": 5,
+            "ties": 0,
+            "rating": 89.71,
+            "agd": 1.86,
+            "sched": 87.85
         }
     },
     "No Excuse Memphis (2027)": {
@@ -6363,6 +7497,20 @@
             "rating": 85.99,
             "agd": 3.91,
             "sched": 82.08
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 134,
+            "team": "No Excuse Memphis (2027)",
+            "state": "TN",
+            "record": "9-3",
+            "wins": 9,
+            "losses": 3,
+            "ties": 0,
+            "rating": 86.24,
+            "agd": 3.91,
+            "sched": 82.33
         }
     },
     "LI Express Domonico (2027)": {
@@ -6467,6 +7615,20 @@
             "rating": 90.02,
             "agd": 4.18,
             "sched": 85.84
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 65,
+            "team": "True Illinois Premier A (2027)",
+            "state": "IL",
+            "record": "9-2",
+            "wins": 9,
+            "losses": 2,
+            "ties": 0,
+            "rating": 90.04,
+            "agd": 4.18,
+            "sched": 85.86
         }
     },
     "True Utah AA (2027)": {
@@ -6529,6 +7691,20 @@
             "rating": 86.6,
             "agd": -0.8,
             "sched": 87.4
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 125,
+            "team": "Team 48 Black (2027)",
+            "state": "AZ",
+            "record": "3-7",
+            "wins": 3,
+            "losses": 7,
+            "ties": 0,
+            "rating": 86.72,
+            "agd": -0.8,
+            "sched": 87.52
         }
     },
     "Duke's Elite (2027)": {
@@ -6601,6 +7777,20 @@
             "rating": 81.27,
             "agd": -3.83,
             "sched": 85.1
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 226,
+            "team": "Duke's Elite (2027)",
+            "state": "PA",
+            "record": "2-4",
+            "wins": 2,
+            "losses": 4,
+            "ties": 0,
+            "rating": 81.19,
+            "agd": -3.83,
+            "sched": 85.02
         }
     },
     "PROMO - Project Missouri (2027)": {
@@ -6753,6 +7943,20 @@
             "rating": 80.63,
             "agd": 0.5,
             "sched": 80.13
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 232,
+            "team": "Creators Game (2027)",
+            "state": "FL",
+            "record": "4-6",
+            "wins": 4,
+            "losses": 6,
+            "ties": 0,
+            "rating": 80.73,
+            "agd": 0.5,
+            "sched": 80.23
         }
     },
     "NH Tomahawks Purple (2027)": {
@@ -6825,6 +8029,20 @@
             "rating": 85.14,
             "agd": -5,
             "sched": 90.14
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 153,
+            "team": "NH Tomahawks Purple (2027)",
+            "state": "NH",
+            "record": "1-5",
+            "wins": 1,
+            "losses": 5,
+            "ties": 0,
+            "rating": 85.08,
+            "agd": -5,
+            "sched": 90.08
         }
     },
     "Houlagans Green (2027)": {
@@ -6897,6 +8115,20 @@
             "rating": 84.78,
             "agd": -0.55,
             "sched": 85.33
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 160,
+            "team": "Houlagans Green (2027)",
+            "state": "NH",
+            "record": "3-6",
+            "wins": 3,
+            "losses": 6,
+            "ties": 0,
+            "rating": 84.72,
+            "agd": -0.55,
+            "sched": 85.27
         }
     },
     "STEPS Elite (2027)": {
@@ -6969,6 +8201,20 @@
             "rating": 90.07,
             "agd": 4.12,
             "sched": 85.95
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 70,
+            "team": "STEPS Elite (2027)",
+            "state": "NJ",
+            "record": "6-2",
+            "wins": 6,
+            "losses": 2,
+            "ties": 0,
+            "rating": 89.95,
+            "agd": 4.12,
+            "sched": 85.83
         }
     },
     "Snipers Lax Black  (2027)": {
@@ -6999,6 +8245,20 @@
             "rating": 82.62,
             "agd": 2.42,
             "sched": 80.2
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 191,
+            "team": "Snipers Lax Black  (2027)",
+            "state": "FL",
+            "record": "5-6",
+            "wins": 5,
+            "losses": 6,
+            "ties": 0,
+            "rating": 82.95,
+            "agd": 0.9,
+            "sched": 82.05
         }
     },
     "Team Maryland Red (2027)": {
@@ -7071,6 +8331,20 @@
             "rating": 82.79,
             "agd": 1.16,
             "sched": 81.63
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 201,
+            "team": "Team Maryland Red (2027)",
+            "state": "MD",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 82.66,
+            "agd": 1.16,
+            "sched": 81.5
         }
     },
     "970 Lax Alfieri (2027)": {
@@ -7207,6 +8481,20 @@
             "rating": 87.22,
             "agd": 1.88,
             "sched": 85.34
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 115,
+            "team": "BBL Helix (2027)",
+            "state": "NJ",
+            "record": "4-4-1",
+            "wins": 4,
+            "losses": 4,
+            "ties": 1,
+            "rating": 87.09,
+            "agd": 1.88,
+            "sched": 85.21
         }
     },
     "TRUE NC OUTLAWS (2027)": {
@@ -7295,6 +8583,20 @@
             "rating": 92.99,
             "agd": 7.11,
             "sched": 85.88
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 33,
+            "team": "Laxachusetts White (2027) ",
+            "state": "MA",
+            "record": "9-0",
+            "wins": 9,
+            "losses": 0,
+            "ties": 0,
+            "rating": 92.93,
+            "agd": 7.11,
+            "sched": 85.82
         }
     },
     "LA Berserkers (2027/28)": {
@@ -7429,6 +8731,20 @@
             "rating": 89.17,
             "agd": 1.11,
             "sched": 88.06
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 83,
+            "team": "True Indiana AA (2027)",
+            "state": "IN",
+            "record": "4-4-1",
+            "wins": 4,
+            "losses": 4,
+            "ties": 1,
+            "rating": 89.12,
+            "agd": 1.11,
+            "sched": 88.01
         }
     },
     "Igloo Glacier Edge (2027)": {
@@ -7501,6 +8817,20 @@
             "rating": 86.19,
             "agd": -0.85,
             "sched": 87.04
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 139,
+            "team": "Igloo Glacier Edge (2027)",
+            "state": "NY",
+            "record": "3-4",
+            "wins": 3,
+            "losses": 4,
+            "ties": 0,
+            "rating": 86.09,
+            "agd": -0.85,
+            "sched": 86.94
         }
     },
     "Kooper's Lacrosse Club (2027)": {
@@ -7589,6 +8919,20 @@
             "rating": 90.51,
             "agd": 3,
             "sched": 87.51
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 57,
+            "team": "Iron Horse Dallas (2027)",
+            "state": "TX",
+            "record": "8-4",
+            "wins": 8,
+            "losses": 4,
+            "ties": 0,
+            "rating": 90.43,
+            "agd": 3.33,
+            "sched": 87.1
         }
     },
     "Fusion Canada West (2027)": {
@@ -7633,6 +8977,20 @@
             "rating": 87.85,
             "agd": 4.8,
             "sched": 83.05
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 99,
+            "team": "Fusion Canada West (2027)",
+            "state": "ON",
+            "record": "8-2",
+            "wins": 8,
+            "losses": 2,
+            "ties": 0,
+            "rating": 87.84,
+            "agd": 4.8,
+            "sched": 83.04
         }
     },
     "Gorilla Silver (2027)": {
@@ -7785,6 +9143,20 @@
             "rating": 88.9,
             "agd": 2,
             "sched": 86.9
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 87,
+            "team": "Team 91 Tristate Select (2027)",
+            "state": "NY",
+            "record": "5-2",
+            "wins": 5,
+            "losses": 2,
+            "ties": 0,
+            "rating": 88.76,
+            "agd": 2,
+            "sched": 86.76
         }
     },
     "Wolfpack LC (2027)": {
@@ -7843,6 +9215,20 @@
             "rating": 86.37,
             "agd": -0.44,
             "sched": 86.81
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 127,
+            "team": "Wolfpack LC (2027)",
+            "state": "CA",
+            "record": "8-5",
+            "wins": 8,
+            "losses": 5,
+            "ties": 0,
+            "rating": 86.52,
+            "agd": 2.53,
+            "sched": 83.99
         }
     },
     "True North Carolina (2027)": {
@@ -7947,6 +9333,20 @@
             "rating": 88.26,
             "agd": -1.66,
             "sched": 89.92
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 97,
+            "team": "SouthShore (2027)",
+            "state": "NJ",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 88.21,
+            "agd": -1.66,
+            "sched": 89.87
         }
     },
     "BBL North (2027)": {
@@ -8019,6 +9419,20 @@
             "rating": 87.63,
             "agd": 1,
             "sched": 86.63
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 102,
+            "team": "BBL North (2027)",
+            "state": "NJ",
+            "record": "5-4",
+            "wins": 5,
+            "losses": 4,
+            "ties": 0,
+            "rating": 87.54,
+            "agd": 1,
+            "sched": 86.54
         }
     },
     "Florida Crabs (2027)": {
@@ -8077,6 +9491,20 @@
             "rating": 88.44,
             "agd": 5.5,
             "sched": 82.94
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 94,
+            "team": "Florida Crabs (2027)",
+            "state": "FL",
+            "record": "5-0-1",
+            "wins": 5,
+            "losses": 0,
+            "ties": 1,
+            "rating": 88.34,
+            "agd": 5.5,
+            "sched": 82.84
         }
     },
     "3D Georgia Black (2027)": {
@@ -8149,6 +9577,20 @@
             "rating": 88.6,
             "agd": 5.81,
             "sched": 82.79
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 91,
+            "team": "3D Georgia Black (2027)",
+            "state": "GA",
+            "record": "14-2",
+            "wins": 14,
+            "losses": 2,
+            "ties": 0,
+            "rating": 88.43,
+            "agd": 5.81,
+            "sched": 82.62
         }
     },
     "FLX CHAOS (2027)": {
@@ -8221,6 +9663,20 @@
             "rating": 81.87,
             "agd": 0.2,
             "sched": 81.67
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 219,
+            "team": "FLX CHAOS (2027)",
+            "state": "NY",
+            "record": "5-5",
+            "wins": 5,
+            "losses": 5,
+            "ties": 0,
+            "rating": 81.62,
+            "agd": 0.2,
+            "sched": 81.42
         }
     },
     "Resolute Columbus 2027AA\t": {
@@ -8309,6 +9765,20 @@
             "rating": 87.99,
             "agd": 0.9,
             "sched": 87.09
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 98,
+            "team": "Alcatraz Outlaws (2027)",
+            "state": "CA",
+            "record": "7-3",
+            "wins": 7,
+            "losses": 3,
+            "ties": 0,
+            "rating": 88.01,
+            "agd": 0.9,
+            "sched": 87.11
         }
     },
     "Predators MD (2027)": {
@@ -8381,6 +9851,20 @@
             "rating": 85.5,
             "agd": 1,
             "sched": 84.5
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 148,
+            "team": "Predators MD (2027)",
+            "state": "MD",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 85.39,
+            "agd": 1,
+            "sched": 84.39
         }
     },
     "Recon Jacobs (2027)": {
@@ -8469,6 +9953,20 @@
             "rating": 86.81,
             "agd": 1,
             "sched": 85.81
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 124,
+            "team": "Blak Widow (2027)",
+            "state": "PA",
+            "record": "2-2-2",
+            "wins": 2,
+            "losses": 2,
+            "ties": 2,
+            "rating": 86.73,
+            "agd": 1,
+            "sched": 85.73
         }
     },
     "Coyotes Blue MA (2027)": {
@@ -8541,6 +10039,20 @@
             "rating": 84.59,
             "agd": -2.22,
             "sched": 86.81
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 163,
+            "team": "Coyotes Blue MA (2027)",
+            "state": "MA",
+            "record": "2-6-1",
+            "wins": 2,
+            "losses": 6,
+            "ties": 1,
+            "rating": 84.52,
+            "agd": -2.22,
+            "sched": 86.74
         }
     },
     "RI Bulldogs (2027)": {
@@ -8613,6 +10125,20 @@
             "rating": 84.55,
             "agd": -3.22,
             "sched": 87.77
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 164,
+            "team": "RI Bulldogs (2027)",
+            "state": "RI",
+            "record": "2-5-2",
+            "wins": 2,
+            "losses": 5,
+            "ties": 2,
+            "rating": 84.48,
+            "agd": -3.22,
+            "sched": 87.7
         }
     },
     "Red Hots - White (2027)": {
@@ -8685,6 +10211,20 @@
             "rating": 87.49,
             "agd": 5.57,
             "sched": 81.92
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 109,
+            "team": "Red Hots - White (2027)",
+            "state": "PA",
+            "record": "12-1-1",
+            "wins": 12,
+            "losses": 1,
+            "ties": 1,
+            "rating": 87.36,
+            "agd": 5.57,
+            "sched": 81.79
         }
     },
     "Big 4 HHH (2027)": {
@@ -8773,6 +10313,20 @@
             "rating": 90.21,
             "agd": 5.11,
             "sched": 85.1
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 62,
+            "team": "Laxachusetts Green (2027) ",
+            "state": "MA",
+            "record": "8-1",
+            "wins": 8,
+            "losses": 1,
+            "ties": 0,
+            "rating": 90.15,
+            "agd": 5.11,
+            "sched": 85.04
         }
     },
     "NJLC (2027)": {
@@ -8845,6 +10399,20 @@
             "rating": 85.68,
             "agd": 3,
             "sched": 82.68
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 144,
+            "team": "NJLC (2027)",
+            "state": "NJ",
+            "record": "7-1-2",
+            "wins": 7,
+            "losses": 1,
+            "ties": 2,
+            "rating": 85.59,
+            "agd": 3,
+            "sched": 82.59
         }
     },
     "Resolute - Columbus A (2027)": {
@@ -8949,6 +10517,20 @@
             "rating": 87.63,
             "agd": 2.33,
             "sched": 85.3
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 103,
+            "team": "Maryland Cannons (2027)",
+            "state": "MD",
+            "record": "4-2",
+            "wins": 4,
+            "losses": 2,
+            "ties": 0,
+            "rating": 87.54,
+            "agd": 2.33,
+            "sched": 85.21
         }
     },
     "Team Minnesota (2027)": {
@@ -9023,6 +10605,20 @@
             "rating": 89.57,
             "agd": 7.36,
             "sched": 82.21
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 79,
+            "team": "CitySideLax (2027)",
+            "state": "WA",
+            "record": "11-0",
+            "wins": 11,
+            "losses": 0,
+            "ties": 0,
+            "rating": 89.47,
+            "agd": 7.36,
+            "sched": 82.11
         }
     },
     "BIRMINGHAM BANDITS (2027)": {
@@ -9095,6 +10691,20 @@
             "rating": 83.96,
             "agd": -2.07,
             "sched": 86.03
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 175,
+            "team": "BIRMINGHAM BANDITS (2027)",
+            "state": "AL",
+            "record": "5-8-1",
+            "wins": 5,
+            "losses": 8,
+            "ties": 1,
+            "rating": 83.95,
+            "agd": -2.07,
+            "sched": 86.02
         }
     },
     "NXT Silver (2027)": {
@@ -9167,6 +10777,20 @@
             "rating": 84.51,
             "agd": 3.28,
             "sched": 81.23
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 168,
+            "team": "NXT Silver (2027)",
+            "state": "PA",
+            "record": "12-2",
+            "wins": 12,
+            "losses": 2,
+            "ties": 0,
+            "rating": 84.39,
+            "agd": 3.28,
+            "sched": 81.11
         }
     },
     "Sweetlax Loggerheads (2027)": {
@@ -9239,6 +10863,20 @@
             "rating": 78.79,
             "agd": -0.14,
             "sched": 78.93
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 278,
+            "team": "Sweetlax Loggerheads (2027)",
+            "state": "SC",
+            "record": "3-4",
+            "wins": 3,
+            "losses": 4,
+            "ties": 0,
+            "rating": 78.7,
+            "agd": -0.14,
+            "sched": 78.84
         }
     },
     "LTLC (2027)": {
@@ -9327,6 +10965,20 @@
             "rating": 87.52,
             "agd": 0.83,
             "sched": 86.69
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 105,
+            "team": "3D Upstate (2027)",
+            "state": "NY",
+            "record": "6-5-1",
+            "wins": 6,
+            "losses": 5,
+            "ties": 1,
+            "rating": 87.43,
+            "agd": 0.83,
+            "sched": 86.6
         }
     },
     "3d Colorado AA (2027)": {
@@ -9399,6 +11051,20 @@
             "rating": 82.5,
             "agd": -5.64,
             "sched": 88.14
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 205,
+            "team": "3d Colorado AA (2027)",
+            "state": "CO",
+            "record": "1-12-1",
+            "wins": 1,
+            "losses": 12,
+            "ties": 1,
+            "rating": 82.6,
+            "agd": -5.64,
+            "sched": 88.24
         }
     },
     "NY Reign (2027)": {
@@ -9471,6 +11137,20 @@
             "rating": 86.5,
             "agd": 2.16,
             "sched": 84.34
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 129,
+            "team": "NY Reign (2027)",
+            "state": "NY",
+            "record": "4-1-1",
+            "wins": 4,
+            "losses": 1,
+            "ties": 1,
+            "rating": 86.4,
+            "agd": 2.16,
+            "sched": 84.24
         }
     },
     "ALC Bay Raiders (2027)": {
@@ -9591,6 +11271,20 @@
             "rating": 82.56,
             "agd": 0.27,
             "sched": 82.29
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 208,
+            "team": "SJ Shamrocks (2027)",
+            "state": "NJ",
+            "record": "5-5-1",
+            "wins": 5,
+            "losses": 5,
+            "ties": 1,
+            "rating": 82.46,
+            "agd": 0.27,
+            "sched": 82.19
         }
     },
     "New England Twisters Orange (2027)": {
@@ -9697,6 +11391,20 @@
             "rating": 88.54,
             "agd": 5,
             "sched": 83.54
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 92,
+            "team": "LI Empire Rattlers (2027)",
+            "state": "NY",
+            "record": "5-2",
+            "wins": 5,
+            "losses": 2,
+            "ties": 0,
+            "rating": 88.43,
+            "agd": 5,
+            "sched": 83.43
         }
     },
     "True Annapolis White (2027)": {
@@ -9785,6 +11493,20 @@
             "rating": 86.22,
             "agd": 2.77,
             "sched": 83.45
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 138,
+            "team": "3D New England blue (2027)",
+            "state": "MA",
+            "record": "7-2",
+            "wins": 7,
+            "losses": 2,
+            "ties": 0,
+            "rating": 86.16,
+            "agd": 2.77,
+            "sched": 83.39
         }
     },
     "3d Colorado A (2027)": {
@@ -9873,6 +11595,20 @@
             "rating": 85.37,
             "agd": 0.21,
             "sched": 85.16
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 145,
+            "team": "Team 91 CO Northside (2027)",
+            "state": "CO",
+            "record": "7-6-1",
+            "wins": 7,
+            "losses": 6,
+            "ties": 1,
+            "rating": 85.5,
+            "agd": 0.21,
+            "sched": 85.29
         }
     },
     "AZ Outlaws (2027)": {
@@ -9961,6 +11697,20 @@
             "rating": 81.09,
             "agd": 0.16,
             "sched": 80.93
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 228,
+            "team": "Tri-State Lacrosse (2027)",
+            "state": "NJ",
+            "record": "2-3-1",
+            "wins": 2,
+            "losses": 3,
+            "ties": 1,
+            "rating": 80.99,
+            "agd": 0.16,
+            "sched": 80.83
         }
     },
     "Mad Dog North Black (2027)": {
@@ -10033,6 +11783,20 @@
             "rating": 87.41,
             "agd": 2.16,
             "sched": 85.25
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 110,
+            "team": "Mad Dog North Black (2027)",
+            "state": "NJ",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 87.35,
+            "agd": 2.16,
+            "sched": 85.19
         }
     },
     "Dominate Lacrosse (2027)": {
@@ -10105,6 +11869,20 @@
             "rating": 89.14,
             "agd": 3,
             "sched": 86.14
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 82,
+            "team": "Dominate Lacrosse (2027)",
+            "state": "MI",
+            "record": "7-2",
+            "wins": 7,
+            "losses": 2,
+            "ties": 0,
+            "rating": 89.13,
+            "agd": 3,
+            "sched": 86.13
         }
     },
     "Madlax Capital - DMV (2027)": {
@@ -10177,6 +11955,20 @@
             "rating": 82.79,
             "agd": -3.42,
             "sched": 86.21
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 199,
+            "team": "Madlax Capital - DMV (2027)",
+            "state": "VA",
+            "record": "1-6",
+            "wins": 1,
+            "losses": 6,
+            "ties": 0,
+            "rating": 82.68,
+            "agd": -3.42,
+            "sched": 86.1
         }
     },
     "True Cincinnati (2027)": {
@@ -10249,6 +12041,20 @@
             "rating": 82.92,
             "agd": 1,
             "sched": 81.92
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 194,
+            "team": "True Cincinnati (2027)",
+            "state": "OH",
+            "record": "4-1-1",
+            "wins": 4,
+            "losses": 1,
+            "ties": 1,
+            "rating": 82.87,
+            "agd": 1,
+            "sched": 81.87
         }
     },
     "True CO (2027)": {
@@ -10321,6 +12127,20 @@
             "rating": 82.77,
             "agd": -1.44,
             "sched": 84.21
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 196,
+            "team": "True CO (2027)",
+            "state": "CO",
+            "record": "4-4-1",
+            "wins": 4,
+            "losses": 4,
+            "ties": 1,
+            "rating": 82.86,
+            "agd": -1.44,
+            "sched": 84.3
         }
     },
     "Albany Stags (2027)": {
@@ -10393,6 +12213,20 @@
             "rating": 86.05,
             "agd": -0.22,
             "sched": 86.27
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 140,
+            "team": "Albany Stags (2027)",
+            "state": "NY",
+            "record": "4-4-1",
+            "wins": 4,
+            "losses": 4,
+            "ties": 1,
+            "rating": 85.98,
+            "agd": -0.22,
+            "sched": 86.2
         }
     },
     "True PA Valley (2027)": {
@@ -10481,6 +12315,20 @@
             "rating": 84.51,
             "agd": -2.7,
             "sched": 87.21
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 166,
+            "team": "HGR Blue (2027)",
+            "state": "MA",
+            "record": "2-6-2",
+            "wins": 2,
+            "losses": 6,
+            "ties": 2,
+            "rating": 84.44,
+            "agd": -2.7,
+            "sched": 87.14
         }
     },
     "SoCal Express (2027)": {
@@ -10553,6 +12401,20 @@
             "rating": 85.3,
             "agd": 4.2,
             "sched": 81.1
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 150,
+            "team": "SoCal Express (2027)",
+            "state": "CA",
+            "record": "8-2",
+            "wins": 8,
+            "losses": 2,
+            "ties": 0,
+            "rating": 85.25,
+            "agd": 4.2,
+            "sched": 81.05
         }
     },
     "Omnia AA (2027)": {
@@ -10625,6 +12487,20 @@
             "rating": 85.94,
             "agd": -2,
             "sched": 87.94
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 131,
+            "team": "Omnia AA (2027)",
+            "state": "MI",
+            "record": "2-4",
+            "wins": 2,
+            "losses": 4,
+            "ties": 0,
+            "rating": 86.33,
+            "agd": -2,
+            "sched": 88.33
         }
     },
     "HEADstrong Lehigh (2027)": {
@@ -10745,6 +12621,20 @@
             "rating": 82.9,
             "agd": 1.9,
             "sched": 81
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 195,
+            "team": "Team ONE Academy (2027)",
+            "state": "IL",
+            "record": "6-3-2",
+            "wins": 6,
+            "losses": 3,
+            "ties": 2,
+            "rating": 82.86,
+            "agd": 1.9,
+            "sched": 80.96
         }
     },
     "2 Knights Barons (2027)": {
@@ -10817,6 +12707,20 @@
             "rating": 80.99,
             "agd": -0.5,
             "sched": 81.49
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 231,
+            "team": "2 Knights Barons (2027)",
+            "state": "NJ",
+            "record": "4-5-1",
+            "wins": 4,
+            "losses": 5,
+            "ties": 1,
+            "rating": 80.89,
+            "agd": -0.5,
+            "sched": 81.39
         }
     },
     "Upper Level (2027)": {
@@ -10905,6 +12809,20 @@
             "rating": 89.32,
             "agd": 1.44,
             "sched": 87.88
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 72,
+            "team": "Team KC Blue (2027)",
+            "state": "MO",
+            "record": "5-4",
+            "wins": 5,
+            "losses": 4,
+            "ties": 0,
+            "rating": 89.9,
+            "agd": 1.44,
+            "sched": 88.46
         }
     },
     "Greenwich Warriors (2027)": {
@@ -11009,6 +12927,20 @@
             "rating": 86.29,
             "agd": 0.41,
             "sched": 85.88
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 135,
+            "team": "True Pittsburgh (2027)",
+            "state": "PA",
+            "record": "5-6-1",
+            "wins": 5,
+            "losses": 6,
+            "ties": 1,
+            "rating": 86.23,
+            "agd": 0.41,
+            "sched": 85.82
         }
     },
     "Georgia Blackhawks (2027)": {
@@ -11097,6 +13029,20 @@
             "rating": 87.54,
             "agd": 2.73,
             "sched": 84.81
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 104,
+            "team": "Cape Fear Shamrocks (2027)",
+            "state": "NC",
+            "record": "11-4",
+            "wins": 11,
+            "losses": 4,
+            "ties": 0,
+            "rating": 87.46,
+            "agd": 2.73,
+            "sched": 84.73
         }
     },
     "HoCo (2027)": {
@@ -11249,6 +13195,20 @@
             "rating": 82.97,
             "agd": 3.42,
             "sched": 79.55
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 193,
+            "team": "Brotherhood Lacrosse (2027)",
+            "state": "NJ",
+            "record": "5-1-1",
+            "wins": 5,
+            "losses": 1,
+            "ties": 1,
+            "rating": 82.88,
+            "agd": 3.42,
+            "sched": 79.46
         }
     },
     "Midwest Top Gun (2027)": {
@@ -11321,6 +13281,20 @@
             "rating": 80.25,
             "agd": -3.36,
             "sched": 83.61
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 249,
+            "team": "Midwest Top Gun (2027)",
+            "state": "MO",
+            "record": "2-8-1",
+            "wins": 2,
+            "losses": 8,
+            "ties": 1,
+            "rating": 80.1,
+            "agd": -3.36,
+            "sched": 83.46
         }
     },
     "True NJ (2027)": {
@@ -11393,6 +13367,20 @@
             "rating": 86.99,
             "agd": 1.14,
             "sched": 85.85
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 122,
+            "team": "True NJ (2027)",
+            "state": "NJ",
+            "record": "4-2-1",
+            "wins": 4,
+            "losses": 2,
+            "ties": 1,
+            "rating": 86.89,
+            "agd": 1.14,
+            "sched": 85.75
         }
     },
     "NJ Riot Mayhem (2027)": {
@@ -11481,6 +13469,20 @@
             "rating": 83.1,
             "agd": -0.16,
             "sched": 83.26
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 189,
+            "team": "Sidewinders MD Volt (2027)",
+            "state": "MD",
+            "record": "3-2-1",
+            "wins": 3,
+            "losses": 2,
+            "ties": 1,
+            "rating": 82.98,
+            "agd": -0.16,
+            "sched": 83.14
         }
     },
     "Rockfish Purple (2027)": {
@@ -11569,6 +13571,20 @@
             "rating": 85.47,
             "agd": -0.1,
             "sched": 85.57
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 147,
+            "team": "NCF Triad Elite Red (2027)",
+            "state": "NC",
+            "record": "10-9",
+            "wins": 10,
+            "losses": 9,
+            "ties": 0,
+            "rating": 85.39,
+            "agd": -0.1,
+            "sched": 85.49
         }
     },
     "True Illinois Black AA (2027)": {
@@ -11641,6 +13657,20 @@
             "rating": 85.28,
             "agd": 3.62,
             "sched": 81.66
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 149,
+            "team": "True Illinois Black AA (2027)",
+            "state": "IL",
+            "record": "10-5-1",
+            "wins": 10,
+            "losses": 5,
+            "ties": 1,
+            "rating": 85.27,
+            "agd": 3.62,
+            "sched": 81.65
         }
     },
     "79ers (2027)": {
@@ -11699,6 +13729,20 @@
             "rating": 77.47,
             "agd": -5.33,
             "sched": 82.8
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 291,
+            "team": "79ers (2027)",
+            "state": "PA",
+            "record": "0-5-1",
+            "wins": 0,
+            "losses": 5,
+            "ties": 1,
+            "rating": 77.4,
+            "agd": -5.33,
+            "sched": 82.73
         }
     },
     "Top Gun Littlenecks A (2027)": {
@@ -11851,6 +13895,20 @@
             "rating": 87.22,
             "agd": 1.14,
             "sched": 86.08
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 113,
+            "team": "Team 91 LI Fury (2027)",
+            "state": "NY",
+            "record": "4-3",
+            "wins": 4,
+            "losses": 3,
+            "ties": 0,
+            "rating": 87.12,
+            "agd": 1.14,
+            "sched": 85.98
         }
     },
     "Team 91 Tristate Wave (2027)": {
@@ -11923,6 +13981,20 @@
             "rating": 80.63,
             "agd": -3.16,
             "sched": 83.79
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 234,
+            "team": "Team 91 Tristate Wave (2027)",
+            "state": "NY",
+            "record": "1-4-1",
+            "wins": 1,
+            "losses": 4,
+            "ties": 1,
+            "rating": 80.54,
+            "agd": -3.16,
+            "sched": 83.7
         }
     },
     "Baltimore Breakers (2027)": {
@@ -11995,6 +14067,20 @@
             "rating": 83.34,
             "agd": 2.71,
             "sched": 80.63
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 185,
+            "team": "Baltimore Breakers (2027)",
+            "state": "MD",
+            "record": "4-2-1",
+            "wins": 4,
+            "losses": 2,
+            "ties": 1,
+            "rating": 83.19,
+            "agd": 2.71,
+            "sched": 80.48
         }
     },
     "Booth Indians (2027)": {
@@ -12067,6 +14153,20 @@
             "rating": 83.62,
             "agd": 1.25,
             "sched": 82.37
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 207,
+            "team": "Booth Indians (2027)",
+            "state": "TX",
+            "record": "6-5-1",
+            "wins": 6,
+            "losses": 5,
+            "ties": 1,
+            "rating": 82.51,
+            "agd": 0.33,
+            "sched": 82.18
         }
     },
     "Ultimate Lax Pittsburgh Gold (2027)": {
@@ -12113,6 +14213,20 @@
             "rating": 82.83,
             "agd": -1,
             "sched": 83.83
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 190,
+            "team": "AZ Starz (2027)",
+            "state": "",
+            "record": "2-3-1",
+            "wins": 2,
+            "losses": 3,
+            "ties": 1,
+            "rating": 82.97,
+            "agd": -1,
+            "sched": 83.97
         }
     },
     "Bandits Elite (2027)": {
@@ -12233,6 +14347,20 @@
             "rating": 87.11,
             "agd": 3.13,
             "sched": 83.98
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 119,
+            "team": "Carolina Mavericks (2027)",
+            "state": "NC",
+            "record": "10-5",
+            "wins": 10,
+            "losses": 5,
+            "ties": 0,
+            "rating": 87.04,
+            "agd": 3.13,
+            "sched": 83.91
         }
     },
     "Team Turnpike (2027)": {
@@ -12305,6 +14433,20 @@
             "rating": 84.7,
             "agd": 2.33,
             "sched": 82.37
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 162,
+            "team": "Team Turnpike (2027)",
+            "state": "NJ",
+            "record": "7-1-1",
+            "wins": 7,
+            "losses": 1,
+            "ties": 1,
+            "rating": 84.6,
+            "agd": 2.33,
+            "sched": 82.27
         }
     },
     "Evolution Lacrosse Elite Team (2027)": {
@@ -12377,6 +14519,20 @@
             "rating": 82.82,
             "agd": 1.71,
             "sched": 81.11
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 198,
+            "team": "Evolution Lacrosse Elite Team (2027)",
+            "state": "NJ",
+            "record": "4-3",
+            "wins": 4,
+            "losses": 3,
+            "ties": 0,
+            "rating": 82.73,
+            "agd": 1.71,
+            "sched": 81.02
         }
     },
     "iM3 Lacrosse (2027)": {
@@ -12449,6 +14605,20 @@
             "rating": 76.57,
             "agd": -1.16,
             "sched": 77.73
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 303,
+            "team": "iM3 Lacrosse (2027)",
+            "state": "PA",
+            "record": "2-3-1",
+            "wins": 2,
+            "losses": 3,
+            "ties": 1,
+            "rating": 76.48,
+            "agd": -1.16,
+            "sched": 77.64
         }
     },
     "Ridgewood Maroons 7 (2027)": {
@@ -12521,6 +14691,20 @@
             "rating": 84.41,
             "agd": 1.14,
             "sched": 83.27
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 170,
+            "team": "Ridgewood Maroons 7 (2027)",
+            "state": "NJ",
+            "record": "4-3",
+            "wins": 4,
+            "losses": 3,
+            "ties": 0,
+            "rating": 84.31,
+            "agd": 1.14,
+            "sched": 83.17
         }
     },
     "Resolute - Cleveland (2027)": {
@@ -12721,6 +14905,20 @@
             "rating": 88.55,
             "agd": 3,
             "sched": 85.55
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 90,
+            "team": "Gorilla Lacrosse Club (VA)",
+            "state": "VA",
+            "record": "8-2-1",
+            "wins": 8,
+            "losses": 2,
+            "ties": 1,
+            "rating": 88.48,
+            "agd": 3,
+            "sched": 85.48
         }
     },
     "Fusion VA (2027)": {
@@ -12793,6 +14991,20 @@
             "rating": 82.17,
             "agd": -1.81,
             "sched": 83.98
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 213,
+            "team": "Fusion VA (2027)",
+            "state": "VA",
+            "record": "6-9-1",
+            "wins": 6,
+            "losses": 9,
+            "ties": 1,
+            "rating": 82.09,
+            "agd": -1.81,
+            "sched": 83.9
         }
     },
     "Team CT Navy (2027)": {
@@ -12881,6 +15093,20 @@
             "rating": 85.2,
             "agd": 3.66,
             "sched": 81.54
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 152,
+            "team": "Jersey Thunder West (2027)",
+            "state": "NJ",
+            "record": "7-1-1",
+            "wins": 7,
+            "losses": 1,
+            "ties": 1,
+            "rating": 85.1,
+            "agd": 3.66,
+            "sched": 81.44
         }
     },
     "Sentry (2027)": {
@@ -12957,6 +15183,20 @@
             "rating": 76.64,
             "agd": -6,
             "sched": 82.64
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 301,
+            "team": "Hitmen Lacrosse (2027)",
+            "state": "NY",
+            "record": "0-6",
+            "wins": 0,
+            "losses": 6,
+            "ties": 0,
+            "rating": 76.54,
+            "agd": -6,
+            "sched": 82.54
         }
     },
     "SoCal Bulls (2027)": {
@@ -13077,6 +15317,20 @@
             "rating": 85.5,
             "agd": 0.71,
             "sched": 84.79
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 146,
+            "team": "Westside Black (2027)",
+            "state": "MI",
+            "record": "4-3",
+            "wins": 4,
+            "losses": 3,
+            "ties": 0,
+            "rating": 85.49,
+            "agd": 0.71,
+            "sched": 84.78
         }
     },
     "Bucks Select (2027)": {
@@ -13149,6 +15403,20 @@
             "rating": 79.28,
             "agd": -3.71,
             "sched": 82.99
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 273,
+            "team": "Bucks Select (2027)",
+            "state": "PA",
+            "record": "1-5-1",
+            "wins": 1,
+            "losses": 5,
+            "ties": 1,
+            "rating": 79.18,
+            "agd": -3.71,
+            "sched": 82.89
         }
     },
     "Express North Orange (2027)": {
@@ -13221,6 +15489,20 @@
             "rating": 84.65,
             "agd": -3.25,
             "sched": 87.9
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 165,
+            "team": "Express North Orange (2027)",
+            "state": "CT",
+            "record": "2-5-1",
+            "wins": 2,
+            "losses": 5,
+            "ties": 1,
+            "rating": 84.44,
+            "agd": -3.25,
+            "sched": 87.69
         }
     },
     "Connecticut Valley 27/28": {
@@ -13375,6 +15657,20 @@
             "rating": 92.13,
             "agd": 2.09,
             "sched": 90.04
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 37,
+            "team": "Utah Summit Black (2027)",
+            "state": "UT",
+            "record": "7-3-1",
+            "wins": 7,
+            "losses": 3,
+            "ties": 1,
+            "rating": 92.26,
+            "agd": 2.09,
+            "sched": 90.17
         }
     },
     "Thunder Select (2027)": {
@@ -13479,6 +15775,20 @@
             "rating": 87.12,
             "agd": -1.13,
             "sched": 88.25
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 111,
+            "team": "True MN AA (2027)",
+            "state": "MN",
+            "record": "6-8-1",
+            "wins": 6,
+            "losses": 8,
+            "ties": 1,
+            "rating": 87.35,
+            "agd": -1.13,
+            "sched": 88.48
         }
     },
     "LS (2027/28)": {
@@ -13583,6 +15893,20 @@
             "rating": 80.22,
             "agd": -0.66,
             "sched": 80.88
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 247,
+            "team": "Coyotes White MA (2027)",
+            "state": "MA",
+            "record": "4-4-1",
+            "wins": 4,
+            "losses": 4,
+            "ties": 1,
+            "rating": 80.16,
+            "agd": -0.66,
+            "sched": 80.82
         }
     },
     "Albany Stags Purple (2027/28)": {
@@ -13655,6 +15979,20 @@
             "rating": 79.51,
             "agd": -6.33,
             "sched": 85.84
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 270,
+            "team": "Albany Stags Purple (2027/28)",
+            "state": "NY",
+            "record": "0-8-1",
+            "wins": 0,
+            "losses": 8,
+            "ties": 1,
+            "rating": 79.42,
+            "agd": -6.33,
+            "sched": 85.75
         }
     },
     "Blackhawks West Coast (2027)": {
@@ -13775,6 +16113,20 @@
             "rating": 80.18,
             "agd": -3.66,
             "sched": 83.84
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 242,
+            "team": "Bolts 27/28",
+            "state": "CO",
+            "record": "1-7-1",
+            "wins": 1,
+            "losses": 7,
+            "ties": 1,
+            "rating": 80.28,
+            "agd": -3.66,
+            "sched": 83.94
         }
     },
     "Kings Red MA (2027)": {
@@ -13895,6 +16247,20 @@
             "rating": 82.9,
             "agd": -1,
             "sched": 83.9
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 188,
+            "team": "Chaos TX (2027)",
+            "state": "TX",
+            "record": "4-2",
+            "wins": 4,
+            "losses": 2,
+            "ties": 0,
+            "rating": 83,
+            "agd": -1,
+            "sched": 84
         }
     },
     "YONA (2027)": {
@@ -13999,6 +16365,20 @@
             "rating": 84.45,
             "agd": -2.16,
             "sched": 86.61
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 169,
+            "team": "802 Lacrosse Green (2027)",
+            "state": "VT",
+            "record": "2-3-1",
+            "wins": 2,
+            "losses": 3,
+            "ties": 1,
+            "rating": 84.38,
+            "agd": -2.16,
+            "sched": 86.54
         }
     },
     "Top Caliber Lacrosse (2027)": {
@@ -14071,6 +16451,20 @@
             "rating": 79.85,
             "agd": -1.88,
             "sched": 81.73
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 256,
+            "team": "Top Caliber Lacrosse (2027)",
+            "state": "VA",
+            "record": "3-6",
+            "wins": 3,
+            "losses": 6,
+            "ties": 0,
+            "rating": 79.75,
+            "agd": -1.88,
+            "sched": 81.63
         }
     },
     "4Leaf Airforce (2027)": {
@@ -14175,6 +16569,20 @@
             "rating": 82.36,
             "agd": -1.71,
             "sched": 84.07
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 212,
+            "team": "Long Island Rush Panthers (2027)",
+            "state": "NY",
+            "record": "2-4-1",
+            "wins": 2,
+            "losses": 4,
+            "ties": 1,
+            "rating": 82.26,
+            "agd": -1.71,
+            "sched": 83.97
         }
     },
     "MDX North Blue (2027)": {
@@ -14311,6 +16719,20 @@
             "rating": 82.63,
             "agd": 1.33,
             "sched": 81.3
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 206,
+            "team": "Headlines Orange (2027)",
+            "state": "OH",
+            "record": "2-3-1",
+            "wins": 2,
+            "losses": 3,
+            "ties": 1,
+            "rating": 82.57,
+            "agd": 1.33,
+            "sched": 81.24
         }
     },
     "Resolute Cinci (2027)": {
@@ -14415,6 +16837,20 @@
             "rating": 79.65,
             "agd": 0.16,
             "sched": 79.49
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 262,
+            "team": "Ballers (2027)",
+            "state": "NY",
+            "record": "1-1-4",
+            "wins": 1,
+            "losses": 1,
+            "ties": 4,
+            "rating": 79.56,
+            "agd": 0.16,
+            "sched": 79.4
         }
     },
     "ADK MountainMen Yellow (2027)": {
@@ -14583,6 +17019,20 @@
             "rating": 82.75,
             "agd": -0.33,
             "sched": 83.08
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 202,
+            "team": "Westchester Predators Black (2027)",
+            "state": "NY",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 82.66,
+            "agd": -0.33,
+            "sched": 82.99
         }
     },
     "3d NE South 27/28": {
@@ -14629,6 +17079,20 @@
             "rating": 81.68,
             "agd": 0.11,
             "sched": 81.57
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 220,
+            "team": "South Sound (2027)",
+            "state": "WA",
+            "record": "4-5",
+            "wins": 4,
+            "losses": 5,
+            "ties": 0,
+            "rating": 81.53,
+            "agd": 0.11,
+            "sched": 81.42
         }
     },
     "No Excuse Nashville (2027)": {
@@ -14703,6 +17167,20 @@
             "rating": 80.21,
             "agd": -1.5,
             "sched": 81.71
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 248,
+            "team": "SWEETLAX SAVANNAH HAWKSBILLS (2027)",
+            "state": "GA",
+            "record": "2-3-1",
+            "wins": 2,
+            "losses": 3,
+            "ties": 1,
+            "rating": 80.14,
+            "agd": -1.5,
+            "sched": 81.64
         }
     },
     "3D Georgia White (2027)": {
@@ -14761,6 +17239,20 @@
             "rating": 78.29,
             "agd": -3.9,
             "sched": 82.19
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 284,
+            "team": "3D Georgia White (2027)",
+            "state": "GA",
+            "record": "3-7",
+            "wins": 3,
+            "losses": 7,
+            "ties": 0,
+            "rating": 78.35,
+            "agd": -3.9,
+            "sched": 82.25
         }
     },
     "True Grand Rapids (2027)": {
@@ -14865,6 +17357,20 @@
             "rating": 78.46,
             "agd": -3.81,
             "sched": 82.27
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 282,
+            "team": "ATLANTA EMPIRE (2027)",
+            "state": "GA",
+            "record": "1-10",
+            "wins": 1,
+            "losses": 10,
+            "ties": 0,
+            "rating": 78.43,
+            "agd": -3.81,
+            "sched": 82.24
         }
     },
     "HEADstrong Quakers (2027)": {
@@ -14937,6 +17443,20 @@
             "rating": 84.39,
             "agd": 0.33,
             "sched": 84.06
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 172,
+            "team": "HEADstrong Quakers (2027)",
+            "state": "PA",
+            "record": "3-2-1",
+            "wins": 3,
+            "losses": 2,
+            "ties": 1,
+            "rating": 84.19,
+            "agd": 0.33,
+            "sched": 83.86
         }
     },
     "Penguins Bulldog (2027)": {
@@ -15025,6 +17545,20 @@
             "rating": 81.04,
             "agd": 1.5,
             "sched": 79.54
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 229,
+            "team": "Patriot Elite Navy (2027)",
+            "state": "NJ",
+            "record": "3-2-1",
+            "wins": 3,
+            "losses": 2,
+            "ties": 1,
+            "rating": 80.95,
+            "agd": 1.5,
+            "sched": 79.45
         }
     },
     "Jersey Thunder Central (2027)": {
@@ -15097,6 +17631,20 @@
             "rating": 80,
             "agd": -0.28,
             "sched": 80.28
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 253,
+            "team": "Jersey Thunder Central (2027)",
+            "state": "NJ",
+            "record": "3-4",
+            "wins": 3,
+            "losses": 4,
+            "ties": 0,
+            "rating": 79.9,
+            "agd": -0.28,
+            "sched": 80.18
         }
     },
     "Force Lacrosse (2027)": {
@@ -15185,6 +17733,20 @@
             "rating": 78.76,
             "agd": -3.4,
             "sched": 82.16
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 279,
+            "team": "LI Rebels LC Red Raiders (2027)",
+            "state": "NY",
+            "record": "4-6",
+            "wins": 4,
+            "losses": 6,
+            "ties": 0,
+            "rating": 78.66,
+            "agd": -3.4,
+            "sched": 82.06
         }
     },
     "Mad Dog Shore Red (2027)": {
@@ -15257,6 +17819,20 @@
             "rating": 83.04,
             "agd": -1,
             "sched": 84.04
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 192,
+            "team": "Mad Dog Shore Red (2027)",
+            "state": "NJ",
+            "record": "1-5",
+            "wins": 1,
+            "losses": 5,
+            "ties": 0,
+            "rating": 82.94,
+            "agd": -1,
+            "sched": 83.94
         }
     },
     "Piatelli Central Giannetti\t(2027)": {
@@ -15345,6 +17921,20 @@
             "rating": 75.8,
             "agd": -3.1,
             "sched": 78.9
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 309,
+            "team": "BLU BHM (2027/28)\t",
+            "state": "AL",
+            "record": "1-9",
+            "wins": 1,
+            "losses": 9,
+            "ties": 0,
+            "rating": 75.9,
+            "agd": -3.1,
+            "sched": 79
         }
     },
     "Loudon Hammers Select (2027)": {
@@ -15417,6 +18007,20 @@
             "rating": 77.07,
             "agd": -4.66,
             "sched": 81.73
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 295,
+            "team": "Loudon Hammers Select (2027)",
+            "state": "VA",
+            "record": "2-4",
+            "wins": 2,
+            "losses": 4,
+            "ties": 0,
+            "rating": 76.99,
+            "agd": -4.66,
+            "sched": 81.65
         }
     },
     "Evolution Edge Lacrosse Academy (2027)": {
@@ -15489,6 +18093,20 @@
             "rating": 79.78,
             "agd": -0.5,
             "sched": 80.28
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 258,
+            "team": "Evolution Edge Lacrosse Academy (2027)",
+            "state": "NJ",
+            "record": "3-2-1",
+            "wins": 3,
+            "losses": 2,
+            "ties": 1,
+            "rating": 79.69,
+            "agd": -0.5,
+            "sched": 80.19
         }
     },
     "Legit Lacrosse 27/28": {
@@ -15577,6 +18195,20 @@
             "rating": 73.17,
             "agd": -6,
             "sched": 79.17
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 317,
+            "team": "Baltimore Swarm / Perry Hall (2027)",
+            "state": "MD",
+            "record": "0-6",
+            "wins": 0,
+            "losses": 6,
+            "ties": 0,
+            "rating": 73.04,
+            "agd": -6,
+            "sched": 79.04
         }
     },
     "Salt Lake Summit Black (2027)": {
@@ -15713,6 +18345,20 @@
             "rating": 83.81,
             "agd": 2.16,
             "sched": 81.65
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 179,
+            "team": "Blue Star White (2027)",
+            "state": "NJ",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 83.69,
+            "agd": 2.16,
+            "sched": 81.53
         }
     },
     "Team 48 (2027/28)": {
@@ -15801,6 +18447,20 @@
             "rating": 84.33,
             "agd": 2.77,
             "sched": 81.56
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 181,
+            "team": "Iron Horse Houston (2027)",
+            "state": "TX",
+            "record": "8-5",
+            "wins": 8,
+            "losses": 5,
+            "ties": 0,
+            "rating": 83.44,
+            "agd": 0.92,
+            "sched": 82.52
         }
     },
     "LA MAVS Orange (2027)": {
@@ -15889,6 +18549,20 @@
             "rating": 82.54,
             "agd": -0.87,
             "sched": 83.41
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 209,
+            "team": "Valley Select (2027/28)",
+            "state": "VA",
+            "record": "3-5",
+            "wins": 3,
+            "losses": 5,
+            "ties": 0,
+            "rating": 82.46,
+            "agd": -0.87,
+            "sched": 83.33
         }
     },
     "MN Loons U14 Red (2027)": {
@@ -15993,6 +18667,20 @@
             "rating": 77.62,
             "agd": -2.83,
             "sched": 80.45
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 290,
+            "team": "Zingos Blue (2027)",
+            "state": "MD",
+            "record": "1-5",
+            "wins": 1,
+            "losses": 5,
+            "ties": 0,
+            "rating": 77.48,
+            "agd": -2.83,
+            "sched": 80.31
         }
     },
     "Black Bear (2027)": {
@@ -16065,6 +18753,20 @@
             "rating": 80.37,
             "agd": -3,
             "sched": 83.37
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 241,
+            "team": "Black Bear (2027)",
+            "state": "PA",
+            "record": "2-7",
+            "wins": 2,
+            "losses": 7,
+            "ties": 0,
+            "rating": 80.28,
+            "agd": -3,
+            "sched": 83.28
         }
     },
     "Pride Lacrosse Westchester (2027)": {
@@ -16201,6 +18903,20 @@
             "rating": 80.22,
             "agd": -1.66,
             "sched": 81.88
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 246,
+            "team": "Columbia Elite (2027)",
+            "state": "SC",
+            "record": "3-6",
+            "wins": 3,
+            "losses": 6,
+            "ties": 0,
+            "rating": 80.16,
+            "agd": -1.66,
+            "sched": 81.82
         }
     },
     "Upstate Carolina Lacrosse (2027)": {
@@ -16259,6 +18975,20 @@
             "rating": 81.24,
             "agd": 0.4,
             "sched": 80.84
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 227,
+            "team": "Upstate Carolina Lacrosse (2027)",
+            "state": "SC",
+            "record": "5-5",
+            "wins": 5,
+            "losses": 5,
+            "ties": 0,
+            "rating": 81.18,
+            "agd": 0.4,
+            "sched": 80.78
         }
     },
     "Express North White (2027)": {
@@ -16441,6 +19171,20 @@
             "rating": 83.33,
             "agd": -1.63,
             "sched": 84.96
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 183,
+            "team": "True Illinois Black A (2027)",
+            "state": "IL",
+            "record": "2-8-1",
+            "wins": 2,
+            "losses": 8,
+            "ties": 1,
+            "rating": 83.33,
+            "agd": -1.63,
+            "sched": 84.96
         }
     },
     "SD Zombies (2027)": {
@@ -16529,6 +19273,20 @@
             "rating": 79.84,
             "agd": -2,
             "sched": 81.84
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 257,
+            "team": "True Philly (2027)",
+            "state": "PA",
+            "record": "2-4",
+            "wins": 2,
+            "losses": 4,
+            "ties": 0,
+            "rating": 79.71,
+            "agd": -2,
+            "sched": 81.71
         }
     },
     "970 Lax Allsup (2027)": {
@@ -16649,6 +19407,20 @@
             "rating": 75.09,
             "agd": -4.33,
             "sched": 79.42
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 313,
+            "team": "Mad Dog North Blue (2027)",
+            "state": "NJ",
+            "record": "2-4",
+            "wins": 2,
+            "losses": 4,
+            "ties": 0,
+            "rating": 74.99,
+            "agd": -4.33,
+            "sched": 79.32
         }
     },
     "No Excuse Chattanooga (2027/28)": {
@@ -16679,6 +19451,20 @@
             "rating": 77.02,
             "agd": -3.42,
             "sched": 80.44
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 294,
+            "team": "No Excuse Chattanooga (2027/28)",
+            "state": "TN",
+            "record": "1-5-1",
+            "wins": 1,
+            "losses": 5,
+            "ties": 1,
+            "rating": 77.19,
+            "agd": -3.42,
+            "sched": 80.61
         }
     },
     "3D Garden State A (2027)": {
@@ -16783,6 +19569,20 @@
             "rating": 76.64,
             "agd": -7.11,
             "sched": 83.75
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 300,
+            "team": "True Indiana A (2027)",
+            "state": "IN",
+            "record": "0-9",
+            "wins": 0,
+            "losses": 9,
+            "ties": 0,
+            "rating": 76.59,
+            "agd": -7.11,
+            "sched": 83.7
         }
     },
     "DS Thrashers (2027)": {
@@ -16887,6 +19687,20 @@
             "rating": 79.05,
             "agd": 0.5,
             "sched": 78.55
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 277,
+            "team": "Chapel Hillsborough Hilltoppers - Blue (2027)",
+            "state": "NC",
+            "record": "6-4",
+            "wins": 6,
+            "losses": 4,
+            "ties": 0,
+            "rating": 78.95,
+            "agd": 0.5,
+            "sched": 78.45
         }
     },
     "Saltwater Mid-Atlantic Lacrosse (2027)": {
@@ -16949,6 +19763,20 @@
             "rating": 77.45,
             "agd": -2.12,
             "sched": 79.57
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 293,
+            "team": "Team Oregon A (2027)",
+            "state": "OR",
+            "record": "2-5-1",
+            "wins": 2,
+            "losses": 5,
+            "ties": 1,
+            "rating": 77.27,
+            "agd": -2.12,
+            "sched": 79.39
         }
     },
     "Northeast Nightmare (2027)": {
@@ -17023,6 +19851,20 @@
             "rating": 75.8,
             "agd": -3.66,
             "sched": 79.46
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 310,
+            "team": "Break-Thru (2027)",
+            "state": "SC",
+            "record": "2-6-1",
+            "wins": 2,
+            "losses": 6,
+            "ties": 1,
+            "rating": 75.72,
+            "agd": -3.66,
+            "sched": 79.38
         }
     },
     "Ville Lacrosse Club (2027)": {
@@ -17069,6 +19911,20 @@
             "rating": 86.17,
             "agd": -1.33,
             "sched": 87.5
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 132,
+            "team": "Westchester Warriors 2027",
+            "state": "NY",
+            "record": "2-4",
+            "wins": 2,
+            "losses": 4,
+            "ties": 0,
+            "rating": 86.29,
+            "agd": -1.33,
+            "sched": 87.62
         }
     },
     "Next Level Lacrosse White (2027)": {
@@ -17331,6 +20187,20 @@
             "rating": 76.73,
             "agd": -2.88,
             "sched": 79.61
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 299,
+            "team": "HGR Green (2027)",
+            "state": "MA",
+            "record": "4-5",
+            "wins": 4,
+            "losses": 5,
+            "ties": 0,
+            "rating": 76.66,
+            "agd": -2.88,
+            "sched": 79.54
         }
     },
     "Rockfish Neon (2027)": {
@@ -17403,6 +20273,20 @@
             "rating": 73.56,
             "agd": -7.55,
             "sched": 81.11
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 316,
+            "team": "Rockfish Neon (2027)",
+            "state": "MD",
+            "record": "1-8",
+            "wins": 1,
+            "losses": 8,
+            "ties": 0,
+            "rating": 73.4,
+            "agd": -7.55,
+            "sched": 80.95
         }
     },
     "Headstrong SJ (2027)": {
@@ -17475,6 +20359,20 @@
             "rating": 76.22,
             "agd": -3.62,
             "sched": 79.84
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 307,
+            "team": "Headstrong SJ (2027)",
+            "state": "NJ",
+            "record": "3-5",
+            "wins": 3,
+            "losses": 5,
+            "ties": 0,
+            "rating": 76.12,
+            "agd": -3.62,
+            "sched": 79.74
         }
     },
     "460 Lacrosse Black (2027)": {
@@ -17547,6 +20445,20 @@
             "rating": 85.83,
             "agd": 2.62,
             "sched": 83.21
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 142,
+            "team": "460 Lacrosse Black (2027)",
+            "state": "",
+            "record": "6-2",
+            "wins": 6,
+            "losses": 2,
+            "ties": 0,
+            "rating": 85.71,
+            "agd": 2.62,
+            "sched": 83.09
         }
     },
     "True VA Green (2027)": {
@@ -17635,6 +20547,20 @@
             "rating": 76.83,
             "agd": -1.16,
             "sched": 77.99
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 297,
+            "team": "Maineiax (2027)",
+            "state": "ME",
+            "record": "1-5",
+            "wins": 1,
+            "losses": 5,
+            "ties": 0,
+            "rating": 76.77,
+            "agd": -1.16,
+            "sched": 77.93
         }
     },
     "CT Wolves White Martens (2027)": {
@@ -17755,6 +20681,20 @@
             "rating": 79.33,
             "agd": -4,
             "sched": 83.33
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 272,
+            "team": "802 Lacrosse White (2027)",
+            "state": "VT",
+            "record": "2-4",
+            "wins": 2,
+            "losses": 4,
+            "ties": 0,
+            "rating": 79.26,
+            "agd": -4,
+            "sched": 83.26
         }
     },
     "MDX Red (2027)": {
@@ -17859,6 +20799,20 @@
             "rating": 74.1,
             "agd": -7,
             "sched": 81.1
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 315,
+            "team": "Houlagans Carolina (2027)",
+            "state": "NH",
+            "record": "1-8",
+            "wins": 1,
+            "losses": 8,
+            "ties": 0,
+            "rating": 74.03,
+            "agd": -7,
+            "sched": 81.03
         }
     },
     "Renegades/Blue Dogs 27/28\t": {
@@ -17933,6 +20887,20 @@
             "rating": 90.24,
             "agd": 5.83,
             "sched": 84.41
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 63,
+            "team": "941 Monsters 14U (2027)",
+            "state": "",
+            "record": "5-1",
+            "wins": 5,
+            "losses": 1,
+            "ties": 0,
+            "rating": 90.11,
+            "agd": 5.83,
+            "sched": 84.28
         }
     },
     "Laxachusetts Red (2027)": {
@@ -17991,6 +20959,20 @@
             "rating": 93.56,
             "agd": 9.5,
             "sched": 84.06
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 28,
+            "team": "Laxachusetts Red (2027)",
+            "state": "MA",
+            "record": "6-0",
+            "wins": 6,
+            "losses": 0,
+            "ties": 0,
+            "rating": 93.49,
+            "agd": 9.5,
+            "sched": 83.99
         }
     },
     "True Chesapeake (2027)": {
@@ -18049,6 +21031,20 @@
             "rating": 91.37,
             "agd": 1.81,
             "sched": 89.56
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 48,
+            "team": "True Chesapeake (2027)",
+            "state": "MD",
+            "record": "6-4-1",
+            "wins": 6,
+            "losses": 4,
+            "ties": 1,
+            "rating": 91.39,
+            "agd": 1.81,
+            "sched": 89.58
         }
     },
     "LI Express Channy Orange (2027)": {
@@ -18107,6 +21103,20 @@
             "rating": 91.55,
             "agd": 0.5,
             "sched": 91.05
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 44,
+            "team": "LI Express Channy Orange (2027)",
+            "state": "NY",
+            "record": "5-4-1",
+            "wins": 5,
+            "losses": 4,
+            "ties": 1,
+            "rating": 91.52,
+            "agd": 0.5,
+            "sched": 91.02
         }
     },
     "Red Hots Black (2027)": {
@@ -18165,6 +21175,20 @@
             "rating": 89.52,
             "agd": 4.54,
             "sched": 84.98
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 80,
+            "team": "Red Hots Black (2027)",
+            "state": "PA",
+            "record": "9-2",
+            "wins": 9,
+            "losses": 2,
+            "ties": 0,
+            "rating": 89.45,
+            "agd": 4.54,
+            "sched": 84.91
         }
     },
     "Littlenecks AA (2027)": {
@@ -18223,6 +21247,20 @@
             "rating": 90.43,
             "agd": 1.69,
             "sched": 88.74
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 58,
+            "team": "Littlenecks AA (2027)",
+            "state": "MA",
+            "record": "7-5-1",
+            "wins": 7,
+            "losses": 5,
+            "ties": 1,
+            "rating": 90.37,
+            "agd": 1.69,
+            "sched": 88.68
         }
     },
     "Riot Chaos (2027)": {
@@ -18281,6 +21319,20 @@
             "rating": 90.47,
             "agd": -0.14,
             "sched": 90.61
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 59,
+            "team": "Riot Chaos (2027)",
+            "state": "NJ",
+            "record": "2-4-1",
+            "wins": 2,
+            "losses": 4,
+            "ties": 1,
+            "rating": 90.34,
+            "agd": -0.14,
+            "sched": 90.48
         }
     },
     "PVAA Jaws (2027)": {
@@ -18339,6 +21391,20 @@
             "rating": 87.46,
             "agd": 3.66,
             "sched": 83.8
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 116,
+            "team": "PVAA Jaws (2027)",
+            "state": "FL",
+            "record": "13-4",
+            "wins": 13,
+            "losses": 4,
+            "ties": 0,
+            "rating": 87.08,
+            "agd": 3,
+            "sched": 84.08
         }
     },
     "True Raleigh (2027)": {
@@ -18397,6 +21463,20 @@
             "rating": 88.82,
             "agd": 6.37,
             "sched": 82.45
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 88,
+            "team": "True Raleigh (2027)",
+            "state": "NC",
+            "record": "8-0",
+            "wins": 8,
+            "losses": 0,
+            "ties": 0,
+            "rating": 88.73,
+            "agd": 6.37,
+            "sched": 82.36
         }
     },
     "Mad Dog National Gold (2027)": {
@@ -18455,6 +21535,20 @@
             "rating": 90.03,
             "agd": -2.3,
             "sched": 92.33
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 64,
+            "team": "Mad Dog National Gold (2027)",
+            "state": "",
+            "record": "4-6",
+            "wins": 4,
+            "losses": 6,
+            "ties": 0,
+            "rating": 90.07,
+            "agd": -2.3,
+            "sched": 92.37
         }
     },
     "DC Express Black (2027)": {
@@ -18502,6 +21596,20 @@
         },
         "2022-12-08": {
             "asOfDate": "2022-12-08",
+            "year": 2022,
+            "rank": 66,
+            "team": "DC Express Black (2027)",
+            "state": "DC",
+            "record": "0-9",
+            "wins": 0,
+            "losses": 9,
+            "ties": 0,
+            "rating": 90.03,
+            "agd": -5.44,
+            "sched": 95.47
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
             "year": 2022,
             "rank": 66,
             "team": "DC Express Black (2027)",
@@ -18571,6 +21679,20 @@
             "rating": 87.15,
             "agd": 6.28,
             "sched": 80.87
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 118,
+            "team": "ProStart (2027)",
+            "state": "MD",
+            "record": "7-0",
+            "wins": 7,
+            "losses": 0,
+            "ties": 0,
+            "rating": 87.05,
+            "agd": 6.28,
+            "sched": 80.77
         }
     },
     "Express East 27/28": {
@@ -18629,6 +21751,20 @@
             "rating": 87.95,
             "agd": 3.16,
             "sched": 84.79
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 100,
+            "team": "Express East 27/28",
+            "state": "",
+            "record": "4-2",
+            "wins": 4,
+            "losses": 2,
+            "ties": 0,
+            "rating": 87.83,
+            "agd": 3.16,
+            "sched": 84.67
         }
     },
     "Commonwealth Kings (2027/28)": {
@@ -18687,6 +21823,20 @@
             "rating": 83.89,
             "agd": 2.36,
             "sched": 81.53
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 176,
+            "team": "Commonwealth Kings (2027/28)",
+            "state": "KY",
+            "record": "7-3-1",
+            "wins": 7,
+            "losses": 3,
+            "ties": 1,
+            "rating": 83.86,
+            "agd": 2.36,
+            "sched": 81.5
         }
     },
     "Littlenecks A (2027)": {
@@ -18745,6 +21895,20 @@
             "rating": 87.17,
             "agd": 6.11,
             "sched": 81.06
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 114,
+            "team": "Littlenecks A (2027)",
+            "state": "MA",
+            "record": "8-0-1",
+            "wins": 8,
+            "losses": 0,
+            "ties": 1,
+            "rating": 87.1,
+            "agd": 6.11,
+            "sched": 80.99
         }
     },
     "TRUE LKN Outlaws (2027)": {
@@ -18803,6 +21967,20 @@
             "rating": 87.42,
             "agd": -0.75,
             "sched": 88.17
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 108,
+            "team": "TRUE LKN Outlaws (2027)",
+            "state": "NC",
+            "record": "2-4-2",
+            "wins": 2,
+            "losses": 4,
+            "ties": 2,
+            "rating": 87.37,
+            "agd": -0.75,
+            "sched": 88.12
         }
     },
     "True Baltimore Black (2027)": {
@@ -18861,6 +22039,20 @@
             "rating": 87.45,
             "agd": -0.71,
             "sched": 88.16
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 106,
+            "team": "True Baltimore Black (2027)",
+            "state": "MD",
+            "record": "4-3",
+            "wins": 4,
+            "losses": 3,
+            "ties": 0,
+            "rating": 87.39,
+            "agd": -0.71,
+            "sched": 88.1
         }
     },
     "Alpha MKE Gold (2027)": {
@@ -18919,6 +22111,20 @@
             "rating": 84.74,
             "agd": 0.77,
             "sched": 83.97
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 157,
+            "team": "Alpha MKE Gold (2027)",
+            "state": "WI",
+            "record": "5-3-1",
+            "wins": 5,
+            "losses": 3,
+            "ties": 1,
+            "rating": 84.79,
+            "agd": 0.77,
+            "sched": 84.02
         }
     },
     "2Way North Black (2027)": {
@@ -18977,6 +22183,20 @@
             "rating": 86.91,
             "agd": -1.28,
             "sched": 88.19
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 123,
+            "team": "2Way North Black (2027)",
+            "state": "CT",
+            "record": "3-3-1",
+            "wins": 3,
+            "losses": 3,
+            "ties": 1,
+            "rating": 86.85,
+            "agd": -1.28,
+            "sched": 88.13
         }
     },
     "Recon 2027 Jacobs": {
@@ -19035,6 +22255,20 @@
             "rating": 86.97,
             "agd": -4.66,
             "sched": 91.63
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 121,
+            "team": "Recon 2027 Jacobs",
+            "state": "NY",
+            "record": "3-6",
+            "wins": 3,
+            "losses": 6,
+            "ties": 0,
+            "rating": 86.89,
+            "agd": -4.66,
+            "sched": 91.55
         }
     },
     "S.O.U.L. - Rising Stars 27/28": {
@@ -19093,6 +22327,20 @@
             "rating": 83.31,
             "agd": 0.22,
             "sched": 83.09
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 184,
+            "team": "S.O.U.L. - Rising Stars 27/28",
+            "state": "",
+            "record": "5-3-1",
+            "wins": 5,
+            "losses": 3,
+            "ties": 1,
+            "rating": 83.28,
+            "agd": 0.22,
+            "sched": 83.06
         }
     },
     "Coastal Lacrosse Academy Orange (2027)": {
@@ -19151,6 +22399,20 @@
             "rating": 84.36,
             "agd": 2,
             "sched": 82.36
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 173,
+            "team": "Coastal Lacrosse Academy Orange (2027)",
+            "state": "DE",
+            "record": "4-3",
+            "wins": 4,
+            "losses": 3,
+            "ties": 0,
+            "rating": 84.09,
+            "agd": 2,
+            "sched": 82.09
         }
     },
     "Tampa Bayhawks (2027)": {
@@ -19209,6 +22471,20 @@
             "rating": 82.23,
             "agd": -2.62,
             "sched": 84.85
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 214,
+            "team": "Tampa Bayhawks (2027)",
+            "state": "",
+            "record": "3-5",
+            "wins": 3,
+            "losses": 5,
+            "ties": 0,
+            "rating": 82.04,
+            "agd": -2.62,
+            "sched": 84.66
         }
     },
     "Gorilla Lacrosse 27/28": {
@@ -19267,6 +22543,20 @@
             "rating": 84.13,
             "agd": 4.83,
             "sched": 79.3
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 174,
+            "team": "Gorilla Lacrosse 27/28",
+            "state": "MA",
+            "record": "4-2",
+            "wins": 4,
+            "losses": 2,
+            "ties": 0,
+            "rating": 83.97,
+            "agd": 4.83,
+            "sched": 79.14
         }
     },
     "Sarasota Seahawks (2027)": {
@@ -19325,6 +22615,20 @@
             "rating": 81.1,
             "agd": -1.5,
             "sched": 82.6
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 230,
+            "team": "Sarasota Seahawks (2027)",
+            "state": "FL",
+            "record": "2-6",
+            "wins": 2,
+            "losses": 6,
+            "ties": 0,
+            "rating": 80.92,
+            "agd": -1.5,
+            "sched": 82.42
         }
     },
     "Riot Mayhem (2027)": {
@@ -19383,6 +22687,20 @@
             "rating": 84.31,
             "agd": -0.16,
             "sched": 84.47
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 171,
+            "team": "Riot Mayhem (2027)",
+            "state": "NJ",
+            "record": "2-4",
+            "wins": 2,
+            "losses": 4,
+            "ties": 0,
+            "rating": 84.2,
+            "agd": -0.16,
+            "sched": 84.36
         }
     },
     "Brothers United U14 A (2027)": {
@@ -19441,6 +22759,20 @@
             "rating": 81.38,
             "agd": -0.87,
             "sched": 82.25
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 225,
+            "team": "Brothers United U14 A (2027)",
+            "state": "FL",
+            "record": "4-4",
+            "wins": 4,
+            "losses": 4,
+            "ties": 0,
+            "rating": 81.19,
+            "agd": -0.87,
+            "sched": 82.06
         }
     },
     "Team CT Devine (2027)": {
@@ -19499,6 +22831,20 @@
             "rating": 83.89,
             "agd": 0,
             "sched": 83.89
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 177,
+            "team": "Team CT Devine (2027)",
+            "state": "CT",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 83.83,
+            "agd": 0,
+            "sched": 83.83
         }
     },
     "Reapers (2027)": {
@@ -19557,6 +22903,20 @@
             "rating": 82.53,
             "agd": -1.5,
             "sched": 84.03
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 210,
+            "team": "Reapers (2027)",
+            "state": "",
+            "record": "3-5",
+            "wins": 3,
+            "losses": 5,
+            "ties": 0,
+            "rating": 82.42,
+            "agd": -1.5,
+            "sched": 83.92
         }
     },
     "Brothers United U14 B (2027)": {
@@ -19615,6 +22975,20 @@
             "rating": 80.13,
             "agd": -3,
             "sched": 83.13
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 254,
+            "team": "Brothers United U14 B (2027)",
+            "state": "FL",
+            "record": "1-6",
+            "wins": 1,
+            "losses": 6,
+            "ties": 0,
+            "rating": 79.82,
+            "agd": -3,
+            "sched": 82.82
         }
     },
     "Palms (2027)": {
@@ -19664,6 +23038,20 @@
             "asOfDate": "2022-12-08",
             "year": 2022,
             "rank": 284,
+            "team": "Palms (2027)",
+            "state": "",
+            "record": "4-6",
+            "wins": 4,
+            "losses": 6,
+            "ties": 0,
+            "rating": 77.65,
+            "agd": -4,
+            "sched": 81.65
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 288,
             "team": "Palms (2027)",
             "state": "",
             "record": "4-6",
@@ -19731,6 +23119,20 @@
             "rating": 83.2,
             "agd": -2.16,
             "sched": 85.36
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 186,
+            "team": "4 Leaf Orange (2027)",
+            "state": "NH",
+            "record": "1-5",
+            "wins": 1,
+            "losses": 5,
+            "ties": 0,
+            "rating": 83.14,
+            "agd": -2.16,
+            "sched": 85.3
         }
     },
     "MDLL Select 2027": {
@@ -19789,6 +23191,20 @@
             "rating": 82.05,
             "agd": -2.33,
             "sched": 84.38
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 215,
+            "team": "MDLL Select 2027",
+            "state": "MD",
+            "record": "2-7",
+            "wins": 2,
+            "losses": 7,
+            "ties": 0,
+            "rating": 81.95,
+            "agd": -2.33,
+            "sched": 84.28
         }
     },
     "Stickstar:Texas United (2027-28)": {
@@ -19847,6 +23263,20 @@
             "rating": 80.67,
             "agd": -4.66,
             "sched": 85.33
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 236,
+            "team": "Stickstar:Texas United (2027-28)",
+            "state": "TX",
+            "record": "0-8-1",
+            "wins": 0,
+            "losses": 8,
+            "ties": 1,
+            "rating": 80.47,
+            "agd": -4.66,
+            "sched": 85.13
         }
     },
     "Lions Lacrosse (2027)": {
@@ -19905,6 +23335,20 @@
             "rating": 80.09,
             "agd": -2.33,
             "sched": 82.42
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 255,
+            "team": "Lions Lacrosse (2027)",
+            "state": "",
+            "record": "2-4",
+            "wins": 2,
+            "losses": 4,
+            "ties": 0,
+            "rating": 79.82,
+            "agd": -2.33,
+            "sched": 82.15
         }
     },
     "Sarpy Knights (2027)": {
@@ -19963,6 +23407,20 @@
             "rating": 80.4,
             "agd": 2,
             "sched": 78.4
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 244,
+            "team": "Sarpy Knights (2027)",
+            "state": "NE",
+            "record": "4-2",
+            "wins": 4,
+            "losses": 2,
+            "ties": 0,
+            "rating": 80.25,
+            "agd": 2,
+            "sched": 78.25
         }
     },
     "Riot North (2027/28)": {
@@ -20021,6 +23479,20 @@
             "rating": 81.59,
             "agd": -0.83,
             "sched": 82.42
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 221,
+            "team": "Riot North (2027/28)",
+            "state": "NY",
+            "record": "1-4-1",
+            "wins": 1,
+            "losses": 4,
+            "ties": 1,
+            "rating": 81.5,
+            "agd": -0.83,
+            "sched": 82.33
         }
     },
     "Apprentice Athletics Hoff (2027)": {
@@ -20079,6 +23551,20 @@
             "rating": 79.76,
             "agd": -4.27,
             "sched": 84.03
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 261,
+            "team": "Apprentice Athletics Hoff (2027)",
+            "state": "FL",
+            "record": "3-8",
+            "wins": 3,
+            "losses": 8,
+            "ties": 0,
+            "rating": 79.56,
+            "agd": -4.27,
+            "sched": 83.83
         }
     },
     "LI Express Channy Black (2027)": {
@@ -20137,6 +23623,20 @@
             "rating": 84.48,
             "agd": -0.53,
             "sched": 85.01
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 167,
+            "team": "LI Express Channy Black (2027)",
+            "state": "NY",
+            "record": "7-6",
+            "wins": 7,
+            "losses": 6,
+            "ties": 0,
+            "rating": 84.39,
+            "agd": -0.53,
+            "sched": 84.92
         }
     },
     "Lansing Gladiators (2027)": {
@@ -20195,6 +23695,20 @@
             "rating": 79.47,
             "agd": -3.83,
             "sched": 83.3
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 271,
+            "team": "Lansing Gladiators (2027)",
+            "state": "MI",
+            "record": "1-5",
+            "wins": 1,
+            "losses": 5,
+            "ties": 0,
+            "rating": 79.41,
+            "agd": -3.83,
+            "sched": 83.24
         }
     },
     "Penguins Lacrosse (2027)": {
@@ -20253,6 +23767,20 @@
             "rating": 81.46,
             "agd": 1.58,
             "sched": 79.88
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 222,
+            "team": "Penguins Lacrosse (2027)",
+            "state": "MA",
+            "record": "8-4",
+            "wins": 8,
+            "losses": 4,
+            "ties": 0,
+            "rating": 81.39,
+            "agd": 1.58,
+            "sched": 79.81
         }
     },
     "BlackJack (2027)": {
@@ -20311,6 +23839,20 @@
             "rating": 79.48,
             "agd": -8.16,
             "sched": 87.64
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 268,
+            "team": "BlackJack (2027)",
+            "state": "OH",
+            "record": "0-6",
+            "wins": 0,
+            "losses": 6,
+            "ties": 0,
+            "rating": 79.44,
+            "agd": -8.16,
+            "sched": 87.6
         }
     },
     "Florida Elite (2027)": {
@@ -20369,6 +23911,20 @@
             "rating": 78.87,
             "agd": -4.37,
             "sched": 83.24
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 281,
+            "team": "Florida Elite (2027)",
+            "state": "FL",
+            "record": "4-8",
+            "wins": 4,
+            "losses": 8,
+            "ties": 0,
+            "rating": 78.61,
+            "agd": -2.83,
+            "sched": 81.44
         }
     },
     "DC Express Orange (2027)": {
@@ -20427,6 +23983,20 @@
             "rating": 80.43,
             "agd": -3,
             "sched": 83.43
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 240,
+            "team": "DC Express Orange (2027)",
+            "state": "DC",
+            "record": "3-6",
+            "wins": 3,
+            "losses": 6,
+            "ties": 0,
+            "rating": 80.32,
+            "agd": -3,
+            "sched": 83.32
         }
     },
     "NH Tomahawks Gold (2027)": {
@@ -20485,6 +24055,20 @@
             "rating": 81.35,
             "agd": -2.22,
             "sched": 83.57
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 224,
+            "team": "NH Tomahawks Gold (2027)",
+            "state": "NH",
+            "record": "2-7",
+            "wins": 2,
+            "losses": 7,
+            "ties": 0,
+            "rating": 81.29,
+            "agd": -2.22,
+            "sched": 83.51
         }
     },
     "Rebels LC Maryland North Stars (2027)": {
@@ -20543,6 +24127,20 @@
             "rating": 80.58,
             "agd": -2.44,
             "sched": 83.02
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 235,
+            "team": "Rebels LC Maryland North Stars (2027)",
+            "state": "MD",
+            "record": "4-5",
+            "wins": 4,
+            "losses": 5,
+            "ties": 0,
+            "rating": 80.5,
+            "agd": -2.44,
+            "sched": 82.94
         }
     },
     "Lightning JV (2027)": {
@@ -20601,6 +24199,20 @@
             "rating": 79.15,
             "agd": -4.42,
             "sched": 83.57
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 274,
+            "team": "Lightning JV (2027)",
+            "state": "",
+            "record": "1-6",
+            "wins": 1,
+            "losses": 6,
+            "ties": 0,
+            "rating": 79.08,
+            "agd": -4.42,
+            "sched": 83.5
         }
     },
     "2Way North Gold (2027)": {
@@ -20659,6 +24271,20 @@
             "rating": 80.45,
             "agd": 0.83,
             "sched": 79.62
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 238,
+            "team": "2Way North Gold (2027)",
+            "state": "CT",
+            "record": "4-2",
+            "wins": 4,
+            "losses": 2,
+            "ties": 0,
+            "rating": 80.38,
+            "agd": 0.83,
+            "sched": 79.55
         }
     },
     "Philadelphia Freedom White (2027/28)": {
@@ -20717,6 +24343,20 @@
             "rating": 79.76,
             "agd": -1.5,
             "sched": 81.26
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 260,
+            "team": "Philadelphia Freedom White (2027/28)",
+            "state": "PA",
+            "record": "3-5-2",
+            "wins": 3,
+            "losses": 5,
+            "ties": 2,
+            "rating": 79.61,
+            "agd": -1.5,
+            "sched": 81.11
         }
     },
     "Brotherly Love Spartan (2027)": {
@@ -20775,6 +24415,20 @@
             "rating": 80.07,
             "agd": 0,
             "sched": 80.07
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 252,
+            "team": "Brotherly Love Spartan (2027)",
+            "state": "PA",
+            "record": "3-3",
+            "wins": 3,
+            "losses": 3,
+            "ties": 0,
+            "rating": 79.95,
+            "agd": 0,
+            "sched": 79.95
         }
     },
     "Riverwood Raiders (2027)": {
@@ -20833,6 +24487,20 @@
             "rating": 80.32,
             "agd": -2.66,
             "sched": 82.98
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 239,
+            "team": "Riverwood Raiders (2027)",
+            "state": "",
+            "record": "1-5",
+            "wins": 1,
+            "losses": 5,
+            "ties": 0,
+            "rating": 80.35,
+            "agd": -2.66,
+            "sched": 83.01
         }
     },
     "Brotherly Love Chaos (2027)": {
@@ -20891,6 +24559,20 @@
             "rating": 78.54,
             "agd": -0.28,
             "sched": 78.82
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 283,
+            "team": "Brotherly Love Chaos (2027)",
+            "state": "PA",
+            "record": "3-3-1",
+            "wins": 3,
+            "losses": 3,
+            "ties": 1,
+            "rating": 78.39,
+            "agd": -0.28,
+            "sched": 78.67
         }
     },
     "Blue Star Navy (2027)": {
@@ -20949,6 +24631,20 @@
             "rating": 78.33,
             "agd": -6,
             "sched": 84.33
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 286,
+            "team": "Blue Star Navy (2027)",
+            "state": "NJ",
+            "record": "0-6-1",
+            "wins": 0,
+            "losses": 6,
+            "ties": 1,
+            "rating": 78.24,
+            "agd": -6,
+            "sched": 84.24
         }
     },
     "PLC White (2027)": {
@@ -21007,6 +24703,20 @@
             "rating": 79.59,
             "agd": 0.42,
             "sched": 79.17
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 265,
+            "team": "PLC White (2027)",
+            "state": "MA",
+            "record": "4-3",
+            "wins": 4,
+            "losses": 3,
+            "ties": 0,
+            "rating": 79.53,
+            "agd": 0.42,
+            "sched": 79.11
         }
     },
     "Team Carolina Select 27/28\t": {
@@ -21065,6 +24775,20 @@
             "rating": 76.56,
             "agd": -7.54,
             "sched": 84.1
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 305,
+            "team": "Team Carolina Select 27/28\t",
+            "state": "NC",
+            "record": "0-10-1",
+            "wins": 0,
+            "losses": 10,
+            "ties": 1,
+            "rating": 76.48,
+            "agd": -7.54,
+            "sched": 84.02
         }
     },
     "True FXBG Green (2027)": {
@@ -21123,6 +24847,20 @@
             "rating": 78.21,
             "agd": -5.16,
             "sched": 83.37
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 287,
+            "team": "True FXBG Green (2027)",
+            "state": "VA",
+            "record": "0-6",
+            "wins": 0,
+            "losses": 6,
+            "ties": 0,
+            "rating": 78.13,
+            "agd": -5.16,
+            "sched": 83.29
         }
     },
     "Tidewater Patriots 27/28": {
@@ -21181,6 +24919,20 @@
             "rating": 76.58,
             "agd": -6,
             "sched": 82.58
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 306,
+            "team": "Tidewater Patriots 27/28",
+            "state": "VA",
+            "record": "2-6",
+            "wins": 2,
+            "losses": 6,
+            "ties": 0,
+            "rating": 76.45,
+            "agd": -6,
+            "sched": 82.45
         }
     },
     "Admirals 27/28": {
@@ -21239,6 +24991,20 @@
             "rating": 76.67,
             "agd": -4.5,
             "sched": 81.17
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 302,
+            "team": "Admirals 27/28",
+            "state": "",
+            "record": "2-4",
+            "wins": 2,
+            "losses": 4,
+            "ties": 0,
+            "rating": 76.53,
+            "agd": -4.5,
+            "sched": 81.03
         }
     },
     "True Westchester (2027)": {
@@ -21297,6 +25063,20 @@
             "rating": 76.77,
             "agd": -3.75,
             "sched": 80.52
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 298,
+            "team": "True Westchester (2027)",
+            "state": "NY",
+            "record": "0-11-1",
+            "wins": 0,
+            "losses": 11,
+            "ties": 1,
+            "rating": 76.67,
+            "agd": -3.75,
+            "sched": 80.42
         }
     },
     "Coastal Lacrosse Academy Teal (2027)": {
@@ -21355,6 +25135,20 @@
             "rating": 76.25,
             "agd": -6.83,
             "sched": 83.08
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 308,
+            "team": "Coastal Lacrosse Academy Teal (2027)",
+            "state": "DE",
+            "record": "0-6",
+            "wins": 0,
+            "losses": 6,
+            "ties": 0,
+            "rating": 76.11,
+            "agd": -6.83,
+            "sched": 82.94
         }
     },
     "Sweetlax RiverHawks 27/28": {
@@ -21413,6 +25207,20 @@
             "rating": 76.54,
             "agd": -5.45,
             "sched": 81.99
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 304,
+            "team": "Sweetlax RiverHawks 27/28",
+            "state": "SC",
+            "record": "1-10",
+            "wins": 1,
+            "losses": 10,
+            "ties": 0,
+            "rating": 76.48,
+            "agd": -5.45,
+            "sched": 81.93
         }
     },
     "NJLT (2027)": {
@@ -21471,6 +25279,20 @@
             "rating": 74.58,
             "agd": -2.5,
             "sched": 77.08
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 314,
+            "team": "NJLT (2027)",
+            "state": "NJ",
+            "record": "1-4-1",
+            "wins": 1,
+            "losses": 4,
+            "ties": 1,
+            "rating": 74.48,
+            "agd": -2.5,
+            "sched": 76.98
         }
     },
     "LA Berserkers Silver (2027/28)": {
@@ -21529,6 +25351,20 @@
             "rating": 81.75,
             "agd": 0.5,
             "sched": 81.25
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 218,
+            "team": "LA Berserkers Silver (2027/28)",
+            "state": "CA",
+            "record": "5-5",
+            "wins": 5,
+            "losses": 5,
+            "ties": 0,
+            "rating": 81.72,
+            "agd": 0.5,
+            "sched": 81.22
         }
     },
     "Trailblazers Black (2027)": {
@@ -21587,6 +25423,20 @@
             "rating": 89.82,
             "agd": 1.4,
             "sched": 88.42
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 71,
+            "team": "Trailblazers Black (2027)",
+            "state": "CA",
+            "record": "6-4",
+            "wins": 6,
+            "losses": 4,
+            "ties": 0,
+            "rating": 89.94,
+            "agd": 1.4,
+            "sched": 88.54
         }
     },
     "Legacy Georgia (2027)": {
@@ -21631,6 +25481,20 @@
             "rating": 85.11,
             "agd": 2,
             "sched": 83.11
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 151,
+            "team": "Legacy Georgia (2027)",
+            "state": "VA",
+            "record": "9-5",
+            "wins": 9,
+            "losses": 5,
+            "ties": 0,
+            "rating": 85.21,
+            "agd": 2,
+            "sched": 83.21
         }
     },
     "True Upstate Green (2027)": {
@@ -21675,6 +25539,20 @@
             "rating": 86.75,
             "agd": -0.12,
             "sched": 86.87
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 126,
+            "team": "True Upstate Green (2027)",
+            "state": "PA",
+            "record": "4-4",
+            "wins": 4,
+            "losses": 4,
+            "ties": 0,
+            "rating": 86.69,
+            "agd": -0.12,
+            "sched": 86.81
         }
     },
     "Team 91 Charlotte White (2027)": {
@@ -21719,6 +25597,20 @@
             "rating": 84.81,
             "agd": 2.9,
             "sched": 81.91
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 159,
+            "team": "Team 91 Charlotte White (2027)",
+            "state": "NC",
+            "record": "6-4",
+            "wins": 6,
+            "losses": 4,
+            "ties": 0,
+            "rating": 84.75,
+            "agd": 2.9,
+            "sched": 81.85
         }
     },
     "THUNDER WHITE (2027)": {
@@ -21763,6 +25655,20 @@
             "rating": 84.86,
             "agd": 0,
             "sched": 84.86
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 158,
+            "team": "THUNDER WHITE (2027)",
+            "state": "GA",
+            "record": "4-6",
+            "wins": 4,
+            "losses": 6,
+            "ties": 0,
+            "rating": 84.78,
+            "agd": 0,
+            "sched": 84.78
         }
     },
     "ADVNC Bay Area A (2027)": {
@@ -21807,6 +25713,20 @@
             "rating": 86.2,
             "agd": -2,
             "sched": 88.2
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 133,
+            "team": "ADVNC Bay Area A (2027)",
+            "state": "CA",
+            "record": "4-6",
+            "wins": 4,
+            "losses": 6,
+            "ties": 0,
+            "rating": 86.28,
+            "agd": -2,
+            "sched": 88.28
         }
     },
     "True Charlotte (2027)": {
@@ -21851,6 +25771,20 @@
             "rating": 81.82,
             "agd": 0.44,
             "sched": 81.38
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 217,
+            "team": "True Charlotte (2027)",
+            "state": "NC",
+            "record": "4-5",
+            "wins": 4,
+            "losses": 5,
+            "ties": 0,
+            "rating": 81.75,
+            "agd": 0.44,
+            "sched": 81.31
         }
     },
     "Fusion Blue (2027)": {
@@ -21895,6 +25829,20 @@
             "rating": 80.48,
             "agd": -2.14,
             "sched": 82.62
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 237,
+            "team": "Fusion Blue (2027)",
+            "state": "VA",
+            "record": "3-4",
+            "wins": 3,
+            "losses": 4,
+            "ties": 0,
+            "rating": 80.4,
+            "agd": -2.14,
+            "sched": 82.54
         }
     },
     "Rebels LC National (2027)": {
@@ -21939,6 +25887,20 @@
             "rating": 82.3,
             "agd": -9,
             "sched": 91.3
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 211,
+            "team": "Rebels LC National (2027)",
+            "state": "XX",
+            "record": "0-9",
+            "wins": 0,
+            "losses": 9,
+            "ties": 0,
+            "rating": 82.29,
+            "agd": -9,
+            "sched": 91.29
         }
     },
     "Hermiston Muddogs (2027)": {
@@ -21983,6 +25945,20 @@
             "rating": 80.5,
             "agd": -0.45,
             "sched": 80.95
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 243,
+            "team": "Hermiston Muddogs (2027)",
+            "state": "",
+            "record": "6-5",
+            "wins": 6,
+            "losses": 5,
+            "ties": 0,
+            "rating": 80.28,
+            "agd": -0.45,
+            "sched": 80.73
         }
     },
     "Thunder Rumble (2027)": {
@@ -22027,6 +26003,20 @@
             "rating": 76.82,
             "agd": -3,
             "sched": 79.82
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 296,
+            "team": "Thunder Rumble (2027)",
+            "state": "",
+            "record": "2-6-1",
+            "wins": 2,
+            "losses": 6,
+            "ties": 1,
+            "rating": 76.92,
+            "agd": -3,
+            "sched": 79.92
         }
     },
     "Dragons NLC (2027)": {
@@ -22071,6 +26061,20 @@
             "rating": 79.78,
             "agd": -5.5,
             "sched": 85.28
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 259,
+            "team": "Dragons NLC (2027)",
+            "state": "CT",
+            "record": "1-5",
+            "wins": 1,
+            "losses": 5,
+            "ties": 0,
+            "rating": 79.68,
+            "agd": -5.5,
+            "sched": 85.18
         }
     },
     "Washington United Lax (2027)": {
@@ -22131,6 +26135,20 @@
             "rating": 78.71,
             "agd": -7.42,
             "sched": 86.13
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 280,
+            "team": "True Upstate Black (2027)",
+            "state": "PA",
+            "record": "1-6",
+            "wins": 1,
+            "losses": 6,
+            "ties": 0,
+            "rating": 78.65,
+            "agd": -7.42,
+            "sched": 86.07
         }
     },
     "PNW Select 7/8": {
@@ -22175,6 +26193,20 @@
             "rating": 75.71,
             "agd": -5.5,
             "sched": 81.21
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 312,
+            "team": "PNW Select 7/8",
+            "state": "",
+            "record": "1-11",
+            "wins": 1,
+            "losses": 11,
+            "ties": 0,
+            "rating": 75.24,
+            "agd": -5.5,
+            "sched": 80.74
         }
     },
     "Brotherly Love Achilles (2027)": {
@@ -22205,6 +26237,20 @@
             "rating": 89.05,
             "agd": -0.14,
             "sched": 89.19
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 84,
+            "team": "Brotherly Love Achilles (2027)",
+            "state": "PA",
+            "record": "3-4",
+            "wins": 3,
+            "losses": 4,
+            "ties": 0,
+            "rating": 89.02,
+            "agd": -0.14,
+            "sched": 89.16
         }
     },
     "Express White 27/28": {
@@ -22235,6 +26281,20 @@
             "rating": 83.85,
             "agd": 1.3,
             "sched": 82.55
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 178,
+            "team": "Express White 27/28",
+            "state": "GA",
+            "record": "7-3",
+            "wins": 7,
+            "losses": 3,
+            "ties": 0,
+            "rating": 83.8,
+            "agd": 1.3,
+            "sched": 82.5
         }
     },
     "Rise Lacrosse Club Pennsylvania": {
@@ -22265,6 +26325,20 @@
             "rating": 83.19,
             "agd": 2.83,
             "sched": 80.36
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 187,
+            "team": "Rise Lacrosse Club Pennsylvania",
+            "state": "PA",
+            "record": "4-2",
+            "wins": 4,
+            "losses": 2,
+            "ties": 0,
+            "rating": 83.1,
+            "agd": 2.83,
+            "sched": 80.27
         }
     },
     "ADVNC East Bay 12U (2027/28)": {
@@ -22295,6 +26369,20 @@
             "rating": 84.68,
             "agd": -1.4,
             "sched": 86.08
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 156,
+            "team": "ADVNC East Bay 12U (2027/28)",
+            "state": "CA",
+            "record": "4-6",
+            "wins": 4,
+            "losses": 6,
+            "ties": 0,
+            "rating": 84.83,
+            "agd": -1.4,
+            "sched": 86.23
         }
     },
     "LI Rebels East Badgers (2027)": {
@@ -22325,6 +26413,20 @@
             "rating": 81.47,
             "agd": -0.14,
             "sched": 81.61
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 223,
+            "team": "LI Rebels East Badgers (2027)",
+            "state": "NY",
+            "record": "4-3",
+            "wins": 4,
+            "losses": 3,
+            "ties": 0,
+            "rating": 81.37,
+            "agd": -0.14,
+            "sched": 81.51
         }
     },
     "Team 91 GA MS (2027/28)": {
@@ -22355,6 +26457,20 @@
             "rating": 79.43,
             "agd": -1.7,
             "sched": 81.13
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 266,
+            "team": "Team 91 GA MS (2027/28)",
+            "state": "GA",
+            "record": "5-5",
+            "wins": 5,
+            "losses": 5,
+            "ties": 0,
+            "rating": 79.53,
+            "agd": -1.7,
+            "sched": 81.23
         }
     },
     "Washington United Lax Red (2027)": {
@@ -22385,6 +26501,20 @@
             "rating": 79.6,
             "agd": -0.31,
             "sched": 79.91
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 269,
+            "team": "Washington United Lax Red (2027)",
+            "state": "WA",
+            "record": "7-9",
+            "wins": 7,
+            "losses": 9,
+            "ties": 0,
+            "rating": 79.43,
+            "agd": -0.31,
+            "sched": 79.74
         }
     },
     "Issaquah Gold (2027)": {
@@ -22415,6 +26545,20 @@
             "rating": 79.23,
             "agd": -1.11,
             "sched": 80.34
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 276,
+            "team": "Issaquah Gold (2027)",
+            "state": "",
+            "record": "3-4-2",
+            "wins": 3,
+            "losses": 4,
+            "ties": 2,
+            "rating": 79.01,
+            "agd": -1.11,
+            "sched": 80.12
         }
     },
     "BullSharks Limitless LX (2027)": {
@@ -22445,6 +26589,20 @@
             "rating": 77.66,
             "agd": 0.83,
             "sched": 76.83
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 289,
+            "team": "BullSharks Limitless LX (2027)",
+            "state": "",
+            "record": "2-3-1",
+            "wins": 2,
+            "losses": 3,
+            "ties": 1,
+            "rating": 77.48,
+            "agd": 0.83,
+            "sched": 76.65
         }
     },
     "Lizards 27/28": {
@@ -22475,6 +26633,20 @@
             "rating": 79.92,
             "agd": -1.83,
             "sched": 81.75
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 250,
+            "team": "Lizards 27/28",
+            "state": "",
+            "record": "2-3-1",
+            "wins": 2,
+            "losses": 3,
+            "ties": 1,
+            "rating": 80.07,
+            "agd": -1.83,
+            "sched": 81.9
         }
     },
     "Next Level NW (2027)": {
@@ -22505,6 +26677,20 @@
             "rating": 69.91,
             "agd": -9.66,
             "sched": 79.57
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 318,
+            "team": "Next Level NW (2027)",
+            "state": "WA",
+            "record": "0-6",
+            "wins": 0,
+            "losses": 6,
+            "ties": 0,
+            "rating": 69.77,
+            "agd": -9.66,
+            "sched": 79.43
         }
     },
     "Dusters (2027)": {
@@ -22521,6 +26707,20 @@
             "rating": 93.23,
             "agd": 2.33,
             "sched": 90.9
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 31,
+            "team": "Dusters (2027)",
+            "state": "",
+            "record": "5-1",
+            "wins": 5,
+            "losses": 1,
+            "ties": 0,
+            "rating": 93.3,
+            "agd": 2.33,
+            "sched": 90.97
         }
     },
     "True TX Black (2027)": {
@@ -22537,6 +26737,20 @@
             "rating": 91.54,
             "agd": 2,
             "sched": 89.54
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 41,
+            "team": "True TX Black (2027)",
+            "state": "",
+            "record": "10-3-1",
+            "wins": 10,
+            "losses": 3,
+            "ties": 1,
+            "rating": 91.72,
+            "agd": 3.71,
+            "sched": 88.01
         }
     },
     "SoCal Express 27/28": {
@@ -22553,6 +26767,20 @@
             "rating": 87.25,
             "agd": -0.2,
             "sched": 87.45
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 107,
+            "team": "SoCal Express 27/28",
+            "state": "CA",
+            "record": "5-5",
+            "wins": 5,
+            "losses": 5,
+            "ties": 0,
+            "rating": 87.38,
+            "agd": -0.2,
+            "sched": 87.58
         }
     },
     "Tampa Tarpons (2027)": {
@@ -22569,6 +26797,20 @@
             "rating": 86.3,
             "agd": 2,
             "sched": 84.3
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 128,
+            "team": "Tampa Tarpons (2027)",
+            "state": "FL",
+            "record": "5-3",
+            "wins": 5,
+            "losses": 3,
+            "ties": 0,
+            "rating": 86.41,
+            "agd": 2,
+            "sched": 84.41
         }
     },
     "Bombers (2027)": {
@@ -22585,6 +26827,20 @@
             "rating": 83.84,
             "agd": 3.6,
             "sched": 80.24
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 180,
+            "team": "Bombers (2027)",
+            "state": "",
+            "record": "8-2",
+            "wins": 8,
+            "losses": 2,
+            "ties": 0,
+            "rating": 83.62,
+            "agd": 3.6,
+            "sched": 80.02
         }
     },
     "Mt. Si 7/8 (2027)": {
@@ -22601,6 +26857,20 @@
             "rating": 82.86,
             "agd": 2.77,
             "sched": 80.09
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 203,
+            "team": "Mt. Si 7/8 (2027)",
+            "state": "WA",
+            "record": "6-3",
+            "wins": 6,
+            "losses": 3,
+            "ties": 0,
+            "rating": 82.61,
+            "agd": 2.77,
+            "sched": 79.84
         }
     },
     "Vegas Starz (2027)": {
@@ -22617,6 +26887,20 @@
             "rating": 82.46,
             "agd": -1.9,
             "sched": 84.36
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 204,
+            "team": "Vegas Starz (2027)",
+            "state": "NV",
+            "record": "3-6-1",
+            "wins": 3,
+            "losses": 6,
+            "ties": 1,
+            "rating": 82.61,
+            "agd": -1.9,
+            "sched": 84.51
         }
     },
     "Lax NW Rippers (2027)": {
@@ -22633,6 +26917,20 @@
             "rating": 81.94,
             "agd": 0.11,
             "sched": 81.83
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 216,
+            "team": "Lax NW Rippers (2027)",
+            "state": "OR",
+            "record": "5-4",
+            "wins": 5,
+            "losses": 4,
+            "ties": 0,
+            "rating": 81.75,
+            "agd": 0.11,
+            "sched": 81.64
         }
     },
     "Bellevue 78 (2025/26)": {
@@ -22649,6 +26947,20 @@
             "rating": 80.38,
             "agd": 1.16,
             "sched": 79.22
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 245,
+            "team": "Bellevue 78 (2025/26)",
+            "state": "WA",
+            "record": "2-4",
+            "wins": 2,
+            "losses": 4,
+            "ties": 0,
+            "rating": 80.2,
+            "agd": 1.16,
+            "sched": 79.04
         }
     },
     "LiCi Lax 27/28": {
@@ -22665,6 +26977,20 @@
             "rating": 79.79,
             "agd": -1.71,
             "sched": 81.5
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 263,
+            "team": "LiCi Lax 27/28",
+            "state": "",
+            "record": "3-4",
+            "wins": 3,
+            "losses": 4,
+            "ties": 0,
+            "rating": 79.56,
+            "agd": -1.71,
+            "sched": 81.27
         }
     },
     "Trailblazers Red (2027)": {
@@ -22681,6 +27007,20 @@
             "rating": 79.5,
             "agd": -3.7,
             "sched": 83.2
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 264,
+            "team": "Trailblazers Red (2027)",
+            "state": "CA",
+            "record": "3-6-1",
+            "wins": 3,
+            "losses": 6,
+            "ties": 1,
+            "rating": 79.55,
+            "agd": -3.7,
+            "sched": 83.25
         }
     },
     "True TX Green 27/28": {
@@ -22697,6 +27037,20 @@
             "rating": 78.65,
             "agd": -5.77,
             "sched": 84.42
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 275,
+            "team": "True TX Green 27/28",
+            "state": "",
+            "record": "1-12",
+            "wins": 1,
+            "losses": 12,
+            "ties": 0,
+            "rating": 79.02,
+            "agd": -5.3,
+            "sched": 84.32
         }
     },
     "Pivotal 27/28": {
@@ -22713,6 +27067,20 @@
             "rating": 78.52,
             "agd": -6.42,
             "sched": 84.94
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 311,
+            "team": "Pivotal 27/28",
+            "state": "",
+            "record": "1-5",
+            "wins": 1,
+            "losses": 5,
+            "ties": 0,
+            "rating": 75.66,
+            "agd": -7.66,
+            "sched": 83.32
         }
     },
     "Mercer Island 27/28": {
@@ -22729,6 +27097,100 @@
             "rating": 77.39,
             "agd": -5.11,
             "sched": 82.5
+        },
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 292,
+            "team": "Mercer Island 27/28",
+            "state": "WA",
+            "record": "2-7",
+            "wins": 2,
+            "losses": 7,
+            "ties": 0,
+            "rating": 77.3,
+            "agd": -5.11,
+            "sched": 82.41
+        }
+    },
+    "Otters (2027)": {
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 78,
+            "team": "Otters (2027)",
+            "state": "",
+            "record": "7-1",
+            "wins": 7,
+            "losses": 1,
+            "ties": 0,
+            "rating": 89.48,
+            "agd": 4,
+            "sched": 85.48
+        }
+    },
+    "Old Bay FL LC (2025)": {
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 182,
+            "team": "Old Bay FL LC (2025)",
+            "state": "FL",
+            "record": "3-5",
+            "wins": 3,
+            "losses": 5,
+            "ties": 0,
+            "rating": 83.39,
+            "agd": -0.25,
+            "sched": 83.64
+        }
+    },
+    "True Florida Regional (2027)": {
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 233,
+            "team": "True Florida Regional (2027)",
+            "state": "FL",
+            "record": "2-5",
+            "wins": 2,
+            "losses": 5,
+            "ties": 0,
+            "rating": 80.71,
+            "agd": -2.57,
+            "sched": 83.28
+        }
+    },
+    "Mission Lacrosse Club TX (2027)": {
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 251,
+            "team": "Mission Lacrosse Club TX (2027)",
+            "state": "TX",
+            "record": "3-5",
+            "wins": 3,
+            "losses": 5,
+            "ties": 0,
+            "rating": 80.01,
+            "agd": -2.37,
+            "sched": 82.38
+        }
+    },
+    "Sacramento ACES (2027)": {
+        "2022-12-16": {
+            "asOfDate": "2022-12-16",
+            "year": 2022,
+            "rank": 267,
+            "team": "Sacramento ACES (2027)",
+            "state": "CA",
+            "record": "3-4",
+            "wins": 3,
+            "losses": 4,
+            "ties": 0,
+            "rating": 79.52,
+            "agd": 0,
+            "sched": 79.52
         }
     }
 }
