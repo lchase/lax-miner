@@ -9,7 +9,7 @@ import loggerMiddleware from './api/middlewares/logger.middleware';
 import { generateToken } from './api/utils/jwt.utils';
 
 const app = express();
-const port = 3000;
+const port = 4000;
 
 if (process.env.NODE_ENV !== 'production') {
   logger.info(generateToken());
